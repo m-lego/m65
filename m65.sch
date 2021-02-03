@@ -2282,7 +2282,7 @@ F 3 "~" H 9550 2350 50  0001 C CNN
 	1    9550 2350
 	1    0    0    -1  
 $EndComp
-Text GLabel 3100 4250 1    50   BiDi ~ 0
+Text GLabel 3400 4250 1    50   BiDi ~ 0
 c8
 $Comp
 L m78:BlackPillSTM32FXXX U1
@@ -2309,11 +2309,11 @@ Text GLabel 4700 4250 1    50   BiDi ~ 0
 f90
 Text GLabel 4600 4250 1    50   BiDi ~ 0
 cpp
-Text GLabel 3200 4250 1    50   BiDi ~ 0
-c7
 Text GLabel 3300 4250 1    50   BiDi ~ 0
+c7
+Text GLabel 3200 4250 1    50   BiDi ~ 0
 c6
-Text GLabel 3400 4250 1    50   BiDi ~ 0
+Text GLabel 3100 4250 1    50   BiDi ~ 0
 c5
 Text GLabel 3500 4250 1    50   BiDi ~ 0
 c4
@@ -2367,7 +2367,7 @@ U 1 1 6065A7CA
 P 1200 6750
 F 0 "H3" H 1300 6796 50  0000 L CNN
 F 1 "MountingHole" H 1300 6705 50  0000 L CNN
-F 2 "m65:LegoHole_4.8mm" H 1200 6750 50  0001 C CNN
+F 2 "m65:LegoHole_1u" H 1200 6750 50  0001 C CNN
 F 3 "~" H 1200 6750 50  0001 C CNN
 	1    1200 6750
 	1    0    0    -1  
@@ -2400,7 +2400,7 @@ U 1 1 60217172
 P 5450 4900
 F 0 "H4" H 5550 4949 50  0000 L CNN
 F 1 "MountingHole_Pad" H 5550 4858 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 5450 4900 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 5450 4900 50  0001 C CNN
 F 3 "~" H 5450 4900 50  0001 C CNN
 	1    5450 4900
 	1    0    0    -1  
@@ -2411,7 +2411,7 @@ U 1 1 6021948D
 P 5450 4600
 F 0 "H2" H 5550 4649 50  0000 L CNN
 F 1 "MountingHole_Pad" H 5550 4558 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 5450 4600 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 5450 4600 50  0001 C CNN
 F 3 "~" H 5450 4600 50  0001 C CNN
 	1    5450 4600
 	1    0    0    -1  
@@ -2422,7 +2422,7 @@ U 1 1 6021A3D1
 P 5800 4600
 F 0 "H6" H 5900 4649 50  0000 L CNN
 F 1 "MountingHole_Pad" H 5900 4558 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 5800 4600 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 5800 4600 50  0001 C CNN
 F 3 "~" H 5800 4600 50  0001 C CNN
 	1    5800 4600
 	1    0    0    -1  
@@ -2433,7 +2433,7 @@ U 1 1 6021B1F0
 P 5800 4850
 F 0 "H7" H 5900 4899 50  0000 L CNN
 F 1 "MountingHole_Pad" H 5900 4808 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 5800 4850 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 5800 4850 50  0001 C CNN
 F 3 "~" H 5800 4850 50  0001 C CNN
 	1    5800 4850
 	1    0    0    -1  
