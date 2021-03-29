@@ -40,8 +40,44 @@ pictures
 
   ![3d render](pics/m65.png)
 
+  the pcb
+
+  ![3d render](pics/m65-pcb.jpg)
+
+  just switches mounted
+
+  ![3d render](pics/m65-nokey.jpg)
+
+  keyboard no 1 (mt3 tty bleached, kailh crystal royal)
+
+  ![3d render](pics/m65-tty.jpg)
+
+  keyboard no 2 (mt3 susuwatari, kailh crystal jade)
+
+  ![3d render](pics/m65-susu.jpg)
+
+  keyboard no 3 (mt3 tty, kailh crystal royal)
+
+  ![3d render](pics/m65-tty-2.jpg)
+
+  keyboard no 4 (tbd, novelkeys blueberry)
+
+  keyboard no 5 (tbd, gateron ink v2 yelloe and red)
 
 firmware
 --------
+
+   layout is bellow, but since is qmk can be whatever one likes, no 5 will be Danish for example.
+
+   ![3d render](pics/m65-layout.png)
+
+   is qmk and is in a branch for the moment, I assume you already have qmk environment configured.
+
+```bash
+   git clone --recurse-submodules git@github.com:alinelena/qmk_firmware.git
+   git checkout m65-dev
+   make m65/rev1:default
+   make m65/rev1:default:flash
+```
 
 
