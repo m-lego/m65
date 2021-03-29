@@ -38,7 +38,7 @@ pictures
 
   the 3d render looks like
 
-  (3d render)[pics/m65.png]
+  ![3d render](pics/m65.png)
 
 
 firmware
