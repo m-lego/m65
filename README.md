@@ -50,7 +50,7 @@ pictures
 
   keyboard no 1 (mt3 tty bleached, kailh crystal royal)
 
-  ![3d render](pics/m65-tty.jpg)
+  ![3d render](pics/m65-tty.png)
 
   keyboard no 2 (mt3 susuwatari, kailh crystal jade)
 
