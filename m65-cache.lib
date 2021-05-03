@@ -90,22 +90,6 @@ C 0 0 50 0 1 50 N
 ENDDRAW
 ENDDEF
 #
-# Mechanical_MountingHole_Pad
-#
-DEF Mechanical_MountingHole_Pad H 0 40 N N 1 F N
-F0 "H" 0 250 50 H V C CNN
-F1 "Mechanical_MountingHole_Pad" 0 175 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-$FPLIST
- MountingHole*Pad*
-$ENDFPLIST
-DRAW
-C 0 50 50 0 1 50 N
-X 1 1 0 -100 100 U 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
 # Switch_SW_Push
 #
 DEF Switch_SW_Push SW 0 40 N N 1 F N
@@ -123,11 +107,11 @@ X 2 2 200 0 100 L 50 50 0 1 P
 ENDDRAW
 ENDDEF
 #
-# m78_BlackPillSTM32FXXX
+# m65-rescue_BlackPillSTM32FXXX-m78
 #
-DEF m78_BlackPillSTM32FXXX U 0 40 Y Y 1 F N
+DEF m65-rescue_BlackPillSTM32FXXX-m78 U 0 40 Y Y 1 F N
 F0 "U" -600 1100 50 H V C CNN
-F1 "m78_BlackPillSTM32FXXX" 0 -300 50 V V C CNN
+F1 "m65-rescue_BlackPillSTM32FXXX-m78" 0 -300 50 V V C CNN
 F2 "" 750 -800 50 V I C CNN
 F3 "" 750 -800 50 V I C CNN
 DRAW
