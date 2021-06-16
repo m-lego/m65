@@ -44,27 +44,43 @@ pictures
 
   the pcb
 
-  ![3d render](pics/m65-pcb.jpg)
+  ![the pcb](pics/m65-pcb.jpg)
 
   just switches mounted
 
-  ![3d render](pics/m65-nokey.jpg)
+  ![just there](pics/m65-nokey.jpg)
 
   keyboard no 1 (mt3 tty bleached, kailh crystal royal)
 
-  ![3d render](pics/m65-tty.png)
+  ![with dev tty](pics/m65-tty.png)
 
   keyboard no 2 (mt3 susuwatari, kailh crystal jade)
 
-  ![3d render](pics/m65-susu.jpg)
+  ![with susuwatari](pics/m65-susu.jpg)
 
   keyboard no 3 (mt3 tty, kailh crystal royal)
 
-  ![3d render](pics/m65-tty-2.jpg)
+  ![one more /dev/tty](pics/m65-tty-2.jpg)
 
   keyboard no 4 (tbd, novelkeys blueberry)
 
+  ![one more /dev/tty](pics/m65-tty-nkblueberry.jpg)
+
   keyboard no 5 (tbd, gateron ink v2 yellow and red)
+
+  ![keycaps to come... dk layout envisaged](pics/m65-gats.jpg)
+
+  keyboard no 6 (kailh crystal jades with click bar removed... )
+
+  ![keycaps to come... prob mt3 godspeed mixed with tty](pics/m65-jade-lin.jpg)
+
+  keyboard no 7 ()
+
+  keyboard no 8 ()
+
+  keyboard no 9 ()
+
+  keyboard no 10 ()
 
 firmware
 --------
