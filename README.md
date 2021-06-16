@@ -13,7 +13,7 @@ more info in [here](https://alin.elena.space/blog/keeblego/)
 There is a [6x13](https://github.com/Kyrremann/index-tab) project if you want
 and a [4x13](https://github.com/farfalleflickan/nack)
 
-I am not related with any of them and dicovered them too late.
+I am not related with any of them and discovered some of them too late.
 
 what is special about this one?
 
