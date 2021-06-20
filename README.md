@@ -62,7 +62,9 @@ pictures
 
   ![one more /dev/tty](pics/m65-tty-2.jpg)
 
-  keyboard no 4 (tbd, novelkeys blueberry)
+  ![one more /dev/tty](pics/m65-home.jpg)
+
+  keyboard no 4 (tbd, novelkeys blueberry in process of re-springing)
 
   ![one more /dev/tty](pics/m65-tty-nkblueberry.jpg)
 
@@ -74,7 +76,11 @@ pictures
 
   ![keycaps to come... prob mt3 godspeed mixed with tty](pics/m65-jade-lin.jpg)
 
-  keyboard no 7 ()
+  keyboard no 7 (gateron whites and /dev/tty)
+
+  ![/dev/tty mt3 ](pics/m65-white-naked.jpg)
+
+  ![/dev/tty mt3 ](pics/m65-gat-white.jpg)
 
   keyboard no 8 ()
 
