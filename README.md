@@ -58,6 +58,8 @@ pictures
 
   ![with susuwatari](pics/m65-susu.jpg)
 
+  ![with susuwatari](pics/m65-susu-2.jpg)
+
   keyboard no 3 (mt3 tty, kailh crystal royal)
 
   ![one more /dev/tty](pics/m65-tty-2.jpg)
@@ -75,6 +77,8 @@ pictures
   keyboard no 6 (kailh crystal jades with click bar removed... )
 
   ![keycaps to come... prob mt3 godspeed mixed with tty](pics/m65-jade-lin.jpg)
+
+  ![keycaps to come... prob mt3 godspeed mixed with tty](pics/m65-jade-lin-2.jpg)
 
   keyboard no 7 (gateron whites and /dev/tty)
 
