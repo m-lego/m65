@@ -86,11 +86,11 @@ pictures
 
   ![/dev/tty mt3 ](pics/m65-gat-white.jpg)
 
-  keyboard no 8 ()
+  keyboard no 8 (mt3 cyber if drop decides to ship)
 
-  keyboard no 9 ()
+  keyboard no 9 (mt3 3277)
 
-  keyboard no 10 ()
+  keyboard no 10 (mt3 fairlane)
 
 firmware
 --------
