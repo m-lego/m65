@@ -80,6 +80,8 @@ pictures
 
   ![keycaps to come... prob mt3 godspeed mixed with tty](pics/m65-jade-lin-2.jpg)
 
+  ![in /dev/tty with a touch of godspeed and "linear" jades -- clickbars removed](pics/m65-japan.jpg)
+
   keyboard no 7 (gateron whites and /dev/tty)
 
   ![/dev/tty mt3 ](pics/m65-white-naked.jpg)
