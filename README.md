@@ -99,7 +99,11 @@ firmware
 
    layout is bellow, but since is qmk can be whatever one likes, no 5 will be Danish for example.
 
-   ![3d render](pics/m65-layout.png)
+   ![layout simplified summary](pics/m65-l1.png)
+
+   ![layout lwr](pics/m65-lwr.png)
+
+   ![layout rse](pics/m65-rse.png)
 
    is qmk and is in a branch for the moment, I assume you already have qmk environment configured.
 
