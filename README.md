@@ -54,6 +54,8 @@ pictures
 
   ![with dev tty](pics/m65-tty.png)
 
+  ![with dev tty](pics/m65-tty-f.png)
+
   keyboard no 2 (mt3 susuwatari, kailh crystal jade)
 
   ![with susuwatari](pics/m65-susu.jpg)
@@ -65,6 +67,8 @@ pictures
   ![one more /dev/tty](pics/m65-tty-2.jpg)
 
   ![one more /dev/tty](pics/m65-home.jpg)
+
+  ![one more /dev/tty](pics/m65-home-2.jpg)
 
   keyboard no 4 (tbd, novelkeys blueberry in process of re-springing)
 
@@ -82,11 +86,15 @@ pictures
 
   ![in /dev/tty with a touch of godspeed and "linear" jades -- clickbars removed](pics/m65-japan.jpg)
 
+  ![in /dev/tty with a bigger touch of godspeed and "linear" jades -- clickbars removed](pics/m65-japan-2.jpg)
+
   keyboard no 7 (gateron whites and /dev/tty)
 
   ![/dev/tty mt3 ](pics/m65-white-naked.jpg)
 
   ![/dev/tty mt3 ](pics/m65-gat-white.jpg)
+
+  ![/dev/tty and godspeed mods ](pics/m65-g-white.jpg)
 
   keyboard no 8 (mt3 cyber if drop decides to ship)
 
