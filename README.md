@@ -54,7 +54,7 @@ pictures
 
   ![with dev tty](pics/m65-tty.png)
 
-  ![with dev tty](pics/m65-tty-f.png)
+  ![with dev tty](pics/m65-tty-f.jpg)
 
   keyboard no 2 (mt3 susuwatari, kailh crystal jade)
 
