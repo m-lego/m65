@@ -96,15 +96,19 @@ pictures
 
   ![/dev/tty and godspeed mods ](pics/m65-g-white.jpg)
 
-  keyboard no 8 (mt3 cyber if drop decides to ship)
+  keyboard no 8 (frankenstein switches linears with mt3 camillo)
 
   ![mt3 camillo with a touch of godspeed and susuwatari ](pics/m65-olivetti.jpg)
 
   keyboard no 9 (mt3 cyber if drop decides to ship)
 
-  keyboard no 10 (mt3 3277)
+  ![mt3 c2048 with a touch of colour ](pics/m65-2048.jpg)
 
-  keyboard no 11 (mt3 fairlane)
+  keyboard no 10 (mt3 cyber if drop decides to ship)
+
+  keyboard no 11 (mt3 3277)
+
+  keyboard no 12 (mt3 fairlane)
 
 firmware
 --------
