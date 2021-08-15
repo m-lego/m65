@@ -106,9 +106,11 @@ pictures
 
   keyboard no 10 (mt3 cyber if drop decides to ship)
 
-  keyboard no 11 (mt3 3277)
+  keyboard no 11 (mt3 dasher)
 
-  keyboard no 12 (mt3 fairlane)
+  keyboard no 12 (mt3 3277)
+
+  keyboard no 13 (mt3 fairlane)
 
 firmware
 --------
@@ -127,7 +129,7 @@ firmware
 
 ```bash
    git clone --recurse-submodules git@github.com:alinelena/qmk_firmware.git
-   git checkout m65-dev
+   git checkout m65
    make m65/rev1:uk
    make m65/rev1:uk:flash
 ```
@@ -136,7 +138,7 @@ you can use also gdf303 from we act aka bluepill plus  https://github.com/WeActT
 
 ```bash
    git clone --recurse-submodules git@github.com:alinelena/qmk_firmware.git
-   git checkout m65-dev-rev2
+   git checkout m65
    make m65/rev2:uk
    make m65/rev2:uk:flash
 ```
