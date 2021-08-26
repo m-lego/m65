@@ -2285,7 +2285,7 @@ $EndComp
 Text GLabel 3400 4250 1    50   BiDi ~ 0
 c8
 $Comp
-L m65-rescue:BlackPillSTM32FXXX-m78 U1
+L m65-rescue:BlackPillSTM32FXXX-m78-m65-rescue U1
 U 1 1 6190CC9A
 P 3800 5150
 F 0 "U1" V 3704 3606 50  0000 R CNN
@@ -2367,9 +2367,38 @@ U 1 1 6065A7CA
 P 1200 6750
 F 0 "H3" H 1300 6796 50  0000 L CNN
 F 1 "MountingHole" H 1300 6705 50  0000 L CNN
-F 2 "m65:LegoHole_1u" H 1200 6750 50  0001 C CNN
+F 2 "m65:LegoHole_1u_49" H 1200 6750 50  0001 C CNN
 F 3 "~" H 1200 6750 50  0001 C CNN
 	1    1200 6750
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:Rotary_Encoder SW66
+U 1 1 612E776C
+P 9150 3200
+F 0 "SW66" H 9380 3246 50  0000 L CNN
+F 1 "Rotary_Encoder" H 9380 3155 50  0000 L CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm_CircularMountingHoles" H 9000 3360 50  0001 C CNN
+F 3 "~" H 9150 3460 50  0001 C CNN
+	1    9150 3200
+	1    0    0    -1  
+$EndComp
+Text GLabel 8650 3200 0    50   Output ~ 0
+gnd
+Wire Wire Line
+	8650 3200 8850 3200
+Text GLabel 8650 3100 0    50   Input ~ 0
+ea
+Text GLabel 8650 3300 0    50   Input ~ 0
+eb
+Wire Wire Line
+	8650 3100 8850 3100
+Wire Wire Line
+	8650 3300 8850 3300
+Text GLabel 4300 4250 1    50   Input ~ 0
+ea
+Text GLabel 4200 4250 1    50   Input ~ 0
+eb
+Wire Wire Line
+	9150 3300 9250 3300
 $EndSCHEMATC
