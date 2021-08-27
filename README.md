@@ -55,7 +55,7 @@ pictures
 
    version (2)
 
-  ![the pcb](pics/m65-pcb2.jpg)
+  ![the pcb](pics/m65-pcb2.png)
 
   just switches mounted
 
