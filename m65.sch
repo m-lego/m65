@@ -1691,7 +1691,7 @@ $EndComp
 Wire Wire Line
 	9250 1350 9100 1350
 Text GLabel 8800 1350 0    50   Input ~ 0
-cpp
+lwr
 $Comp
 L Device:LED D67
 U 1 1 60714B3A
@@ -1717,7 +1717,7 @@ $EndComp
 Wire Wire Line
 	9250 1600 9100 1600
 Text GLabel 8800 1600 0    50   Input ~ 0
-f90
+rse
 Connection ~ 7300 3350
 Wire Wire Line
 	7300 3800 7300 3350
@@ -2306,9 +2306,9 @@ c11
 Text GLabel 4450 6050 3    50   BiDi ~ 0
 c12
 Text GLabel 4700 4250 1    50   BiDi ~ 0
-f90
+rse
 Text GLabel 4600 4250 1    50   BiDi ~ 0
-cpp
+lwr
 Text GLabel 3300 4250 1    50   BiDi ~ 0
 c7
 Text GLabel 3200 4250 1    50   BiDi ~ 0
@@ -2401,4 +2401,27 @@ Text GLabel 4200 4250 1    50   Input ~ 0
 eb
 Wire Wire Line
 	9150 3300 9250 3300
+$Comp
+L Connector:Conn_01x03_Male J1
+U 1 1 612AD4C0
+P 7150 4850
+F 0 "J1" H 7258 5131 50  0000 C CNN
+F 1 "Conn_01x03_Male" H 7258 5040 50  0000 C CNN
+F 2 "Connector_JST:JST_EH_S3B-EH_1x03_P2.50mm_Horizontal" H 7150 4850 50  0001 C CNN
+F 3 "~" H 7150 4850 50  0001 C CNN
+	1    7150 4850
+	1    0    0    -1  
+$EndComp
+Text GLabel 7350 4750 2    50   Output ~ 0
+gnd2
+Text GLabel 7350 4850 2    50   Input ~ 0
+din
+Text GLabel 4400 4250 1    50   Input ~ 0
+din
+Text GLabel 7350 4950 2    50   Input ~ 0
+5V
+Text GLabel 5000 4900 2    50   Input ~ 0
+5V
+Text GLabel 2600 5150 0    50   Input ~ 0
+gnd2
 $EndSCHEMATC

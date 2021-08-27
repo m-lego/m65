@@ -1,4 +1,4 @@
-(module SW_Cherry_MX_1.00u_PCB_no_3dswitch (layer F.Cu) (tedit 6128F856)
+(module SW_Cherry_MX_1.00u_PCB_3dswitch (layer F.Cu) (tedit 6128F856)
   (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
   (tags "Cherry MX keyswitch 1.00u PCB")
   (fp_text reference SW46 (at -2.54 -2.794) (layer F.SilkS)

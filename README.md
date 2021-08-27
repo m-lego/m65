@@ -19,7 +19,8 @@ what is special about this one?
 
   * the case is set in lego (almost lego)
   * microcontroller is just a standard apm/stm32f103 blackpill from robotdyn  or gd32f303 bluepill plus from we act studio
-
+  * rotary encoder (no switch)
+  * optional led strip (you will need a full brick lego or one more layer..)
 
 bom
 ---
@@ -34,17 +35,27 @@ bom
  * 1 apm/stm32f103 blackpill from robotdyn F303 will work also since they are pin identical.
  * or gd32f303 from we act studio...
  * switches (5 pin) and keycaps... for pcb mount
+ * rotary encoder (I got this Bourns 24 Pulse Incremental Mechanical Rotary Encoder with a 6 mm Flat Shaft but any similar shall do)
+ * jst horizontal header 3 pin, if you add leds
 
 pictures
 --------
 
-  the 3d render looks like
+  the 3d render looks like (version 1)
 
   ![3d render](pics/m65.png)
 
-  the pcb
+  version 2
+
+  ![3d render](pics/m65-v2.png)
+
+  the pcb (version 1)
 
   ![the pcb](pics/m65-pcb.jpg)
+
+   version (2)
+
+  ![the pcb](pics/m65-pcb2.jpg)
 
   just switches mounted
 
@@ -102,11 +113,13 @@ pictures
 
   keyboard no 9 (mt3 cyber if drop decides to ship)
 
-  ![mt3 c2048 with a touch of colour ](pics/m65-2048.jpg)
+  ![mt3 2048 with a touch of colour ](pics/m65-2048.jpg)
 
-  keyboard no 10 (mt3 cyber if drop decides to ship)
+  keyboard no 10 (mt3 dasher)
 
-  keyboard no 11 (mt3 dasher)
+  ![mt3 dasher ](pics/m65-dasher.jpg)
+
+  keyboard no 11 (mt3 cyber if drop decides to ship)
 
   keyboard no 12 (mt3 3277)
 
