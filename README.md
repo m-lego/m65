@@ -79,7 +79,15 @@ pictures
 
    version (2)
 
-  ![the pcb](pics/m65-pcb2.png)
+  ![the pcb](pics/m65-pcb-2.png)
+
+   version (3)
+
+  ![the pcb](pics/m65-pcb3.png)
+
+   version (4)
+
+  ![the pcb](pics/m65-pcb4.png)
 
   just switches mounted
 
