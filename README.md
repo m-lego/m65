@@ -61,6 +61,28 @@ bom
  * jst horizontal header 3 pin, if you add leds
 
 
+thickness
+----------
+
+
+depending on what you want the box can come out very thin.. 1 base plate(single or double, flat or angled usage) plus pcb(1.6mm) plus one plate
+intermediate(3.2mm).
+that is thin. This shall allow you to put in a sheet of foam for sound dampening.
+
+
+  ![1 double base plate, 1 intermediate plate and pcb. 8 mm ](pics/thick-1.jpg)
+
+
+2 layers of intermediate plates, for thicker foam sheet or for led strip which is connected by hand to the pins or holes... no jst
+header.
+
+   ![1 double base plate, 2 intermediate plate and pcb. 11.2 mm ](pics/thick-2.jpg)
+
+1 full brick if you want a jst header.
+
+  ![1 double base plate, 1 intermediate brick and pcb. 14.4  mm ](pics/thick-3.jpg)
+
+
 
 pictures
 --------
