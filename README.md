@@ -15,6 +15,9 @@ and a [4x13](https://github.com/farfalleflickan/nack)
 
 I am not related with any of them and discovered some of them too late.
 
+I have also made a split, 5x12 and 4x12, see below.
+
+
 what is special about this one?
 
   * the case is set in lego (almost lego)
@@ -22,6 +25,23 @@ what is special about this one?
     with stm32f401 available now too see the [gerbers](gerbers-stm32f401.zip)
   * rotary encoder (no switch)
   * optional led strip (you will need a full brick lego or one more layer..)
+
+**note** the holes in current version are cut at the official lego dimension. Unfortunately the drilling machines have tolerance and
+the same the lego making tools... the tolerance in lego varies with colour of the plastic... you will find some colours may not fit
+as well as others. I suggest you to use 1x2 plates if you want the finest keyboard, since they tend to bend the pcb... you will be
+amased but the force.
+
+if you do not want an angle for typing use a single sided plate as base.
+
+foaming the bottom makes a difference i use usually diy/hobbycraft foam, that you can buy for close to nothing in a4 sheets.
+
+
+see also
+--------
+
+ * [5x12 split in lego](512s.md)
+ * [5x12 in lego](512.md)
+ * [4x12 in lego](412.md)
 
 bom
 ---
@@ -41,12 +61,6 @@ bom
  * jst horizontal header 3 pin, if you add leds
 
 
-see also
---------
-
- * [5x12 split in lego](512s.md)
- * [5x12 in lego](512.md)
- * [4x12 in lego](412.md)
 
 pictures
 --------
