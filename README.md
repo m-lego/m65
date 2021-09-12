@@ -151,7 +151,9 @@ pictures
 
   ![mt3 dasher ](pics/m65-dasher.jpg)
 
-  keyboard no 11 (mt3 cyber if drop decides to ship)
+  keyboard no 11 (mt3 cybe)
+
+  ![mt3 mito cyber ](pics/m65-cyber.jpg)
 
   keyboard no 12 (mt3 3277)
 
@@ -186,4 +188,14 @@ you can use also gdf303 from we act aka bluepill plus  https://github.com/WeActT
    git checkout m65
    make m65/rev2:uk
    make m65/rev2:uk:flash
+```
+
+you can use also stm32f401 from we act
+
+
+```bash
+   git clone --recurse-submodules git@github.com:alinelena/qmk_firmware.git
+   git checkout m65
+   make m65/rev3:uk
+   make m65/rev3:uk:flash
 ```
