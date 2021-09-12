@@ -2282,28 +2282,17 @@ F 3 "~" H 9550 2350 50  0001 C CNN
 	1    9550 2350
 	1    0    0    -1  
 $EndComp
-Text GLabel 3400 4250 1    50   BiDi ~ 0
+Text GLabel 3550 6050 3    50   BiDi ~ 0
 c8
-$Comp
-L m65-rescue:BlackPillSTM32FXXX-m78-m65-rescue U1
-U 1 1 6190CC9A
-P 3800 5150
-F 0 "U1" V 3704 3606 50  0000 R CNN
-F 1 "BlackPillSTM32F303CCT6" V 3795 3606 50  0000 R CNN
-F 2 "m65:BlackPillSTM32F303CCT6" H 3200 3750 50  0001 R CNN
-F 3 "" H 3800 5150 50  0001 C CNN
-	1    3800 5150
-	0    1    1    0   
-$EndComp
 Text GLabel 2600 4950 0    50   Input ~ 0
 gnd
-Text GLabel 3350 6050 3    50   BiDi ~ 0
+Text GLabel 3650 6050 3    50   BiDi ~ 0
 c9
-Text GLabel 3450 6050 3    50   BiDi ~ 0
+Text GLabel 3750 6050 3    50   BiDi ~ 0
 c10
-Text GLabel 4150 6050 3    50   BiDi ~ 0
+Text GLabel 3850 6050 3    50   BiDi ~ 0
 c11
-Text GLabel 4450 6050 3    50   BiDi ~ 0
+Text GLabel 4350 6050 3    50   BiDi ~ 0
 c12
 Text GLabel 4700 4250 1    50   BiDi ~ 0
 rse
@@ -2325,13 +2314,13 @@ Text GLabel 4100 4250 1    50   BiDi ~ 0
 c0
 Text GLabel 3800 4250 1    50   BiDi ~ 0
 c1
-Text GLabel 3750 6050 3    50   BiDi ~ 0
-r5
-Text GLabel 3650 6050 3    50   BiDi ~ 0
-r4
-Text GLabel 4350 6050 3    50   BiDi ~ 0
-r3
 Text GLabel 4250 6050 3    50   BiDi ~ 0
+r5
+Text GLabel 4150 6050 3    50   BiDi ~ 0
+r4
+Text GLabel 4050 6050 3    50   BiDi ~ 0
+r3
+Text GLabel 3950 6050 3    50   BiDi ~ 0
 r2
 Text GLabel 4550 6050 3    50   BiDi ~ 0
 r1
@@ -2395,9 +2384,9 @@ Wire Wire Line
 	8650 3100 8850 3100
 Wire Wire Line
 	8650 3300 8850 3300
-Text GLabel 4300 4250 1    50   Input ~ 0
+Text GLabel 3450 6050 3    50   Input ~ 0
 ea
-Text GLabel 4200 4250 1    50   Input ~ 0
+Text GLabel 3400 4250 1    50   Input ~ 0
 eb
 Wire Wire Line
 	9150 3300 9250 3300
@@ -2420,8 +2409,19 @@ Text GLabel 4400 4250 1    50   Input ~ 0
 din
 Text GLabel 7350 4950 2    50   Input ~ 0
 5V
-Text GLabel 5000 4900 2    50   Input ~ 0
+Text GLabel 5000 5200 2    50   Input ~ 0
 5V
-Text GLabel 2600 5150 0    50   Input ~ 0
+Text GLabel 2600 5050 0    50   Input ~ 0
 gnd2
+$Comp
+L m65-rescue:BlackPillSTM32F401-alin U1
+U 1 1 613F8AD8
+P 3800 5150
+F 0 "U1" V 3754 3907 50  0000 R CNN
+F 1 "BlackPillSTM32F401-alin" V 3845 3907 50  0000 R CNN
+F 2 "m65:BlackPillSTM32F401CCU6" V 4550 4350 50  0001 C CNN
+F 3 "" V 4550 4350 50  0001 C CNN
+	1    3800 5150
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC
