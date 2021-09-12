@@ -1,6 +1,18 @@
 the lego keyboard
 =================
 
+
+status: current v4
+
+* [x] gerbers designed
+* [x] firmware
+* [x] breadboard tested
+* [ ] gerbers printed
+* [ ] board tested
+
+
+
+
 motivation
 ----------
 
