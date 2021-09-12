@@ -18,7 +18,8 @@ I am not related with any of them and discovered some of them too late.
 what is special about this one?
 
   * the case is set in lego (almost lego)
-  * microcontroller is just a standard apm/stm32f103 blackpill from robotdyn  or gd32f303 bluepill plus from we act studio
+  * microcontroller is just a standard apm/stm32f103 blackpill from robotdyn  or gd32f303 bluepill plus from we act studio([gerbers](gerbers-stm32f103.zip)), version
+    with stm32f401 available now too see the [gerbers](gerbers-stm32f401.zip)
   * rotary encoder (no switch)
   * optional led strip (you will need a full brick lego or one more layer..)
 
@@ -32,11 +33,20 @@ bom
  * optional 4 2x2 corner plates
  * 65 signal diodes 1N4148 , do 35
  * 2 resistors  and 2 leds, resistors need to be computed to match the colour of the led
- * 1 apm/stm32f103 blackpill from robotdyn F303 will work also since they are pin identical.
+ * 1 apm/stm32f103 blackpill from robotdyn, F303 will work also since they are pin identical.
  * or gd32f303 from we act studio...
+ * or stm32f401 from we act
  * switches (5 pin) and keycaps... for pcb mount
  * rotary encoder (I got this Bourns 24 Pulse Incremental Mechanical Rotary Encoder with a 6 mm Flat Shaft but any similar shall do)
  * jst horizontal header 3 pin, if you add leds
+
+
+see also
+--------
+
+ * [5x12 split in lego](512s.md)
+ * [5x12 in lego](512.md)
+ * [4x12 in lego](412.md)
 
 pictures
 --------
