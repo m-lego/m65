@@ -115,11 +115,11 @@ pictures
 
   ![the pcb](pics/m65-pcb-2.png)
 
-   version (3)
+   version (3) stm32f103 compatible pinout
 
   ![the pcb](pics/m65-pcb3.png)
 
-   version (4)
+   version (4) stm32f401 from we act
 
   ![the pcb](pics/m65-pcb4.png)
 
