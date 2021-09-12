@@ -113,7 +113,7 @@ pictures
 
    version (2)
 
-  ![the pcb](pics/m65-pcb-2.png)
+  ![the pcb](pics/m65-pcb-2.jpg)
 
    version (3) stm32f103 compatible pinout
 
