@@ -115,7 +115,7 @@ pictures
 
   ![the pcb](pics/m65-pcb-2.jpg)
 
-   version (3) stm32f103 compatible pinout
+   version (3) stm32f103 compatible pinout superseeded by version 4 and 401 go for that
 
   ![the pcb](pics/m65-pcb3.png)
 
