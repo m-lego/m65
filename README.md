@@ -2,7 +2,8 @@ the lego keyboard
 =================
 
 
-status: current v4
+status: **current v4**
+----------------------
 
 * [x] gerbers designed
 * [x] firmware
@@ -11,6 +12,19 @@ status: current v4
 * [ ] board tested
 
 
+warning
+-------
+
+**this project is**
+
+* fun
+* educational
+* functional
+* cheap(ish)
+
+**this project is not**
+
+* end game
 
 
 motivation
