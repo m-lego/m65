@@ -2,7 +2,7 @@ the lego keyboard
 =================
 
 
-status: **current v4**
+status: **current v4** gerbers printing
 ----------------------
 
 * [x] gerbers designed
@@ -11,6 +11,8 @@ status: **current v4**
 * [ ] gerbers printed
 * [ ] board tested
 
+v1 and v2 are fully tested 
+v3 I never printed and do not intend to do so.
 
 warning
 -------
