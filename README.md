@@ -2,17 +2,18 @@ the lego keyboard
 =================
 
 
-status: **current v4** gerbers printing
-----------------------
+status: **current v4** all ok
+------------------------------
 
 * [x] gerbers designed
 * [x] firmware
 * [x] breadboard tested
-* [ ] gerbers printed
-* [ ] board tested
+* [x] gerbers printed
+* [x] board tested
 
 v1 and v2 are fully tested
 v3 I never printed and do not intend to do so.
+v4 is current tested and working
 
 warning
 -------
@@ -22,7 +23,7 @@ warning
 * fun
 * educational
 * functional
-* cheap(ish)
+* cheap(ish), till switches and keycaps.
 
 **this project is not**
 
