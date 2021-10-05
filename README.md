@@ -1,6 +1,7 @@
 the lego keyboard
 =================
 
+  ![the current](pics/m65-v4.jpg)
 
 status: **current v4** all ok
 ------------------------------
@@ -139,6 +140,8 @@ pictures
    version (4) stm32f401 from we act
 
   ![the pcb](pics/m65-pcb4.png)
+
+  ![the pcb version 4 current](pics/m65-pcb-v4.jpg)
 
   just switches mounted
 
