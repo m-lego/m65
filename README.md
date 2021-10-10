@@ -231,8 +231,8 @@ firmware
 ```bash
    git clone --recurse-submodules git@github.com:alinelena/qmk_firmware.git
    git checkout m65
-   make m65/rev1:uk
-   make m65/rev1:uk:flash
+   make m-lego/m65/rev1:uk
+   make m-lego/m65/rev1:uk:flash
 ```
 
 you can use also gdf303 from we act aka bluepill plus  https://github.com/WeActTC/BluePill-Plus
@@ -240,8 +240,8 @@ you can use also gdf303 from we act aka bluepill plus  https://github.com/WeActT
 ```bash
    git clone --recurse-submodules git@github.com:alinelena/qmk_firmware.git
    git checkout m65
-   make m65/rev2:uk
-   make m65/rev2:uk:flash
+   make m-lego/m65/rev2:uk
+   make m-lego/m65/rev2:uk:flash
 ```
 
 you can use also stm32f401 from we act
@@ -250,6 +250,6 @@ you can use also stm32f401 from we act
 ```bash
    git clone --recurse-submodules git@github.com:alinelena/qmk_firmware.git
    git checkout m65
-   make m65/rev3:uk
-   make m65/rev3:uk:flash
+   make m-lego/m65/rev3:uk
+   make m-lego/m65/rev3:uk:flash
 ```
