@@ -197,7 +197,7 @@ pictures
 
   ![mt3 camillo with a touch of godspeed and susuwatari ](pics/m65-olivetti.jpg)
 
-  keyboard no 9 (mt3 cyber if drop decides to ship)
+  keyboard no 9 (mt3 2048)
 
   ![mt3 2048 with a touch of colour ](pics/m65-2048.jpg)
 
@@ -205,13 +205,17 @@ pictures
 
   ![mt3 dasher ](pics/m65-dasher.jpg)
 
-  keyboard no 11 (mt3 cybe)
+  keyboard no 11 (mt3 cyber)
 
   ![mt3 mito cyber ](pics/m65-cyber.jpg)
 
   keyboard no 12 (mt3 3277)
 
+  ![mt3 mt3 matt3o 3277 ](pics/m65-3277.jpg)
+
   keyboard no 13 (mt3 fairlane)
+
+  ![mt3 mt3 fairlane ](pics/m65-fair.jpg)
 
 firmware
 --------
