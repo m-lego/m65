@@ -71,7 +71,7 @@ see also
 
  * [5x12 split in lego](https://gitlab.com/m-lego/m60_split)
  * [5x12 in lego](512.md)
- * [4x12 in lego](412.md)
+ * [4x12 in lego](https://gitlab.com/m-lego/m48)
 
 bom
 ---
@@ -82,7 +82,7 @@ bom
  * 4 1x1 lego tiles or eyes.
  * optional 4 2x2 corner plates
  * 65 signal diodes 1N4148 , do 35
- * 2 resistors  and 2 leds, resistors need to be computed to match the colour of the led
+ * 2 resistors (220Ω or 350Ω)  and 2 leds, resistors need to be computed to match the colour of the led
  * 1 apm/stm32f103 blackpill from robotdyn, F303 will work also since they are pin identical.
  * or gd32f303 from we act studio...
  * or stm32f401 from we act
