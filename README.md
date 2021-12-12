@@ -211,11 +211,19 @@ pictures
 
   keyboard no 12 (mt3 3277)
 
-  ![mt3 mt3 matt3o 3277 ](pics/m65-3277.jpg)
+  ![mt3 matt3o 3277 ](pics/m65-3277.jpg)
 
   keyboard no 13 (mt3 fairlane)
 
-  ![mt3 mt3 fairlane ](pics/m65-fair.jpg)
+  ![mt3 fairlane ](pics/m65-fair.jpg)
+
+  keyboard no 14 (commodore c64 harvest keycaps with mx adapters)
+
+  ![mt3 c64 ](pics/m65_c64.jpg)
+
+  keyboard no 15 (mt3 camillo, eva 02)
+
+  ![mt3 camillo ](pics/m65-camillo.jpg)
 
 firmware
 --------
