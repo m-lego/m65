@@ -69,7 +69,7 @@ foaming the bottom makes a difference i use usually diy/hobbycraft foam, that yo
 see also
 --------
 
- * [5x12 split in lego](512s.md)
+ * [5x12 split in lego](https://gitlab.com/m-lego/m60_split)
  * [5x12 in lego](512.md)
  * [4x12 in lego](412.md)
 
