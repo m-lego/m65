@@ -70,7 +70,7 @@ see also
 --------
 
  * [5x12 split in lego](https://gitlab.com/m-lego/m60_split)
- * [5x12 in lego](512.md)
+ * [5x12 in lego](https://gitlab.com/m-lego/m60)
  * [4x12 in lego](https://gitlab.com/m-lego/m48)
 
 bom
@@ -241,7 +241,7 @@ firmware
    microcontroller stm32f103/apm32 from robotdyn... aka black pill, https://robotdyn.com/black-pill-apm32f103cb-128kb-flash-20kb-sram-stm32-compatible-arm-cortexr-m3-mcu-mini-board.html
 
 ```bash
-   git clone --recurse-submodules git@github.com:alinelena/qmk_firmware.git
+   git clone --recurse-submodules https://gitlab.com/m-lego/m60.git
    git checkout m65
    make mlego/m65/rev1:uk
    make mlego/m65/rev1:uk:flash
@@ -250,7 +250,7 @@ firmware
 you can use also gdf303 from we act aka bluepill plus  https://github.com/WeActTC/BluePill-Plus
 
 ```bash
-   git clone --recurse-submodules git@github.com:alinelena/qmk_firmware.git
+   git clone --recurse-submodules https://gitlab.com/m-lego/m60.git
    git checkout m65
    make mlego/m65/rev2:uk
    make mlego/m65/rev2:uk:flash
@@ -260,7 +260,7 @@ you can use also stm32f401 from we act
 
 
 ```bash
-   git clone --recurse-submodules git@github.com:alinelena/qmk_firmware.git
+   git clone --recurse-submodules https://gitlab.com/m-lego/m60.git
    git checkout m65
    make mlego/m65/rev3:uk
    make mlego/m65/rev3:uk:flash
