@@ -1,3 +1,8 @@
+# m65
+
+more info at https://gitlab.com/m-lego/m65
+
+
 install
 -------
 
