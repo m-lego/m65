@@ -34,14 +34,14 @@ Pins
 
 + Qwerty
 
-| Rows  |  C0   |  C1 |  C2 |  C3  |  C4  |  C5  |  C6  |  C7  |  C8  |  C9  | C10  | C11  | C12  | Pins |
-| :---: | :---: | --- | --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|  R0   | Esc   |   1 |  2  |   3  |   4  |   5  |   6  |   7  |   8  |   9  |   0  |  -   | Bksp | B10  |
-|  R1   | Tab   |   q |  w  |   e  |   r  |   t  |   y  |   u  |   i  |   o  |   p  |  [   |   ]  |  A5  |
-|  R2   |   #   |   a |  s  |   d  |   f  |   g  |   h  |   j  |   k  |   l  |   ;  |  '   | Enter|  A6  |
-|  R3   |Shift  |   \ |  z  |   x  |   c  |   v  |   b  |   n  |   m  |   ,  |   .  |  Up  |  /   |  A7  |
-|  R4   | Ctrl  | Menu|Lower| Alt  |Raise | Space| Space| Space|AltGr | Shift| Left | Down |Right |  B0  |
-|       | A10   | A15 | B3  |  B4  |  B5  |  B9  |  B8  |  B7  |  A1  |  A2  |  A3  |  A4  | B1   |      |
+| Rows  | C0    | C1    | C2    | C3    | C4    | C5    | C6    | C7    | C8    | C9    | C10   | C11   | C12   | Pins  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| R0    | Esc   | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     | 0     | -     | Bksp  | B10   |
+| R1    | Tab   | q     | w     | e     | r     | t     | y     | u     | i     | o     | p     | [     | ]     | A5    |
+| R2    | #     | a     | s     | d     | f     | g     | h     | j     | k     | l     | ;     | '     | Enter | A6    |
+| R3    | Shift | \     | z     | x     | c     | v     | b     | n     | m     | ,     | .     | Up    | /     | A7    |
+| R4    | Ctrl  | Menu  | Lower | Alt   | Raise | Space | Space | Space | AltGr | Shift | Left  | Down  | Right | B0    |
+|       | A10   | A15   | B3    | B4    | B5    | B9    | B8    | B7    | A1    | A2    | A3    | A4    | B1    |       |
 
 + Encoders:
 
