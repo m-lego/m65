@@ -2414,7 +2414,7 @@ Text GLabel 5000 5200 2    50   Input ~ 0
 Text GLabel 2600 5050 0    50   Input ~ 0
 gnd2
 $Comp
-L m65-rescue:BlackPillSTM32F401-alin U1
+L m65-rescue:BlackPillSTM32F401-alin-m65-rescue U1
 U 1 1 613F8AD8
 P 3800 5150
 F 0 "U1" V 3754 3907 50  0000 R CNN
@@ -2424,4 +2424,44 @@ F 3 "" V 4550 4350 50  0001 C CNN
 	1    3800 5150
 	0    1    1    0   
 $EndComp
+Text GLabel 5000 5000 2    50   Input ~ 0
+3V3
+Text GLabel 6000 4550 2    50   Input ~ 0
+3V3
+Text GLabel 5700 4550 0    50   BiDi ~ 0
+c0
+$Comp
+L Device:R R3
+U 1 1 61D7428C
+P 5850 4550
+F 0 "R3" V 5643 4550 50  0000 C CNN
+F 1 "50K" V 5734 4550 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 5780 4550 50  0001 C CNN
+F 3 "~" H 5850 4550 50  0001 C CNN
+	1    5850 4550
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:OLED OL1
+U 1 1 61DA1EA1
+P 6150 5850
+F 0 "OL1" V 6023 6228 51  0000 L CNN
+F 1 "OLED" V 6113 6228 47  0000 L CNN
+F 2 "kbd:OLED_reverse" H 6150 5950 60  0001 C CNN
+F 3 "" H 6150 5950 60  0001 C CNN
+	1    6150 5850
+	0    1    1    0   
+$EndComp
+Text GLabel 6100 5100 1    50   Input ~ 0
+5V
+Text GLabel 5950 5100 1    50   Input ~ 0
+gnd
+Text GLabel 4300 4250 1    50   Input ~ 0
+scl
+Text GLabel 6250 5100 1    50   Input ~ 0
+scl
+Text GLabel 6400 5100 1    50   Input ~ 0
+sda
+Text GLabel 4200 4250 1    50   Input ~ 0
+sda
 $EndSCHEMATC
