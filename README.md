@@ -10,9 +10,13 @@ the lego keyboard
 
   ![pcb](pics/m65-rev4-pcb.png)
 
-  real one for the current print
+  real one for the current print version 4
 
   ![the current](pics/m65-v4.jpg)
+
+  the case from lego...
+
+  ![the case render](pics/m65-case.png)
 
 status: **version 5** printing pcb
 ----------------------------------
