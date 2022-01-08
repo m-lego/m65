@@ -1,20 +1,32 @@
 the lego keyboard
 =================
 
+
+  the 3d render looks like (version 5)
+
+  ![3d render](pics/m65-rev4-render.png)
+
+  the pcb for version 5
+
+  ![pcb](pics/m65-rev4-pcb.png)
+
+  real one for the current print
+
   ![the current](pics/m65-v4.jpg)
 
-status: **current v4** all ok
-------------------------------
+status: **version 5** printing pcb
+----------------------------------
 
 * [x] gerbers designed
 * [x] firmware
 * [x] breadboard tested
-* [x] gerbers printed
-* [x] board tested
+* [ ] gerbers printed
+* [ ] board tested
 
 v1 and v2 are fully tested
 v3 I never printed and do not intend to do so.
-v4 is current tested and working
+v4 is current tested and working rev3 is the firmware working with it..
+v5 under production... firmware seems to work
 
 warning
 -------
@@ -54,11 +66,12 @@ what is special about this one?
   * microcontroller is just a standard apm/stm32f103 blackpill from robotdyn  or gd32f303 bluepill plus from we act studio([gerbers](gerbers-stm32f103.zip)), version
     with stm32f401 available now too see the [gerbers](gerbers-stm32f401.zip)
   * rotary encoder (no switch)
+  * oled 128x32 i2c
   * optional led strip (you will need a full brick lego or one more layer..)
 
 **note** the holes in current version are cut at the official lego dimension. Unfortunately the drilling machines have tolerance and
 the same the lego making tools... the tolerance in lego varies with colour of the plastic... you will find some colours may not fit
-as well as others. I suggest you to use 1x2 plates if you want the finest keyboard, since they tend to bend the pcb... you will be
+as well as others. I suggest you to use 1x2 and 1x4 plates if you want the finest keyboard, since they tend to bend the pcb... you will be
 amased but the force.
 
 if you do not want an angle for typing use a single sided plate as base.
@@ -86,9 +99,11 @@ bom
  * 1 apm/stm32f103 blackpill from robotdyn, F303 will work also since they are pin identical.
  * or gd32f303 from we act studio...
  * or stm32f401 from we act
+ * or stm32f411 from we act, ask for the firmware
  * switches (5 pin) and keycaps... for pcb mount
  * rotary encoder (I got this Bourns 24 Pulse Incremental Mechanical Rotary Encoder with a 6 mm Flat Shaft but any similar shall do)
- * jst horizontal header 3 pin, if you add leds
+ * jst horizontal header 3 pin, if you add leds strip
+ * oled 128x32 i2c (4 pins)
 
 
 thickness
