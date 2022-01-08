@@ -1,7 +1,3 @@
----
-permlink: /
----
-
 the lego keyboard
 =================
 
