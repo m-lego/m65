@@ -8175,7 +8175,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fb7c2138-63c4-49c4-bce8-7867269a72e1)
@@ -8207,7 +8207,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1f168094-871a-4636-925c-d8fd6b2040ef)
@@ -8239,7 +8239,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 641ff0e9-6995-4bb9-ac37-5383b61cc430)
@@ -8271,7 +8271,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 35f833c0-b3d5-412a-ada9-3991378aa345)
@@ -8303,7 +8303,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1f755f13-ada9-4483-8e0c-384b30b433e8)
@@ -8335,7 +8335,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a48a44f2-3c90-4840-9631-fba0ba987a31)
@@ -8367,7 +8367,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 73c55aea-36bf-4109-bac2-f175d7a3a4c4)
@@ -8399,7 +8399,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dadc5b33-c8b6-468e-bb36-9ffa3f059f37)
@@ -8431,7 +8431,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a3ea2785-abaa-42cd-abdc-34bd9e7fdfad)
@@ -8463,7 +8463,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 94993146-2691-4f45-9386-abfb1042ceba)
@@ -8495,7 +8495,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4cb41ee2-1ee3-48bb-8028-6fda92ea16a9)
@@ -8527,7 +8527,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp db4a054d-7102-4c0f-a6eb-12079738cb15)
@@ -8559,7 +8559,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 97bdff7d-4e9e-4edd-b9f3-7775c57d0c73)
@@ -8591,7 +8591,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7740ddb4-553b-4d74-b013-84e42b74e93d)
@@ -8623,7 +8623,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c34ee079-6c35-4281-9c38-bcc505250da0)
@@ -8655,7 +8655,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cf372c60-85be-4ded-b009-e922ceb4ae8b)
@@ -8687,7 +8687,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8c88403d-d01b-4d7c-82b4-97e2ec34c8a7)
@@ -8719,7 +8719,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7b8a3c23-20b5-4b9e-9f60-88f577b71afe)
@@ -8751,7 +8751,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 962d8462-c2a7-4272-8537-6037bad18c74)
@@ -8783,7 +8783,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1a95e951-bed5-40c3-99a4-03c7190045b8)
@@ -8815,7 +8815,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bd74668d-d544-437e-9721-4ad1e2aeffaf)
@@ -8847,7 +8847,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f2deef74-0786-45c5-816c-0ecc6c798ef5)
@@ -8879,7 +8879,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4dd6b74c-9796-440c-a745-ea65f5076f4e)
@@ -8911,7 +8911,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cc7bf243-bbc2-4f79-80f9-07627a38a844)
@@ -8943,7 +8943,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 33d384c8-e84d-46d8-add8-2ec204119342)
@@ -8975,7 +8975,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e0c66e1c-ab36-40f6-a4c9-079ed42b9f3b)
@@ -9007,7 +9007,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4ff263a1-55da-421c-bcb6-7d521411a882)
@@ -9039,7 +9039,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 604e065a-a4e5-49bf-b71d-2ff8f50b5b22)
@@ -9071,7 +9071,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e4c2f9cd-061d-47b7-8666-d310a83b2276)
@@ -9103,7 +9103,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b6e8257c-c8ce-4ee8-88eb-1e6d169b9e79)
@@ -9135,7 +9135,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp eb045172-5365-4d29-a908-de6ecdb32d7c)
@@ -9167,7 +9167,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ae3831f6-c3f4-43b7-b082-9f189c11f6b1)
@@ -9199,7 +9199,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e72178b0-3264-471e-aa03-f96ddd9bfd24)
@@ -9231,7 +9231,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 83f4f00b-f047-449a-896d-e2ea20767850)
@@ -9263,7 +9263,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f6a21a62-889a-438a-b6d5-26e77faf6627)
@@ -9295,7 +9295,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 06b4f7d2-be60-4162-a8c2-2585ea4b7cb3)
@@ -9327,7 +9327,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 93f77dba-c2c9-4e48-bebf-bb1413236bc5)
@@ -9359,7 +9359,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ea03b81e-a56c-4d79-aec7-61231b73cd2a)
@@ -9391,7 +9391,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a4122c4f-3dfa-42a3-9af2-06c0fa8fad4d)
@@ -9423,7 +9423,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c06e938a-f846-47ec-b431-780fa1204603)
@@ -9455,7 +9455,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp de5e3bf4-9f6e-4e95-8413-06a41a6b40d6)
@@ -9487,7 +9487,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8ca46683-ac05-4873-883d-15a8fd9c1889)
@@ -9519,7 +9519,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 06150a46-7d4a-4b5b-acad-eb16921fc543)
@@ -9551,7 +9551,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 56369f62-b1ad-4589-b8a8-b6f81ebea81f)
@@ -9583,7 +9583,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ea34af66-8e31-412a-b988-da3f04588440)
@@ -9615,7 +9615,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8e8b187b-2cdc-47be-97c5-5c987c7ce0cb)
@@ -9647,7 +9647,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9c004494-6613-4c3e-b505-46d783273cc6)
@@ -9679,7 +9679,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a96c33d7-e768-4fa6-a945-ed4291e09c2b)
@@ -9711,7 +9711,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7a1ff3d2-a27c-49c7-bd14-ec9ddddd0dc6)
@@ -9743,7 +9743,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3079a6e1-7578-4030-bb7c-845478ab6ada)
@@ -9775,7 +9775,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6ce1e1aa-8d5b-4703-82a6-602179cb8271)
@@ -9807,7 +9807,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 06bb2736-ad10-481d-987b-9106bdffdc62)
@@ -9839,7 +9839,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fb301f6d-ba19-490b-8827-a0bf9b4e24a5)
@@ -9871,7 +9871,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 33e84cb1-8ab5-40e8-985c-1035197a078b)
@@ -9903,7 +9903,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9864579c-5dab-4754-977a-d4e4261130a5)
@@ -9935,7 +9935,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 84f719c6-608b-488e-9040-8e12cd1700ea)
@@ -9967,7 +9967,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3961fd34-f1ef-4572-94a4-831233f28257)
@@ -9999,7 +9999,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 34b91a57-a16a-4cdb-b48f-8a4bd5e4c9f1)
@@ -10031,7 +10031,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8ca9797e-e63e-4e59-a184-ef2a887eb814)
@@ -10063,7 +10063,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 846e204e-7963-4a3f-8aaf-21c629e0f471)
@@ -10095,7 +10095,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5725bbb4-29bf-4981-930f-4dad93077b81)
@@ -10127,7 +10127,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 06c20a54-ebe4-4b64-9e6d-39abb04b934e)
@@ -10159,7 +10159,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2a85770b-1e52-4487-8d9b-a840a12a7aec)
@@ -10191,7 +10191,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 527fc279-00cc-4c0c-87fe-630b766dc2d0)
@@ -10223,7 +10223,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9c962ee5-bed1-4536-84b0-fa6e0af60368)
@@ -10255,7 +10255,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e4c7ba2c-4d95-46cb-a611-178e9dcb7c62)
@@ -10287,7 +10287,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ab6a4600-729f-4119-87fb-7c0ab36a9903)
@@ -10319,7 +10319,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0fa295a6-5910-409f-b52b-42498fc712d9)
@@ -10351,7 +10351,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 57290038-fa42-4f81-9c9a-508119222298)
@@ -10383,7 +10383,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8d901ae6-9854-4f71-92c7-404b4626a9f2)
@@ -10415,7 +10415,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6b353f2c-2a1d-4216-88e0-2df5f1687089)
@@ -10447,7 +10447,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6fbd77d5-ce1f-4727-ab14-c288e1a90f25)
@@ -10479,7 +10479,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 217a1570-18ee-4773-a18c-90bd9e7adae3)
@@ -10511,7 +10511,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0381b35b-f354-47d9-8171-23b2631ffc7a)
@@ -10543,7 +10543,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8fe6c943-0702-4367-b4ed-a8c5b1047244)
@@ -10575,7 +10575,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4cee5a39-834c-4d96-bfa6-b125f471dee5)
@@ -10607,7 +10607,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 78d47c8d-58ef-4be3-bc0f-308b32f9d51f)
@@ -10639,7 +10639,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 15307220-c211-460c-9f9d-d55dea8f0909)
@@ -10671,7 +10671,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0aa8b23c-f96c-47db-981a-17b190750523)
@@ -10703,7 +10703,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dac09206-be00-4423-a13d-19cdbdca3fc7)
@@ -10735,7 +10735,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c842c833-2d25-4541-acb5-318bd42e4b9a)
@@ -10767,7 +10767,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9344856f-8250-47b1-9d68-8585cd78bbac)
@@ -10799,7 +10799,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e9344c96-db79-4689-9b3d-fbf88583d6d4)
@@ -10831,7 +10831,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 85036187-84e4-4704-a798-668605eaef57)
@@ -10863,7 +10863,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9c8b2a69-3809-4bfb-9dbf-f15fdf22092c)
@@ -10895,7 +10895,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 87f33fb5-5d25-4c71-96bc-149ae2d2ec67)
@@ -10927,7 +10927,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp eb049456-7557-47ba-a741-9245861edb3f)
@@ -10959,7 +10959,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2b7df8cc-2943-4501-99ce-415fbcdcf44e)
@@ -10991,7 +10991,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b37d4292-6ca3-4189-9f33-30c46ad22d15)
@@ -11023,7 +11023,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e24f6dab-e586-48fb-887c-81660712877f)
@@ -11055,7 +11055,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ca5e6633-6eb8-45e7-b214-384b464284d5)
@@ -11087,7 +11087,7 @@
     (property "Sheetfile" "m65.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006065a7ca")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 2.794 3.048) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3590193d-c934-4b21-8c26-36471d1b4cec)
@@ -11552,7 +11552,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d8aa2da5-189a-4ea4-8cbf-691dbb6ad9b2)
     )
-    (fp_text value "BlackPillSTM32F401-alin" (at -0.635 12.7 180) (layer "F.Fab") hide
+    (fp_text value "BlackPillSTM32F401-weact pinout" (at -0.635 12.7 180) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 69916f1e-a0e5-4fa2-b508-f0e5dcc783ae)
     )
@@ -11882,7 +11882,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b6e59ac5-b40a-4635-bb2b-0bd6c78a765d)
     )
-    (fp_text value "50kΩ" (at 5.715 2.37 -90) (layer "F.SilkS")
+    (fp_text value "100kΩ" (at 5.715 2.37 -90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 68a45c12-ee15-48c0-9a9c-566b5ea36800)
     )
