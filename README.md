@@ -12,7 +12,7 @@ the lego keyboard
 
   real one for the current print version 4
 
-  ![the current](pics/m65-v4.jpg)
+  ![the current](pics/m65-rev4.jpg)
 
   the case from lego...
 
@@ -24,13 +24,13 @@ status: **version 5** printing pcb
 * [x] gerbers designed
 * [x] firmware
 * [x] breadboard tested
-* [ ] gerbers printed
-* [ ] board tested
+* [x] gerbers printed
+* [x] board tested
 
-v1 and v2 are fully tested
+v1 (rev1) and v2 (rev2) are fully tested
 v3 I never printed and do not intend to do so.
-v4 is current tested and working rev3 is the firmware working with it..
-v5 under production... firmware seems to work
+v4 is tested and working (rev3) is the firmware working with it..
+v5 is current and working (rev4)
 
 warning
 -------
