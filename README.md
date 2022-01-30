@@ -1,6 +1,9 @@
 the lego keyboard
 =================
 
+  current iteration...
+
+  ![rev4 aka version 5](pics/m65-rev5.jpg)
 
   the 3d render looks like (version 5)
 
@@ -18,7 +21,7 @@ the lego keyboard
 
   ![the case render](pics/m65-case.png)
 
-status: **version 5** printing pcb
+status: **version 5** **rev 4** tested ok, current
 ----------------------------------
 
 * [x] gerbers designed
@@ -74,14 +77,13 @@ what is special about this one?
   * optional led strip (you will need a full brick lego or one more layer..)
 
 **note** the holes in current version are cut at the official lego dimension. Unfortunately the drilling machines have tolerance and
-the same the lego making tools... the tolerance in lego varies with colour of the plastic... you will find some colours may not fit
+the same is true for the lego making tools... the tolerance in lego varies with colour of the plastic... you will find some colours may not fit
 as well as others. I suggest you to use 1x2 and 1x4 plates if you want the finest keyboard, since they tend to bend the pcb... you will be
 amased but the force.
 
 if you do not want an angle for typing use a single sided plate as base.
 
 foaming the bottom makes a difference i use usually diy/hobbycraft foam, that you can buy for close to nothing in a4 sheets.
-
 
 see also
 --------
@@ -109,18 +111,14 @@ bom
  * jst horizontal header 3 pin, if you add leds strip
  * oled 128x32 i2c (4 pins)
 
-
 thickness
 ----------
-
 
 depending on what you want the box can come out very thin.. 1 base plate(single or double, flat or angled usage) plus pcb(1.6mm) plus one plate
 intermediate(3.2mm).
 that is thin. This shall allow you to put in a sheet of foam for sound dampening.
 
-
   ![1 double base plate, 1 intermediate plate and pcb. 8 mm ](pics/thick-1.jpg)
-
 
 2 layers of intermediate plates, for thicker foam sheet or for led strip which is connected by hand to the pins or holes... no jst
 header.
@@ -130,8 +128,6 @@ header.
 1 full brick if you want a jst header.
 
   ![1 double base plate, 1 intermediate brick and pcb. 14.4  mm ](pics/thick-3.jpg)
-
-
 
 pictures
 --------
@@ -160,7 +156,9 @@ pictures
 
   ![the pcb](pics/m65-pcb4.png)
 
-  ![the pcb version 4 current](pics/m65-pcb-v4.jpg)
+  ![the pcb version 4 rev3 ](pics/m65-pcb-v4.jpg)
+
+  ![the pcb rev4 ](pics/m65-rev4-pcb.jpg)
 
   just switches mounted
 
@@ -260,8 +258,7 @@ firmware
    microcontroller stm32f103/apm32 from robotdyn... aka black pill, https://robotdyn.com/black-pill-apm32f103cb-128kb-flash-20kb-sram-stm32-compatible-arm-cortexr-m3-mcu-mini-board.html
 
 ```bash
-   git clone --recurse-submodules https://github.com/alinelena/qmk_firmware.git
-   git checkout m65
+   git clone --recurse-submodules https://github.com/qmk/qmk_firmware.git
    make mlego/m65/rev1:uk
    make mlego/m65/rev1:uk:flash
 ```
@@ -269,20 +266,25 @@ firmware
 you can use also gdf303 from we act aka bluepill plus  https://github.com/WeActTC/BluePill-Plus
 
 ```bash
-   git clone --recurse-submodules https://github.com/alinelena/qmk_firmware.git
-   git checkout m65
+   git clone --recurse-submodules https://github.com/qmk/qmk_firmware.git
    make mlego/m65/rev2:uk
    make mlego/m65/rev2:uk:flash
 ```
 
 you can use also stm32f401 from we act
 
+```bash
+   git clone --recurse-submodules https://github.com/qmk/qmk_firmware.git
+   make mlego/m65/rev3:uk
+   make mlego/m65/rev3:uk:flash
+```
+
+for rev4
 
 ```bash
    git clone --recurse-submodules https://github.com/alinelena/qmk_firmware.git
-   git checkout m65
-   make mlego/m65/rev3:uk
-   make mlego/m65/rev3:uk:flash
+   make mlego/m65/rev4:uk
+   make mlego/m65/rev4:uk:flash
 ```
 
 
