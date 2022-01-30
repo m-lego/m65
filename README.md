@@ -3,7 +3,7 @@ the lego keyboard
 
   current iteration...
 
-  ![rev4 aka version 5](pics/m65-rev5.jpg)
+  ![rev4 aka version 5](pics/m65-rev4.jpg)
 
   the 3d render looks like (version 5)
 
