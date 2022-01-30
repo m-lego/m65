@@ -282,7 +282,7 @@ you can use also stm32f401 from we act
 for rev4
 
 ```bash
-   git clone --recurse-submodules https://github.com/alinelena/qmk_firmware.git
+   git clone --recurse-submodules https://github.com/qmk/qmk_firmware.git
    make mlego/m65/rev4:uk
    make mlego/m65/rev4:uk:flash
 ```
@@ -394,7 +394,7 @@ the pinout is the same for stm32f411
 ### Oled
 
   - SDA: B9
-  - SCL: B8
+  - SCL/SCK: B8
 
 ### LEDS
 
