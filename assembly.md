@@ -9,6 +9,13 @@ this is a rushed assembly guide... assumes you know how to solder and you alread
 pcb.
 while the complexity of the job is low, it may take over 2h of your time to put it together.
 
+familiarise yourself with the pcb
+
+![pcb](pics/m65-rev4-pcb.jpg)
+
+front of the PCB is the one with the artwork on.
+you can ignore R4 and R5 since they are for use only in advaced cases when special oleds are used.
+if you go for the full build all other footprints will be populated.
 
 mcu
 ---
