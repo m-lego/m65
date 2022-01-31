@@ -41,13 +41,17 @@ if you are using an oled i suggest to socket it too. Again I use round pins 4 in
 below.
 
 
-![header oled](pics/header_3.jpg)
+![header oled](pics/header_6.jpg)
 
 for soldering this you can use the pcb as support. add the headers into the pcb(conical side towards pcb) put the oled on top and be
-sure is vertical. you can use some blue tack or whatever. now you can solder the oled(be sure you do not solder the keyboard pcb
+sure is vertical. you can use some blue tack or whatever.
+
+![header oled](pics/header_7.jpg)
+
+now you can solder the oled(be sure you do not solder the keyboard pcb
 side). Once done you can remove it from pcb shall look like this.
 
-![header oled](pics/header_4.jpg)
+![header oled](pics/header_8.jpg)
 
 
 diodes
