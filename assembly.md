@@ -24,8 +24,15 @@ top. see picture below.
 
 be sure headers are vertical and stable. now you can start soldering.
 
+![header mcu](pics/header_3.jpg)
+
 I solder usually the extremes for each row and then the rest.
 
+finally shall look like this
+
+![header mcu](pics/header_4.jpg)
+
+![header mcu](pics/header_5.jpg)
 
 oled
 ----
