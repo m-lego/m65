@@ -5,6 +5,11 @@ assembly guide
 before you start
 ----------------
 
+this is a rushed assembly guide... assumes you know how to solder and you already read the bom section and have all of them plus the
+pcb.
+while the complexity of the job is low, it may take over 2h of your time to put it together.
+
+
 mcu
 ---
 
