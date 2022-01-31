@@ -95,22 +95,33 @@ see also
 bom
 ---
 
- * lego: suggested 1x2 plates or 1x4 plates you need to press them gently with a rolling pin
+ * lego: suggested 1x2 plates(46) or 1x4 plates some colours fit better than others.
  * double sided plate 16x32 studs.... you will need to live with a compatible since lego does not make them in this size, one thing
    i noticed is some plates may make the pcb to slightly bend... seems gray coloured ones are ok... no idea why.
- * 4 1x1 lego tiles or eyes.
- * optional 4 2x2 corner plates
+ * 4 1x1 lego tiles or eyes.(optionally)
+ * optional 4 2x2 corner plates(optionally)
  * 65 signal diodes 1N4148 , do 35
- * 2 resistors (220Ω or 350Ω)  and 2 leds, resistors need to be computed to match the colour of the led
+ * 2 resistors (510Ω (R1,R2) works fine for green and yellow leds you need to check the resistance for the right intensity you want)  and 2 leds, resistors need to be computed to match the colour of the led
+1kΩ for whites will be bright
  * 1 apm/stm32f103 blackpill from robotdyn, F303 will work also since they are pin identical.
  * or gd32f303 from we act studio...
  * or stm32f401 from we act
  * or stm32f411 from we act, ask for the firmware
+ * 100kΩ resistor for (R3)
  * switches (5 pin) and keycaps... for pcb mount
  * rotary encoder (I got this Bourns 24 Pulse Incremental Mechanical Rotary Encoder with a 6 mm Flat Shaft but any similar shall do)
  * jst horizontal header 3 pin, if you add leds strip
  * oled 128x32 i2c (4 pins)
+ * dil socket 1x4 row for oled.
+ * round pin headers 2x20 for MCU
+ * dil socket for MCU 40 way 15.24mm
+ * usb cable, c or mini depending on the mcu.
 
+
+assembly
+--------
+
+this is a very rush [assembly guide](assembly.md)
 thickness
 ----------
 
