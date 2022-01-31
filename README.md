@@ -121,7 +121,8 @@ bom
 assembly
 --------
 
-this is a very rush [assembly guide](assembly.md)
+this is a very rush [assembly guide](assembly.md) but shall give you the main idea.
+
 thickness
 ----------
 
