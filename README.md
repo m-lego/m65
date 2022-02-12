@@ -3,7 +3,7 @@ the lego keyboard
 
   current iteration...
 
-  ![rev4 aka version 5](pics/m65-rev4.jpg)
+  ![rev4 aka version 5](pics/m65-elvish.jpg)
 
   the 3d render looks like (version 5)
 
@@ -253,6 +253,10 @@ pictures
   keyboard no 15 (mt3 camillo, eva 02)
 
   ![mt3 camillo ](pics/m65-camillo.jpg)
+
+  keyboard no ... (mt3 elvish, eva 02)
+
+  ![mt3 elvish ](pics/m65-elvish.jpg)
 
 firmware
 --------
