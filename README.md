@@ -71,7 +71,7 @@ what is special about this one?
 
   * the case is set in lego (almost lego)
   * microcontroller is just a standard apm/stm32f103 blackpill from robotdyn  or gd32f303 bluepill plus from we act studio([gerbers](gerbers-stm32f103.zip)), version
-    with stm32f401 available now too see the [gerbers](gerbers-stm32f401.zip)
+    with stm32f401 available now too see the [gerbers](gerbers-rev4.zip)
   * rotary encoder (no switch)
   * oled 128x32 i2c
   * optional led strip (you will need a full brick lego or one more layer..)
