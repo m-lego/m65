@@ -258,6 +258,10 @@ pictures
 
   ![mt3 elvish ](pics/m65-elvish.jpg)
 
+  keyboard no ... (mt3 dwarvish, gateron ink v2 yellow and red)
+
+  ![mt3 elvish ](pics/m65-dwarvish.jpg)
+
 firmware
 --------
 
