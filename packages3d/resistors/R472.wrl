@@ -1,0 +1,7 @@
+#VRML V2.0 utf8
+#generated with kicad3Dmodel v0.1.0 https://github.com/KammutierSpule/kicad3Dmodels
+Transform { translation -.90 0 .51 scale .55 1.22 1.22 children [ Inline { url "./ring_4.wrl" } ] }
+Transform { translation -.53 0 .51 scale .55 1.04 1.04 children [ Inline { url "./ring_7.wrl" } ] }
+Transform { translation -.18 0 .51 scale .55 1.03 1.03 children [ Inline { url "./ring_2.wrl" } ] }
+Transform { translation 0.80 0 .51 scale .55 1.22 1.22 children [ Inline { url "./ring_10.wrl" } ] }
+Inline { url "./RESAD780W55L630D240B.wrl" }
