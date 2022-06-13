@@ -383,7 +383,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": "m65.wrl"
+      "vrml": "../../../blender/m65.wrl"
     },
     "page_layout_descr_file": ""
   },

@@ -34,6 +34,7 @@ v1 (rev1) and v2 (rev2) are fully tested
 v3 I never printed and do not intend to do so.
 v4 is tested and working (rev3) is the firmware working with it..
 v5 is current and working (rev4)
+rev5 rp2040 support.
 
 warning
 -------
@@ -90,6 +91,7 @@ see also
 
  * [5x12 split in lego](https://gitlab.com/m-lego/m60_split)
  * [5x12 in lego](https://gitlab.com/m-lego/m60)
+ * [5x4 in lego](https://gitlab.com/m-lego/m20)
  * [4x12 in lego](https://gitlab.com/m-lego/m48)
 
 bom
@@ -107,6 +109,7 @@ bom
  * or gd32f303 from we act studio...
  * or stm32f401 from we act
  * or stm32f411 from we act, ask for the firmware
+ * or rp2040 aka Raspberry pico
  * 100kΩ resistor for (R3)
  * switches (5 pin) and keycaps... for pcb mount
  * rotary encoder (I got this Bourns 24 Pulse Incremental Mechanical Rotary Encoder with a 6 mm Flat Shaft but any similar shall do)
@@ -114,7 +117,7 @@ bom
  * oled 128x32 i2c (4 pins)
  * dil socket 1x4 row for oled.
  * round pin headers 2x20 for MCU
- * dil socket for MCU 40 way 15.24mm
+ * dil socket for MCU 40 way 15.24mm or 2x20 dil sockets (mandatory for rp2040)
  * usb cable, c or mini depending on the mcu.
 
 
