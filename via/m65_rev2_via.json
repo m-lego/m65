@@ -1,7 +1,7 @@
 {
     "name": "mlego/m65 rev2",
     "vendorId": "0xBABA",
-    "productId": "0x6062",
+    "productId": "0x6061",
     "lighting": "qmk_rgblight",
     "matrix": {
         "rows": 5,
