@@ -93,7 +93,6 @@ see also
  * [5x12 in lego](https://gitlab.com/m-lego/m60)
  * [5x4 in lego](https://gitlab.com/m-lego/m20)
  * [4x12 in lego](https://gitlab.com/m-lego/m48)
- * [5x4 in lego](https://gitlab.com/m-lego/m20)
 
 bom
 ---
