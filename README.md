@@ -9,6 +9,8 @@ the lego keyboard
 
   ![3d render](pics/m65-rev4-render.png)
 
+
+
   the pcb for version 5
 
   ![pcb](pics/m65-rev4-pcb.png)
@@ -17,11 +19,13 @@ the lego keyboard
 
   ![the current](pics/m65-rev4-pcb.jpg)
 
+  ![pcb rev5](pics/m65-rev5-pcb-front.jpg)
+
   the case from lego...
 
   ![the case render](pics/m65-case.png)
 
-status: **version 5** **rev 4** tested ok, current
+status: **rev 5/6** tested ok, current
 ----------------------------------
 
 * [x] gerbers designed
@@ -34,7 +38,7 @@ v1 (rev1) and v2 (rev2) are fully tested
 v3 I never printed and do not intend to do so.
 v4 is tested and working (rev3) is the firmware working with it..
 v5 is current and working (rev4)
-rev5 rp2040 support.
+rev5/rev6 rp2040 support, rpico, weact and other compatible clones.
 
 warning
 -------
@@ -109,7 +113,7 @@ bom
  * or gd32f303 from we act studio...
  * or stm32f401 from we act
  * or stm32f411 from we act, ask for the firmware
- * or rp2040 aka Raspberry pico
+ * or rp2040 aka Raspberry pico, weact version, teenstar or...
  * 100kΩ resistor for (R3)
  * switches (5 pin) and keycaps... for pcb mount
  * rotary encoder (I got this Bourns 24 Pulse Incremental Mechanical Rotary Encoder with a 6 mm Flat Shaft but any similar shall do)
@@ -427,5 +431,35 @@ the pinout is the same for stm32f411
 | CAPS_LOCK   | C13 |
 | SCROLL_LOCK | B13 |
 | RBG_DI      | B15 |
+
+## Pins and leds rev5 rp2040 Raspberry Pico, Teenstar
+
+| Rows  | C0    | C1    | C2    | C3    | C4    | C5    | C6    | C7    | C8    | C9    | C10   | C11   | C12   | Pins  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| R0    | Esc   | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     | 0     | -     | Bksp  | GP22  |
+| R1    | Tab   | q     | w     | e     | r     | t     | y     | u     | i     | o     | p     | [     | ]     | GP16  |
+| R2    | #     | a     | s     | d     | f     | g     | h     | j     | k     | l     | ;     | '     | Enter | GP18  |
+| R3    | Shift | \     | z     | x     | c     | v     | b     | n     | m     | ,     | .     | Up    | /     | GP19  |
+| R4    | Ctrl  | Menu  | Lower | Alt   | Raise | Space | Space | Space | AltGr | Shift | Left  | Down  | Right | GP20  |
+|       | GP1   | GP6   | GP7   | GP8   | GP9   | GP15  | GP14  | GP13  | GP12  | GP11  | GP10  | GP17  | GP21  |       |
+
+### Encoders
+
+  - Pad_A: GP4
+  - Pad_B: GP5
+
+### Oled
+
+  - SDA: GP2
+  - SCL/SCK: GP3
+
+### LEDS
+
+| Leds        | Pin |
+| ----------- | --- |
+| NUM_LOCK    | GP28 |
+| CAPS_LOCK   | GP25 |
+| SCROLL_LOCK | GP27 |
+| RBG_DI      | GP0 |
 
 
