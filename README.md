@@ -463,3 +463,36 @@ the pinout is the same for stm32f411
 | RBG_DI      | GP0 |
 
 
+## Pins and leds rev6 rp2040 weact
+
+| Rows  | C0    | C1    | C2    | C3    | C4    | C5    | C6    | C7    | C8    | C9    | C10   | C11   | C12   | Pins  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| R0    | Esc   | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     | 0     | -     | Bksp  | GP22  |
+| R1    | Tab   | q     | w     | e     | r     | t     | y     | u     | i     | o     | p     | [     | ]     | GP16  |
+| R2    | #     | a     | s     | d     | f     | g     | h     | j     | k     | l     | ;     | '     | Enter | GP18  |
+| R3    | Shift | \     | z     | x     | c     | v     | b     | n     | m     | ,     | .     | Up    | /     | GP19  |
+| R4    | Ctrl  | Menu  | Lower | Alt   | Raise | Space | Space | Space | AltGr | Shift | Left  | Down  | Right | GP20  |
+|       | GP1   | GP6   | GP7   | GP8   | GP9   | GP15  | GP14  | GP13  | GP12  | GP11  | GP10  | GP17  | GP21  |       |
+
+### Encoders
+
+  - Pad_A: GP4
+  - Pad_B: GP5
+
+### Oled
+
+  - SDA: GP2
+  - SCL/SCK: GP3
+
+### LEDS
+
+| Leds        | Pin |
+| ----------- | --- |
+| NUM_LOCK    | GP29 |
+| CAPS_LOCK   | GP25 |
+| SCROLL_LOCK | GP28 |
+| RBG_DI      | GP0  |
+
+* while some pin numbers for leds are different physical positions are the same for both rev5 and rev6
+
+
