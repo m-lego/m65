@@ -3,23 +3,21 @@ the lego keyboard
 
   current iteration...
 
-  ![rev4 aka version 5](pics/m65-elvish.jpg)
+  ![rev5/6](pics/m65-rev5-blank.jpg)
 
-  the 3d render looks like (version 5)
+  the 3d render looks like
 
-  ![3d render](pics/m65-rev4-render.png)
+  ![3d render](pics/m65-rev5-render.png)
 
+  the pcb for rev5
 
-
-  the pcb for version 5
-
-  ![pcb](pics/m65-rev4-pcb.png)
+  ![pcb](pics/m65-rev5-pcb.png)
 
   the real pcb
 
-  ![the current](pics/m65-rev4-pcb.jpg)
+  ![pcb rev5 front](pics/m65-rev5-pcb-front.jpg)
 
-  ![pcb rev5](pics/m65-rev5-pcb-front.jpg)
+  ![pcb rev5 back](pics/m65-rev5-pcb-back.jpg)
 
   the case from lego...
 
@@ -158,6 +156,10 @@ pictures
   version 2
 
   ![3d render](pics/m65-v2.png)
+
+  the 3d rev4
+
+  ![3d render](pics/m65-rev4-render.png)
 
   the pcb (version 1)
 
@@ -494,5 +496,3 @@ the pinout is the same for stm32f411
 | RBG_DI      | GP0  |
 
 * while some pin numbers for leds are different physical positions are the same for both rev5 and rev6
-
-
