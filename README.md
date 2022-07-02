@@ -36,7 +36,7 @@ v1 (rev1) and v2 (rev2) are fully tested
 v3 I never printed and do not intend to do so.
 v4 is tested and working (rev3) is the firmware working with it..
 v5 is current and working (rev4)
-rev5/rev6 rp2040 support, rpico, weact and other compatible clones.
+rev5/rev6 - rp2040 support, rpico, weact and other compatible clones.
 
 warning
 -------
