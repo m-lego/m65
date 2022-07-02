@@ -104,7 +104,7 @@ bom
    i noticed is some plates may make the pcb to slightly bend... seems gray coloured ones are ok... no idea why.
  * 4 1x1 lego tiles or eyes.(optionally)
  * optional 4 2x2 corner plates(optionally)
- * 65 signal diodes 1N4148 , do 35
+ * 65 signal diodes 1N4148 , do 35 or sod 123
  * 2 resistors (510Ω (R1,R2) works fine for green and yellow leds you need to check the resistance for the right intensity you want)  and 2 leds, resistors need to be computed to match the colour of the led
 1kΩ for whites will be bright
  * 1 apm/stm32f103 blackpill from robotdyn, F303 will work also since they are pin identical.
