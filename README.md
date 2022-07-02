@@ -9,6 +9,8 @@ the lego keyboard
 
   ![3d render](pics/m65-rev5-render.png)
 
+  ![3d render back](pics/m65-rev5-render-back.png)
+
   the pcb for rev5
 
   ![pcb](pics/m65-rev5-pcb.png)
