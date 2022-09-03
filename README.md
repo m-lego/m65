@@ -1,10 +1,10 @@
 the lego keyboard
 =================
 
-  current iteration... this is a departure from the normal matrix keyboard. I am using seeduino xiao rp2040 or nrf52840 (probably
-samd21 will work too but I have none to test) and also play with zmk as firmware. Since xiao does not have enough pins for the full
+  current iteration... this is a departure from the normal matrix keyboard. I am using seeduino [xiao rp2040](https://wiki.seeedstudio.com/XIAO-RP2040/) or [nrf52840](https://wiki.seeedstudio.com/XIAO_BLE/) (probably
+samd21 will work too but I have none to test) and also play with zmk as firmware since I was curious on bt. Since xiao does not have enough pins for the full
 matrix... I use a hybrid approach, rows are direct pins while columns use 2 HC595 shift registers chained. I have also dropped the
-oled since there is little use for it. a proof of concept can be seen in here https://gitlab.com/m-lego/m4
+oled since there is little use for it. A proof of concept can be seen in [here](https://gitlab.com/m-lego/m4)
 
 
   ![3d render rev7](pics/m65_3d_rev7.png)
