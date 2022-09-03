@@ -1,44 +1,38 @@
 the lego keyboard
 =================
 
-  current iteration...
+  current iteration... this is a departure from the normal matrix keyboard. I am using seeduino xiao rp2040 or nrf52840 (probably
+samd21 will work too but I have none to test) and also play with zmk as firmware. Since xiao does not have enough pins for the full
+matrix... I use a hybrid approach, rows are direct pins while columns use 2 HC595 shift registers chained. I have also dropped the
+oled since there is little use for it. a proof of concept can be seen in here https://gitlab.com/m-lego/m4
 
-  ![rev5/6](pics/m65-rev5-blank.jpg)
 
-  the 3d render looks like
+  ![3d render rev7](pics/m65_3d_rev7.png)
 
-  ![3d render](pics/m65-rev5-render.png)
+  ![pcb rev7 front](pics/m65_pcb_rev7.png)
 
-  ![3d render back](pics/m65-rev5-render-back.png)
-
-  the pcb for rev5
-
-  ![pcb](pics/m65-rev5-pcb.png)
-
-  the real pcb
-
-  ![pcb rev5 front](pics/m65-rev5-pcb-front.jpg)
-
-  ![pcb rev5 back](pics/m65-rev5-pcb-back.jpg)
+  ![pcb rev7 back](pics/m65_pcb_back_rev7.png)
 
   the case from lego...
 
   ![the case render](pics/m65-case.png)
 
-status: **rev 5/6** tested ok, current
+status: **rev 7** in works
 ----------------------------------
 
 * [x] gerbers designed
 * [x] firmware
 * [x] breadboard tested
-* [x] gerbers printed
-* [x] board tested
+* [ ] gerbers printed
+* [ ] board tested
 
 v1 (rev1) and v2 (rev2) are fully tested
 v3 I never printed and do not intend to do so.
 v4 is tested and working (rev3) is the firmware working with it..
 v5 is current and working (rev4)
 rev5/rev6 - rp2040 support, rpico, weact and other compatible clones.
+rev7 xiao rp2040 and nrf52840 with 2 shift registers HC595 and no oled
+
 
 warning
 -------
@@ -182,6 +176,24 @@ pictures
   ![the pcb version 4 rev3 ](pics/m65-pcb-v4.jpg)
 
   ![the pcb rev4 ](pics/m65-rev4-pcb.jpg)
+
+  ![rev5/6](pics/m65-rev5-blank.jpg)
+
+  the 3d render looks like
+
+  ![3d render](pics/m65-rev5-render.png)
+
+  ![3d render back](pics/m65-rev5-render-back.png)
+
+  the pcb for rev5
+
+  ![pcb](pics/m65-rev5-pcb.png)
+
+  the real pcb
+
+  ![pcb rev5 front](pics/m65-rev5-pcb-front.jpg)
+
+  ![pcb rev5 back](pics/m65-rev5-pcb-back.jpg)
 
   just switches mounted
 

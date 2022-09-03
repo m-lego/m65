@@ -1,4 +1,4 @@
-20470077294798559
+20471740581750441
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86338,6 +86338,13 @@ lp
 0
 0
 m65
+lp-copper
+
+
+0
+0
+0
+m65
 mouse-bite-1mm-slot
 
 
@@ -86398,7 +86405,7 @@ xiao-ble-tht
 
 
 0
-22
+26
 22
 m65
 xiao-smd
