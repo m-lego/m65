@@ -1,5 +1,7 @@
 (sym_lib_table
-  (lib (name "m65-rescue")(type "Legacy")(uri "${KIPRJMOD}/m65-rescue.lib")(options "")(descr ""))
-  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/symbols/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "m65-rescue")(type "Legacy")(uri "${KIPRJMOD}/m65-rescue.lib")(options "")(descr "")(disabled))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/symbols/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr "")(disabled))
   (lib (name "diode")(type "KiCad")(uri "${KIPRJMOD}/symbols/diode.kicad_sym")(options "")(descr ""))
+  (lib (name "Seeeduino XIAO")(type "Legacy")(uri "${KIPRJMOD}/symbols/Seeeduino XIAO.lib")(options "")(descr ""))
+  (lib (name "Seeeduino XIAO_ble")(type "KiCad")(uri "${KIPRJMOD}/symbols/Seeeduino XIAO_ble.kicad_sym")(options "")(descr ""))
 )
