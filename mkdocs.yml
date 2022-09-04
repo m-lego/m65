@@ -13,6 +13,8 @@ theme:
     scheme: slate
     primary: teal
     accent: lime
+  include_sidebar: false
+
 
 # Extensions
 markdown_extensions:
