@@ -1,3 +1,9 @@
+---
+title: mlego
+template: home.html
+---
+
+
 # mlego
 
 motivation

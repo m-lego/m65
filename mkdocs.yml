@@ -1,4 +1,4 @@
-site_name: mlego motes
+site_name: mlego notes
 site_url: https://mlego.elena.space
 site_dir: public
 docs_dir: ./notes
@@ -9,6 +9,7 @@ site_description: set of notes on mlego keyboards
 
 theme:
   name: material
+  custom_dir: notes/overrides
   palette:
     scheme: slate
     primary: teal
