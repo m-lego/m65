@@ -40,3 +40,10 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+
+nav:
+    - Home: index.md
+    - Keyboards:
+      - m65: m65.md
+      - m60: m60.md
+
