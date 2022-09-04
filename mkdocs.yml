@@ -3,7 +3,7 @@ site_url: https://mlego.elena.space
 site_dir: public
 docs_dir: ./notes
 repo_url: https://gitlab.com/m-lego/m65
-copyright: &copy; 2017-2022 alin m elena
+copyright: Ⓒ 2017-2022 alin m elena
 site_author: alin m elena
 site_description: set of notes on mlego keyboards
 
