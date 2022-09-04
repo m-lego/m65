@@ -13,18 +13,18 @@ theme:
     accent: lime
 
 # Extensions
-markdown_extensions:
-    - footnotes
-    - attr_list
-    - pymdownx.highlight
-    - pymdownx.superfences
-    - pymdownx.details
-    - pymdownx.magiclink
-    - pymdownx.tasklist
-    - pymdownx.emoji
-    - admonition
-    - toc:
-      permalink: True
+#markdown_extensions:
+#    - footnotes
+#    - attr_list
+#    - pymdownx.highlight
+#    - pymdownx.superfences
+#    - pymdownx.details
+#    - pymdownx.magiclink
+#    - pymdownx.tasklist
+#    - pymdownx.emoji
+#    - admonition
+#    - toc:
+#      permalink: True
 
 plugins:
   - search
