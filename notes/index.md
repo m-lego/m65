@@ -8,3 +8,14 @@ Initially I started with a 6x13 but then settled to a 5x13 as best option.
 more info in [here](https://alin.elena.space/blog/keeblego/)
 
 
+## keyboards
+
+ * [m65 5x13](m65.md)
+ * [m60 5x12](m60.md)
+ * [m60 split 5x12](m60_split.md)
+ * [m48 4x12](m48.md)
+ * [m4 2x2](m4.md)
+ * [m20 5x4](m20.md)
+ * [tipro 8x16](tipro8x16.md)
+ * [tipro ortho ansi](tiproortho-ansi.md)
+ * [tipro ansi ortho](tiproansi-ortho.md)
