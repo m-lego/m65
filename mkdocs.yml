@@ -1,0 +1,25 @@
+site_name: Mlego Notes
+site_url: https://m-lego.gitlab.io/m65
+site_dir: public
+docs_dir: ./notes
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.tasklist
+  - pymdownx.emoji
+  - admonition
+  - toc:
+    permalink: true
+
+plugins:
+  - search
+  - roamlinks
