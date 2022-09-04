@@ -382,7 +382,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "m65.step",
       "vrml": "../../../blender/m65.wrl"
     },
     "page_layout_descr_file": ""
