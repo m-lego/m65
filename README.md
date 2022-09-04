@@ -59,11 +59,12 @@ more info in [here](https://alin.elena.space/blog/keeblego/)
 
 
 There is a [6x13](https://github.com/Kyrremann/index-tab) project if you want
-and a [4x13](https://github.com/farfalleflickan/nack)
+and a [4x13](https://github.com/farfalleflickan/nack) and plenty of others see [help-14](https://github.com/help-14/mechanical-keyboard)
+or [mechdb](https://mechdb.net/)
 
 I am not related with any of them and discovered some of them too late.
 
-I have also made a split, 5x12 and 4x12, see below.
+I have also made a 5x12 split, 5x12 and 4x12, 5x4, 2x2 see below.
 
 
 what is special about this one?
@@ -91,6 +92,7 @@ see also
  * [5x12 in lego](https://gitlab.com/m-lego/m60)
  * [5x4 in lego](https://gitlab.com/m-lego/m20)
  * [4x12 in lego](https://gitlab.com/m-lego/m48)
+ * [2x2 in lego](https://gitlab.com/m-lego/m4)
 
 bom
 ---
