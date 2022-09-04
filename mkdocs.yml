@@ -9,11 +9,17 @@ site_description: set of notes on mlego keyboards
 
 theme:
   name: material
-  custom_dir: notes/overrides
+  custom_dir: notes/overrides/
   palette:
     scheme: slate
     primary: teal
     accent: lime
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.expand
 
 # Extensions
 markdown_extensions:
@@ -23,9 +29,12 @@ markdown_extensions:
     - pymdownx.superfences
     - pymdownx.details
     - pymdownx.magiclink
-    - pymdownx.tasklist
     - pymdownx.emoji
     - admonition
+    - pymdownx.tabbed:
+        alternate_style: True
+    - pymdownx.tasklist:
+        custom_checkbox: True
     - toc:
         permalink: True
 
