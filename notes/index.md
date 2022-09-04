@@ -10,9 +10,7 @@ more info in [here](https://alin.elena.space/blog/keeblego/)
 
 ## designed keyboards
 
-### m65
-
- * [m65 5x13](m65.md)
+### [m65 5x13](m65.md)
 
 ### m60
 
