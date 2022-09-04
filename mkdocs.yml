@@ -9,7 +9,6 @@ site_description: set of notes on mlego keyboards
 
 theme:
   name: material
-  custom_dir: notes/overrides/
   palette:
     scheme: slate
     primary: teal
