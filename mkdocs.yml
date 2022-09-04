@@ -46,4 +46,15 @@ nav:
     - Keyboards:
       - m65: m65.md
       - m60: m60.md
+      - 'm60 split': m60_split.md
+      - m48: m48.md
+      - m20: m20.md
+      - m4: m4.md
+    - Converted:
+      - 'tipro 8x12': tipro8x12.md
+      - 'tipro 8x16': tipro8x16.md
+      - 'tipro ansi-ortho': tiproansi-ortho.md
+      - 'tipro ortho-ansi': tiproortho-ansi.md
+    - Others:
+      - handwire: hand5x5.md
 
