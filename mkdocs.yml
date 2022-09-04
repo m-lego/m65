@@ -7,18 +7,6 @@ theme:
   name: material
   palette:
     scheme: slate
-markdown_extensions:
-  - footnotes
-  - attr_list
-  - pymdownx.highlight
-  - pymdownx.superfences
-  - pymdownx.details
-  - pymdownx.magiclink
-  - pymdownx.tasklist
-  - pymdownx.emoji
-  - admonition
-  - toc:
-    permalink: true
 
 plugins:
   - search
