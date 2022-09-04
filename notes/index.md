@@ -1,7 +1,6 @@
 # mlego
 
-motivation
-----------
+## motivation
 
 this is just a fun project started some time ago.
 The idea was to have an iso friendly ortholinear keyboard.
