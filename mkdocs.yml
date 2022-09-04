@@ -1,5 +1,5 @@
 site_name: Mlego Notes
-site_url: https://m-lego.gitlab.io/m65
+site_url: https://mlego.elena.space
 site_dir: public
 docs_dir: ./notes
 repo_url: https://gitlab.com/m-lego/m65
@@ -14,17 +14,17 @@ theme:
 
 # Extensions
 markdown_extensions:
-  - footnotes
-  - attr_list
-  - pymdownx.highlight
-  - pymdownx.superfences
-  - pymdownx.details
-  - pymdownx.magiclink
-  - pymdownx.tasklist
-  - pymdownx.emoji
-  - admonition
-  - toc:
-    permalink: true
+    - footnotes
+    - attr_list
+    - pymdownx.highlight
+    - pymdownx.superfences
+    - pymdownx.details
+    - pymdownx.magiclink
+    - pymdownx.tasklist
+    - pymdownx.emoji
+    - admonition
+    - toc:
+      permalink: True
 
 plugins:
   - search
