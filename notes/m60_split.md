@@ -88,7 +88,9 @@ this is a very rushed [assembly guide](assembly.md) but shall give you the main 
 
 #### firmware
 
-##### rev1 stm32f401 or simply use this [firmware](https://gitlab.com/m-lego/m60_split/-/blob/main/firmware/mlego_m60_split_rev1_default.uf2) be sure tiny uf2 has the uf2 bootloader.
+##### rev1
+
+stm32f401 or simply use this [firmware](https://gitlab.com/m-lego/m60_split/-/blob/main/firmware/mlego_m60_split_rev1_default.uf2) be sure tiny uf2 has the uf2 bootloader.
 to install it use https://github.com/adafruit/tinyuf2
 
 
@@ -100,7 +102,9 @@ to install it use https://github.com/adafruit/tinyuf2
    make mlego/m60_split/rev1:default
 ```
 
-##### rev2 stm32f411 or simply use this [firmware](https://gitlab.com/m-lego/m60_split/-/blob/main/firmware/mlego_m60_split_rev2_default.uf2) be sure tiny uf2 has the uf2 bootloader.
+##### rev2
+
+stm32f411 or simply use this [firmware](https://gitlab.com/m-lego/m60_split/-/blob/main/firmware/mlego_m60_split_rev2_default.uf2) be sure tiny uf2 has the uf2 bootloader.
 to install it use https://github.com/adafruit/tinyuf2
 
 ```bash
