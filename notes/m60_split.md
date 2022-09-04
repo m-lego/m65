@@ -106,6 +106,31 @@ to install it use https://github.com/adafruit/tinyuf2
 
 #### pins
 
+ - left:
+   - columns: "B14", "A10", "A15", "B3", "B4", "B5"
+   - rows: "B0", "A6", "A7", "B1", "A5"
+ - right:
+   - columns: "B0", "A3", "A2", "A1", "B7", "B5"
+   - rows: "B1", "A4", "A5", "A6", "A7"
+
+**Encoders**
+
+  - Pad_A: A0
+  - Pad_B: A8
+
+**Leds**
+
+| Leds        | Pin |
+| ----------- | --- |
+| NUM_LOCK    | B12 |
+| CAPS_LOCK   | C13 |
+| SCROLL_LOCK | B13 |
+| RBG_DI      | B15 |
+
+SPLIT_HAND_PIN B9
+SERIAL_USART_TX_PIN B6
+
+
 #### other builds
 
 these are Seth's builds (u/modularsynth123456/)
