@@ -13,9 +13,9 @@ theme:
     accent: lime
 
 # Extensions
-#markdown_extensions:
-#    - footnotes
-#    - attr_list
+markdown_extensions:
+    - footnotes
+    - attr_list
 #    - pymdownx.highlight
 #    - pymdownx.superfences
 #    - pymdownx.details
@@ -23,8 +23,8 @@ theme:
 #    - pymdownx.tasklist
 #    - pymdownx.emoji
 #    - admonition
-#    - toc:
-#      permalink: True
+    - toc:
+      permalink: True
 
 plugins:
   - search
