@@ -31,8 +31,7 @@ Features:
 left side
 
 
-  ![M60 split 5x12 left](pics/5x12s/m60-split-left-3d.png)
-  ![M60 split 5x12 right](pics/5x12s/m60-split-right-3d.png)
+  ![M60 split 5x12](pics/5x12s/m60-split-3d.jpg)
 
 
 #### pcb
