@@ -14,6 +14,7 @@ theme:
     primary: teal
     accent: lime
   language: en
+  logo: pics/mlego.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
