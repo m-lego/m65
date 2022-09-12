@@ -4,7 +4,7 @@
 
 ### pcb
 
-I used the same daughter board as for tipro 8x16 more info https://mlego.elena.space/tipro8x16/
+I used the same daughter board as for tipro 8x16 more info [here](https://mlego.elena.space/tipro8x16/)
 
 ### pictures
 
