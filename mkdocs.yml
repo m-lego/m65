@@ -20,6 +20,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.indexes
     - navigation.expand
+    - content.tabs.link
 
 # Extensions
 markdown_extensions:
