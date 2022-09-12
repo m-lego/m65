@@ -13,7 +13,7 @@ it uses stm32f401 on a pcb but since there are not enough pins for the 7 leds I 
 
  3d render
 
- ![tipro conversion pcb](https://gitlab.com/m-lego/hand8x16/-/blob/develop/figs/handwire8x16-bottom.png)
+ ![tipro conversion pcb](handwire8x16-bottom.png)
 
  printed pcbs
 
