@@ -30,7 +30,7 @@ it uses stm32f401 on a pcb but since there are not enough pins for the 7 leds I 
 
   ready made firmware can be downloaded
 
-  + [handwired_ortho8x16_rev1_default.uf2](https://gitlab.com/m-lego/hand8x16/-/blob/develop/firmware/handwired_ortho8x16_rev1_default.uf2)
+  + [tipro_rev1_default.uf2](https://gitlab.com/m-lego/hand8x16/-/blob/develop/firmware/tipro_rev1_default.uf2)
 
   build your own
 
@@ -41,6 +41,20 @@ it uses stm32f401 on a pcb but since there are not enough pins for the 7 leds I 
 
    ```
    copy the resulting uf2 on the mcu.
+
+### pins
+
+   - cols: B5,B4,C14,C15, A0, A1, A2, A3, A7, B0, B10, B1
+   - rows: B12, B13, B14, B15, A8, A10, A15, B3
+
+  - leds: shift register - QA-QG
+
+** 74HC595N **
+
+  - data: A4
+  - latch: A6
+  - clock: A5
+
 
 ### pictures
 
