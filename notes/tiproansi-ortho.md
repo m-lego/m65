@@ -32,3 +32,9 @@ uses the same mcu.
 ### pins
 
 the same as 8x16
+
+### photos
+
+original
+
+  ![tipro 128 8x16](pics/tipro/tipro-ansi-ortho-orig.jpg)
