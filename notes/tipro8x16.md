@@ -28,7 +28,7 @@ total price of conversion around £10.
  ![tipro pcb](pics/tipro/mpcb-1.jpg)
  ![tipro pcb](pics/tipro/mpcb-2.jpg)
 
- wiring
+### wiring
 
  ![tipro 128 8x16](pics/tipro/m8x16-back.jpg)
 
