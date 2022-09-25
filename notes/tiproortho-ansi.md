@@ -15,7 +15,7 @@ this is in working, page updated once finished.
 
 original
 
-![m128 ortho ansi ](pics/tipro/tipro-8x16-original.jpg)
+![m128 ortho ansi ](pics/tipro/tipro-ortho-ansi-original.jpg)
 
 cleaned
 
