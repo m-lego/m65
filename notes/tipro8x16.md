@@ -68,6 +68,8 @@ total price of conversion around £10.
 
 original
 
+![tipro 128 8x15](pics/tipro/tipro-8x16-original.jpg)
+
 ![tipro 128 8x16](pics/tipro/m8x16-top.jpg)
 
 
