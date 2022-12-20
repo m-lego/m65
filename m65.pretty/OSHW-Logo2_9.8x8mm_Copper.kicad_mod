@@ -4,11 +4,11 @@
   (descr "Open Source Hardware Symbol")
   (tags "Logo Symbol OSHW")
   (attr board_only exclude_from_pos_files exclude_from_bom)
-  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+  (fp_text reference "G4" (at 0 0) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 6d151f96-7c2c-487c-846b-944cc280de6e)
   )
-  (fp_text value "OSHW-Logo2_9.8x8mm_Copper" (at 0.75 0) (layer "F.Fab") hide
+  (fp_text value "OSHW" (at 0.75 0) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 7af78505-d403-42f9-9e8e-e1e65e7aba2a)
   )

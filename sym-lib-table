@@ -4,4 +4,5 @@
   (lib (name "diode")(type "KiCad")(uri "${KIPRJMOD}/symbols/diode.kicad_sym")(options "")(descr ""))
   (lib (name "Seeeduino XIAO")(type "Legacy")(uri "${KIPRJMOD}/symbols/Seeeduino XIAO.lib")(options "")(descr ""))
   (lib (name "Seeeduino XIAO_ble")(type "KiCad")(uri "${KIPRJMOD}/symbols/Seeeduino XIAO_ble.kicad_sym")(options "")(descr ""))
+  (lib (name "ssd1680")(type "KiCad")(uri "${KIPRJMOD}/symbols/ssd1680.kicad_sym")(options "")(descr ""))
 )

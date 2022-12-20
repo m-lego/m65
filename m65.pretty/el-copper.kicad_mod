@@ -2,11 +2,11 @@
   (layer "F.Cu")
   (tedit 61D8A65E)
   (attr board_only exclude_from_pos_files exclude_from_bom)
-  (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
+  (fp_text reference "G3" (at 0 0) (layer "F.SilkS") hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
     (tstamp e43d2caf-f88d-4854-b9ea-7932b7466c98)
   )
-  (fp_text value "LOGO" (at 0.75 0) (layer "F.SilkS") hide
+  (fp_text value "el" (at 0.75 0) (layer "F.SilkS") hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
     (tstamp 006ac304-996e-4e86-853e-b0c77b8125c6)
   )

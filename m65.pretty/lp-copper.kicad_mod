@@ -1,8 +1,8 @@
-(footprint "lp" (version 20211014) (generator pcbnew)
+(footprint "lp-copper" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 61D8A3C4)
   (attr board_only exclude_from_pos_files exclude_from_bom)
-  (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
+  (fp_text reference "L1" (at 0 0) (layer "F.SilkS") hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
     (tstamp 4dd1154e-6a7e-49f4-9db1-5196225790fe)
   )
