@@ -1,0 +1,47 @@
+(footprint "inv" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "G6" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 887831be-d2b2-4344-bd15-49cd6e17af72)
+  )
+  (fp_text value "inv" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e80a6141-328c-4baf-98db-6a4b2300109a)
+  )
+  (fp_text user "est invisible" (at 0 0 unlocked) (layer "F.Cu")
+    (effects (font (size 2 2) (thickness 0.25)))
+    (tstamp 68a215ba-b9ed-4397-9057-ff805ef57dce)
+  )
+  (fp_text user "pour les yeux." (at 0 2.5 unlocked) (layer "F.Cu")
+    (effects (font (size 2 2) (thickness 0.25)))
+    (tstamp ddbd7351-cd76-413d-ab22-6577d5d3c60e)
+  )
+  (fp_text user "L'essentiel" (at 0 -2.5 unlocked) (layer "F.Cu")
+    (effects (font (size 2 2) (thickness 0.25)))
+    (tstamp e2552679-a14f-4fe7-a9bb-a5a6c3fa716e)
+  )
+  (fp_text user "L'essentiel" (at 0 -2.5 unlocked) (layer "F.Mask")
+    (effects (font (size 2 2) (thickness 0.25)))
+    (tstamp 4794830e-fab7-4503-886a-717dcb42040a)
+  )
+  (fp_text user "pour les yeux." (at 0 2.5 unlocked) (layer "F.Mask")
+    (effects (font (size 2 2) (thickness 0.25)))
+    (tstamp 7aa9d910-b5c1-4fbb-a789-c88387dbdb35)
+  )
+  (fp_text user "est invisible" (at 0 0 unlocked) (layer "F.Mask")
+    (effects (font (size 2 2) (thickness 0.25)))
+    (tstamp b7ed6769-f409-44bb-9cdc-66494d72e3b9)
+  )
+  (group "" (id 768a512b-b836-442f-85a8-8755d2164e42)
+    (members
+      4794830e-fab7-4503-886a-717dcb42040a
+      68a215ba-b9ed-4397-9057-ff805ef57dce
+      7aa9d910-b5c1-4fbb-a789-c88387dbdb35
+      b7ed6769-f409-44bb-9cdc-66494d72e3b9
+      ddbd7351-cd76-413d-ab22-6577d5d3c60e
+      e2552679-a14f-4fe7-a9bb-a5a6c3fa716e
+    )
+  )
+)

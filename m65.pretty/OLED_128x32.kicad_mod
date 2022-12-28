@@ -65,7 +65,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )
-  (model "${KIPRJMOD}/packages3d/OLED_0.91_128x321.stp"
+  (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/OLED_0.91_128x321.stp"
     (offset (xyz 0 17.5 9.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

@@ -1,4 +1,4 @@
-20699698576642910
+20723206105076588
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86471,6 +86471,20 @@ module BlackPill weact STM32F401
 40
 40
 m65
+C-dual
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
+C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor
+0
+6
+2
+m65
+C-x
+Tantalum Capacitor SMD AVX-P (2012-15 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+m65
 C1206-pads
 Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor handsolder
@@ -86489,7 +86503,28 @@ CherryMX_ChocV2_1u
 
 
 0
-5
+7
+2
+m65
+CherryMX_ChocV2_1u-3dCherry
+
+
+0
+7
+2
+m65
+CherryMX_ChocV2_1u-3dchocov1
+
+
+0
+7
+2
+m65
+CherryMX_ChocV2_1u-3dchocov2
+
+
+0
+7
 2
 m65
 CherryMX_ChocV2_1u-ledTHT
@@ -86498,6 +86533,13 @@ CherryMX_ChocV2_1u-ledTHT
 0
 4
 4
+m65
+Diode-dual
+
+
+0
+10
+2
 m65
 Kailh_ChocV2_1u_19.05
 
@@ -86541,6 +86583,27 @@ mounting hole 4.9mm, no annular
 0
 0
 m65
+LegoHole_7u_4875
+Mounting Hole 4.9mm, no annular
+mounting hole 4.9mm, no annular
+0
+0
+0
+m65
+LegoHole_11u_4875
+Mounting Hole 4.9mm, no annular
+mounting hole 4.9mm, no annular
+0
+0
+0
+m65
+LegoHole_12u_4875
+Mounting Hole 4.9mm, no annular
+mounting hole 4.9mm, no annular
+0
+0
+0
+m65
 LegoHole_14u_4875
 Mounting Hole 4.9mm, no annular
 mounting hole 4.9mm, no annular
@@ -86568,6 +86631,13 @@ mounting hole 4.9mm, no annular
 0
 0
 0
+m65
+MX-Alps-Hybrid-1U
+
+
+0
+4
+2
 m65
 MountingHole_1.15mm_M1
 Mounting Hole 2.2mm, no annular, M2
@@ -86597,11 +86667,32 @@ Logo Symbol OSHW
 0
 0
 m65
+R-dual
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+6
+2
+m65
+R-dual-10k
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+10
+2
+m65
+R-dual-510
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+6
+2
+m65
 R510_led
 Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
 Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
 0
-4
+6
 2
 m65
 R4700
@@ -86678,7 +86769,7 @@ SW-1u-MXandChocV2-v2
 
 
 0
-13
+15
 4
 m65
 SW_Cherry_MX_1.00u_PCB
@@ -86698,6 +86789,13 @@ m65
 SW_Cherry_MX_1uEncoder
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+m65
+SW_PG1350
+Kailh "Choc" PG1350 keyswitch
+kailh,choc
 0
 2
 2
@@ -86748,7 +86846,7 @@ diode_v
 Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
 Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
 0
-4
+10
 2
 m65
 el
