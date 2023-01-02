@@ -65,9 +65,9 @@
   (pad "2" thru_hole oval (at 5 -3.8) (size 2.1 1.6) (drill oval 1 0.4) (layers *.Cu *.Mask) (tstamp 1c773f33-653e-4573-ab92-963ddf86ee04))
   (pad "2" thru_hole circle (at -3.81 -2.54) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp a0881cde-7148-44e7-848b-dd6dcd387fdb))
   (pad "2" thru_hole circle (at -2.5 -4) (size 2.4 2.4) (drill 1.524) (layers *.Cu *.Mask) (tstamp a66c4303-b2d7-4bd8-bd1c-74954d033f62))
-  (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/Kailh_PG1353.STEP"
-    (offset (xyz 0 0 3))
+  (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/ChocV2.wrl"
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 -90))
+    (rotate (xyz 0 0 0))
   )
 )

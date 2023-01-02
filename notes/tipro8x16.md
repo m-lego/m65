@@ -25,7 +25,8 @@ total price of conversion around £10.
 
  printed pcbs
 
- ![tipro pcb](pics/tipro/mpcb-1.jpg)
+ ![tipro pcb 1](pics/tipro/mpcb-1.jpg)
+
  ![tipro pcb](pics/tipro/mpcb-2.jpg)
 
 ### wiring
