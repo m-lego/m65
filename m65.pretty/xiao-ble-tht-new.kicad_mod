@@ -222,34 +222,29 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x07_P2.54mm_Vertical.step"
-    (offset (xyz -6 7.5 9.5))
+  (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/mill-max-334-10-107-00-010000.STEP"
+    (offset (xyz -5 -8.5 8))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 180 0))
+    (rotate (xyz -90 0 -90))
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x07_P2.54mm_Vertical.step"
-    (offset (xyz 9 7.5 9.5))
+  (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/mill-max-310-13-107-41-001000.STEP"
+    (offset (xyz -5 -8.5 4))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 180 0))
+    (rotate (xyz -90 0 -90))
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
-    (offset (xyz 3 -8.5 1))
+  (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/mill-max-310-13-107-41-001000.STEP"
+    (offset (xyz 8 8.5 4))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 90))
+    (rotate (xyz -90 0 90))
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
-    (offset (xyz -3 2.5 1))
+  (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/mill-max-334-10-107-00-010000.STEP"
+    (offset (xyz 10.5 -8.5 8))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 -90))
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x07_P2.54mm_Vertical.step"
-    (offset (xyz -6 7.5 0))
+  (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/mill-max-836-22-002-10-001101.STEP"
+    (offset (xyz -2 -0.5 6.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x07_P2.54mm_Vertical.step"
-    (offset (xyz 9 7.5 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 -90))
   )
 )

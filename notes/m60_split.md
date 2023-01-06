@@ -137,8 +137,8 @@ to install it use https://github.com/adafruit/tinyuf2
 | SCROLL_LOCK | B13 |
 | RBG_DI      | B15 |
 
- - SPLIT_HAND_PIN B9
- = SERIAL_USART_TX_PIN B6
+- SPLIT_HAND_PIN B9
+= SERIAL_USART_TX_PIN B6
 
 
 #### other builds

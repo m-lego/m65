@@ -1,4 +1,4 @@
-20706692988926683
+20721760107954066
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86436,6 +86436,13 @@ varistor
 2
 2
 m65
+74HC165-sop16
+16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
+SOP 1.27
+0
+32
+16
+m65
 74HC595-sop16
 16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
 SOP 1.27
@@ -86520,6 +86527,13 @@ CherryMX_ChocV2_1u-ledTHT
 4
 4
 m65
+CherryMX_ChocV2_1uALPS
+
+
+0
+7
+2
+m65
 LED_D3.0mm_lwr
 IR-LED, diameter 3.0mm, 2 pins, color: clear
 IR infrared LED diameter 3.0mm 2 pins clear
@@ -86570,6 +86584,20 @@ mounting hole 4.9mm, no annular
 0
 m65
 LegoHole_12u_4875
+Mounting Hole 4.9mm, no annular
+mounting hole 4.9mm, no annular
+0
+0
+0
+m65
+LegoHole_12x8u_4875
+Mounting Hole 4.9mm, no annular
+mounting hole 4.9mm, no annular
+0
+0
+0
+m65
+LegoHole_12x12u_4875
 Mounting Hole 4.9mm, no annular
 mounting hole 4.9mm, no annular
 0
@@ -86737,6 +86765,13 @@ SK6812-MINI-E-pins
 8
 4
 m65
+SO16
+<b>Small Outline package</b> 150 mil
+
+0
+16
+16
+m65
 SW-1u-MXandChocV2
 
 
@@ -86765,12 +86800,12 @@ Cherry MX keyswitch 1.00u PCB
 2
 2
 m65
-SW_Cherry_MX_1uEncoder
+SW_Cherry_MX_1.00u_PCB-enc
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
 0
 9
-5
+6
 m65
 SW_PG1350
 Kailh "Choc" PG1350 keyswitch
@@ -86785,6 +86820,13 @@ connector JST PH top entry
 0
 6
 3
+m65
+battery connector - no surface
+JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+2
+2
 m65
 cols0-1 10-15
 Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
@@ -86813,6 +86855,13 @@ Through hole socket strip THT 1x06 2.54mm single row
 0
 6
 6
+m65
+connector-rgb
+JST XH series connector, S3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
+0
+3
+3
 m65
 diode_v
 Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
@@ -86926,7 +86975,21 @@ mouse-bite-5mm-slot
 0
 0
 m65
+rgb-con
+JST EH series connector, S3B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH horizontal
+0
+3
+3
+m65
 rows0-7
+Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x08 2.54mm single row
+0
+8
+8
+m65
+screen-oled
 Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
 Through hole socket strip THT 1x08 2.54mm single row
 0

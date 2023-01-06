@@ -258,6 +258,79 @@
         )
       )
     )
+    (symbol "Connector:Conn_01x03_Male" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+      (property "Reference" "J" (id 0) (at 0 5.08 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Value" "Conn_01x03_Male" (id 1) (at 0 -5.08 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Footprint" "" (id 2) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "~" (id 3) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "connector" (id 4) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)" (id 5) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_fp_filters" "Connector*:*_1x??_*" (id 6) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "Conn_01x03_Male_1_1"
+        (polyline
+          (pts
+            (xy 1.27 -2.54)
+            (xy 0.8636 -2.54)
+          )
+          (stroke (width 0.1524) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.27 0)
+            (xy 0.8636 0)
+          )
+          (stroke (width 0.1524) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.27 2.54)
+            (xy 0.8636 2.54)
+          )
+          (stroke (width 0.1524) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (rectangle (start 0.8636 -2.413) (end 0 -2.667)
+          (stroke (width 0.1524) (type default) (color 0 0 0 0))
+          (fill (type outline))
+        )
+        (rectangle (start 0.8636 0.127) (end 0 -0.127)
+          (stroke (width 0.1524) (type default) (color 0 0 0 0))
+          (fill (type outline))
+        )
+        (rectangle (start 0.8636 2.667) (end 0 2.413)
+          (stroke (width 0.1524) (type default) (color 0 0 0 0))
+          (fill (type outline))
+        )
+        (pin passive line (at 5.08 2.54 180) (length 3.81)
+          (name "Pin_1" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 5.08 0 180) (length 3.81)
+          (name "Pin_2" (effects (font (size 1.27 1.27))))
+          (number "2" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 5.08 -2.54 180) (length 3.81)
+          (name "Pin_3" (effects (font (size 1.27 1.27))))
+          (number "3" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
     (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0.635 2.54 0)
         (effects (font (size 1.27 1.27)) (justify left))
@@ -1420,6 +1493,9 @@
   (junction (at 195.58 75.184) (diameter 0) (color 0 0 0 0)
     (uuid 501880c3-8633-456f-9add-0e8fa1932ba6)
   )
+  (junction (at 100.076 156.718) (diameter 0) (color 0 0 0 0)
+    (uuid 53cc695e-71e3-4c07-a2ce-7edb1cb24534)
+  )
   (junction (at 71.12 66.294) (diameter 0) (color 0 0 0 0)
     (uuid 57f248a7-365e-4c42-b80d-5a7d1f9dfaf3)
   )
@@ -1600,6 +1676,9 @@
   (junction (at 114.3 30.734) (diameter 0) (color 0 0 0 0)
     (uuid b854a395-bfc6-4140-9640-75d4f9296771)
   )
+  (junction (at 102.87 177.038) (diameter 0) (color 0 0 0 0)
+    (uuid b8a7185d-3439-45ae-b3b6-e4563a5254f3)
+  )
   (junction (at 153.67 57.404) (diameter 0) (color 0 0 0 0)
     (uuid bc0dbc57-3ae8-4ce5-a05c-2d6003bba475)
   )
@@ -1611,6 +1690,9 @@
   )
   (junction (at 99.06 66.294) (diameter 0) (color 0 0 0 0)
     (uuid bef2abc2-bf3e-4a72-ad03-f8da3cd893cb)
+  )
+  (junction (at 97.536 156.718) (diameter 0) (color 0 0 0 0)
+    (uuid bf55a531-9ba3-4dc8-b171-503ef5c9f923)
   )
   (junction (at 111.76 94.234) (diameter 0) (color 0 0 0 0)
     (uuid c07eebcc-30d2-439d-8030-faea6ade4486)
@@ -1703,19 +1785,14 @@
   (no_connect (at 162.052 180.848) (uuid 11438312-6a28-456f-b2cf-52d94e5766f1))
   (no_connect (at 54.864 19.05) (uuid 219ff60f-1514-48db-b326-308a829c4e34))
   (no_connect (at 42.672 125.476) (uuid 300aac7c-e935-4937-80a9-c3b51ddc86b8))
-  (no_connect (at 94.996 156.718) (uuid 3b4dc6d5-6dfd-4aaa-93f4-33f0a7a035b7))
-  (no_connect (at 18.542 144.526) (uuid 448332af-5ef4-41cd-8dc3-46d4a022fd66))
   (no_connect (at 46.482 125.476) (uuid 5505a97c-ca1c-4871-a605-3a682d586789))
   (no_connect (at 38.862 125.476) (uuid 5813b7d7-87d7-41bc-a43f-7750e952d4e4))
   (no_connect (at 148.59 133.096) (uuid 5ce5ebfa-5daa-4f9b-a10a-130dc5b28fd9))
   (no_connect (at 27.432 169.926) (uuid 63d3d72e-178f-4d23-b89c-2d8efb13f166))
   (no_connect (at 24.892 169.926) (uuid 63d3d72e-178f-4d23-b89c-2d8efb13f167))
   (no_connect (at 207.518 133.35) (uuid 72d5a4ae-a7ed-49a2-971a-ac1e29b8e337))
-  (no_connect (at 60.452 136.906) (uuid 758adb5d-c8a5-4a1c-af00-36468a99d3f0))
   (no_connect (at 82.296 131.318) (uuid 7d2626d0-af66-467d-ae1e-6912dfd054ac))
   (no_connect (at 79.756 156.718) (uuid 9804c29a-588e-41af-a3a5-b0f4d7cf1ab9))
-  (no_connect (at 100.076 156.718) (uuid 9804c29a-588e-41af-a3a5-b0f4d7cf1aba))
-  (no_connect (at 97.536 156.718) (uuid 9804c29a-588e-41af-a3a5-b0f4d7cf1abc))
   (no_connect (at 18.542 159.766) (uuid a5b127d1-1262-4098-b302-14d377fc0fae))
   (no_connect (at 35.052 125.476) (uuid c9014e5c-ac7a-452b-804a-88cc8a0d02a9))
   (no_connect (at 146.05 133.096) (uuid dab3254c-d945-4942-bde8-ace2bdc16af1))
@@ -2193,6 +2270,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 4a4ec8d9-3d72-4952-83d4-808f65849a2b)
   )
+  (wire (pts (xy 94.996 156.718) (xy 97.536 156.718))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 4a5e76a9-2b36-480c-8e26-07bb7a570e0f)
+  )
   (wire (pts (xy 194.31 75.184) (xy 194.31 70.104))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 4c843bdb-6c9e-40dd-85e2-0567846e18ba)
@@ -2501,6 +2582,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 80095e91-6317-4cfb-9aea-884c9a1accc5)
   )
+  (wire (pts (xy 100.076 156.718) (xy 102.87 156.718))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 801e9f73-e247-43a7-8fda-74e4350d7e8c)
+  )
   (wire (pts (xy 194.31 113.284) (xy 194.31 108.204))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 802c2dc3-ca9f-491e-9d66-7893e89ac34c)
@@ -2653,7 +2738,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 955cc99e-a129-42cf-abc7-aa99813fdb5f)
   )
-  (wire (pts (xy 92.456 177.038) (xy 123.698 177.038))
+  (wire (pts (xy 92.456 177.038) (xy 102.87 177.038))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 955f800b-3230-47bc-a977-bf39ac078474)
   )
@@ -2901,6 +2986,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid c15b2f75-2e10-4b71-bebb-e2b872171b92)
   )
+  (wire (pts (xy 102.87 156.718) (xy 102.87 177.038))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid c16663db-9505-4251-9923-96b1109482db)
+  )
   (wire (pts (xy 214.63 57.404) (xy 209.55 57.404))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid c1bac86f-cbf6-4c5b-b60d-c26fa73d9c09)
@@ -2936,6 +3025,10 @@
   (wire (pts (xy 156.21 108.204) (xy 156.21 104.394))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid c67ad10d-2f75-4ec6-a139-47058f7f06b2)
+  )
+  (wire (pts (xy 102.87 177.038) (xy 123.698 177.038))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid c703eb79-cd6b-4460-a260-76e122926301)
   )
   (wire (pts (xy 184.15 66.294) (xy 198.12 66.294))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -3060,6 +3153,10 @@
   (wire (pts (xy 214.63 113.284) (xy 209.55 113.284))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid da481376-0e49-44d3-91b8-aaa39b869dd1)
+  )
+  (wire (pts (xy 97.536 156.718) (xy 100.076 156.718))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid da6d3b12-3aeb-435f-b01d-5f1d3c26b0f0)
   )
   (wire (pts (xy 195.58 21.844) (xy 195.58 39.624))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -3516,6 +3613,20 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
+  (global_label "5V" (shape input) (at 261.874 134.366 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 56b988ca-ddca-44bc-a2ad-ab5cadb87d0a)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 33.274 13.716 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+  (global_label "led" (shape input) (at 18.542 144.526 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 5ad382f9-ef2b-4644-bd4d-c19f860e038e)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 13.3149 144.6054 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
   (global_label "latch" (shape output) (at 60.452 159.766 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 6bc22682-8dd0-4d88-bb9d-9b1eb7cdbb4e)
@@ -3663,6 +3774,13 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
+  (global_label "gnd" (shape output) (at 261.874 129.286 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 97ca9324-761b-4c2f-92ff-4cee83abb653)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 267.6453 129.2066 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
   (global_label "bat+" (shape input) (at 163.83 175.768 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 9a1efc72-1292-4e31-acd6-4a28250ada9b)
@@ -3682,6 +3800,13 @@
     (uuid ae52bc32-e070-4d51-927b-974210c4ed4f)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 70.3561 161.8774 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+  (global_label "5V" (shape input) (at 60.452 136.906 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid ae7df11d-8613-48ff-b49f-87877ed77f19)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at -168.148 16.256 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
   )
   (global_label "c9" (shape input) (at 158.75 133.096 90) (fields_autoplaced)
@@ -3789,6 +3914,13 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
+  (global_label "led" (shape input) (at 261.874 131.826 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid df44273f-b874-490b-84a8-8336e3929f20)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 267.1011 131.7466 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
   (global_label "c8" (shape input) (at 167.64 21.844 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid e091e263-c616-48ef-a460-465c70218987)
@@ -3884,7 +4016,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 62.23 34.544 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060430ad3)
-    (property "Reference" "SW1" (id 0) (at 62.23 29.6418 0))
+    (property "Reference" "SW2" (id 0) (at 62.23 29.6418 0))
     (property "Value" "mx" (id 1) (at 62.23 29.6164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3916,7 +4048,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 62.23 70.104 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006043238d)
-    (property "Reference" "SW3" (id 0) (at 62.23 65.2018 0))
+    (property "Reference" "SW28" (id 0) (at 62.23 65.2018 0))
     (property "Value" "mx" (id 1) (at 62.23 65.1764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3933,7 +4065,7 @@
   (symbol (lib_id "diode:1N4148") (at 63.5 75.184 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060432393)
-    (property "Reference" "D3" (id 0) (at 63.5 78.359 0))
+    (property "Reference" "D28" (id 0) (at 63.5 78.359 0))
     (property "Value" "1N4148" (id 1) (at 63.5 72.644 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 63.5 75.184 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3948,7 +4080,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 62.23 52.324 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006043239c)
-    (property "Reference" "SW2" (id 0) (at 62.23 47.4218 0))
+    (property "Reference" "SW15" (id 0) (at 62.23 47.4218 0))
     (property "Value" "mx" (id 1) (at 62.23 47.3964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3965,7 +4097,7 @@
   (symbol (lib_id "diode:1N4148") (at 63.5 57.404 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604323a2)
-    (property "Reference" "D2" (id 0) (at 63.5 60.579 0))
+    (property "Reference" "D15" (id 0) (at 63.5 60.579 0))
     (property "Value" "1N4148" (id 1) (at 63.5 54.864 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 63.5 57.404 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3980,7 +4112,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 62.23 108.204 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604338e7)
-    (property "Reference" "SW5" (id 0) (at 62.23 103.3018 0))
+    (property "Reference" "SW54" (id 0) (at 62.23 103.3018 0))
     (property "Value" "mx" (id 1) (at 62.23 103.2764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3997,7 +4129,7 @@
   (symbol (lib_id "diode:1N4148") (at 63.5 113.284 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604338ed)
-    (property "Reference" "D5" (id 0) (at 63.5 116.459 0))
+    (property "Reference" "D54" (id 0) (at 63.5 116.459 0))
     (property "Value" "1N4148" (id 1) (at 63.5 110.744 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 63.5 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4012,7 +4144,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 62.23 87.884 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604338f6)
-    (property "Reference" "SW4" (id 0) (at 62.23 82.9818 0))
+    (property "Reference" "SW41" (id 0) (at 62.23 82.9818 0))
     (property "Value" "mx" (id 1) (at 62.23 82.9564 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4029,7 +4161,7 @@
   (symbol (lib_id "diode:1N4148") (at 63.5 94.234 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604338fc)
-    (property "Reference" "D4" (id 0) (at 63.5 97.409 0))
+    (property "Reference" "D41" (id 0) (at 63.5 97.409 0))
     (property "Value" "1N4148" (id 1) (at 63.5 91.694 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 63.5 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4044,7 +4176,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 76.2 34.544 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604422b7)
-    (property "Reference" "SW6" (id 0) (at 76.2 29.6418 0))
+    (property "Reference" "SW3" (id 0) (at 76.2 29.6418 0))
     (property "Value" "mx" (id 1) (at 76.2 29.6164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4061,7 +4193,7 @@
   (symbol (lib_id "diode:1N4148") (at 77.47 39.624 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604422bd)
-    (property "Reference" "D6" (id 0) (at 77.47 42.799 0))
+    (property "Reference" "D2" (id 0) (at 77.47 42.799 0))
     (property "Value" "1N4148" (id 1) (at 77.47 37.084 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 77.47 39.624 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4076,7 +4208,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 76.2 70.104 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604422d5)
-    (property "Reference" "SW8" (id 0) (at 76.2 65.2018 0))
+    (property "Reference" "SW29" (id 0) (at 76.2 65.2018 0))
     (property "Value" "mx" (id 1) (at 76.2 65.1764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4093,7 +4225,7 @@
   (symbol (lib_id "diode:1N4148") (at 77.47 75.184 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604422db)
-    (property "Reference" "D8" (id 0) (at 77.47 78.359 0))
+    (property "Reference" "D29" (id 0) (at 77.47 78.359 0))
     (property "Value" "1N4148" (id 1) (at 77.47 72.644 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 77.47 75.184 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4108,7 +4240,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 76.2 52.324 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604422e4)
-    (property "Reference" "SW7" (id 0) (at 76.2 47.4218 0))
+    (property "Reference" "SW16" (id 0) (at 76.2 47.4218 0))
     (property "Value" "mx" (id 1) (at 76.2 47.3964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4125,7 +4257,7 @@
   (symbol (lib_id "diode:1N4148") (at 77.47 57.404 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604422ea)
-    (property "Reference" "D7" (id 0) (at 77.47 60.579 0))
+    (property "Reference" "D16" (id 0) (at 77.47 60.579 0))
     (property "Value" "1N4148" (id 1) (at 77.47 54.864 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 77.47 57.404 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4140,7 +4272,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 76.2 108.204 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604422f3)
-    (property "Reference" "SW10" (id 0) (at 76.2 103.3018 0))
+    (property "Reference" "SW55" (id 0) (at 76.2 103.3018 0))
     (property "Value" "mx" (id 1) (at 76.2 103.2764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4157,7 +4289,7 @@
   (symbol (lib_id "diode:1N4148") (at 77.47 113.284 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604422f9)
-    (property "Reference" "D10" (id 0) (at 77.47 116.459 0))
+    (property "Reference" "D55" (id 0) (at 77.47 116.459 0))
     (property "Value" "1N4148" (id 1) (at 77.47 110.744 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 77.47 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4172,7 +4304,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 76.2 87.884 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060442302)
-    (property "Reference" "SW9" (id 0) (at 76.2 82.9818 0))
+    (property "Reference" "SW42" (id 0) (at 76.2 82.9818 0))
     (property "Value" "mx" (id 1) (at 76.2 82.9564 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4189,7 +4321,7 @@
   (symbol (lib_id "diode:1N4148") (at 77.47 94.234 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060442308)
-    (property "Reference" "D9" (id 0) (at 77.47 97.409 0))
+    (property "Reference" "D42" (id 0) (at 77.47 97.409 0))
     (property "Value" "1N4148" (id 1) (at 77.47 91.694 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 77.47 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4204,7 +4336,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 90.17 34.544 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044505d)
-    (property "Reference" "SW11" (id 0) (at 90.17 29.6418 0))
+    (property "Reference" "SW4" (id 0) (at 90.17 29.6418 0))
     (property "Value" "mx" (id 1) (at 90.17 29.6164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4221,7 +4353,7 @@
   (symbol (lib_id "diode:1N4148") (at 91.44 39.624 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060445063)
-    (property "Reference" "D11" (id 0) (at 91.44 42.799 0))
+    (property "Reference" "D3" (id 0) (at 91.44 42.799 0))
     (property "Value" "1N4148" (id 1) (at 91.44 37.084 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 91.44 39.624 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4236,7 +4368,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 90.17 70.104 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044507b)
-    (property "Reference" "SW13" (id 0) (at 90.17 65.2018 0))
+    (property "Reference" "SW30" (id 0) (at 90.17 65.2018 0))
     (property "Value" "mx" (id 1) (at 90.17 65.1764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4253,7 +4385,7 @@
   (symbol (lib_id "diode:1N4148") (at 91.44 75.184 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060445081)
-    (property "Reference" "D13" (id 0) (at 91.44 78.359 0))
+    (property "Reference" "D30" (id 0) (at 91.44 78.359 0))
     (property "Value" "1N4148" (id 1) (at 91.44 72.644 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 91.44 75.184 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4268,7 +4400,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 90.17 52.324 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044508a)
-    (property "Reference" "SW12" (id 0) (at 90.17 47.4218 0))
+    (property "Reference" "SW17" (id 0) (at 90.17 47.4218 0))
     (property "Value" "mx" (id 1) (at 90.17 47.3964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4285,7 +4417,7 @@
   (symbol (lib_id "diode:1N4148") (at 91.44 57.404 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060445090)
-    (property "Reference" "D12" (id 0) (at 91.44 60.579 0))
+    (property "Reference" "D17" (id 0) (at 91.44 60.579 0))
     (property "Value" "1N4148" (id 1) (at 91.44 54.864 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 91.44 57.404 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4300,7 +4432,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 90.17 108.204 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060445099)
-    (property "Reference" "SW15" (id 0) (at 90.17 103.3018 0))
+    (property "Reference" "SW56" (id 0) (at 90.17 103.3018 0))
     (property "Value" "mx" (id 1) (at 90.17 103.2764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4317,7 +4449,7 @@
   (symbol (lib_id "diode:1N4148") (at 91.44 113.284 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044509f)
-    (property "Reference" "D15" (id 0) (at 91.44 116.459 0))
+    (property "Reference" "D56" (id 0) (at 91.44 116.459 0))
     (property "Value" "1N4148" (id 1) (at 91.44 110.744 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 91.44 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4332,7 +4464,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 90.17 87.884 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604450a8)
-    (property "Reference" "SW14" (id 0) (at 90.17 82.9818 0))
+    (property "Reference" "SW43" (id 0) (at 90.17 82.9818 0))
     (property "Value" "mx" (id 1) (at 90.17 82.9564 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4349,7 +4481,7 @@
   (symbol (lib_id "diode:1N4148") (at 91.44 94.234 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604450ae)
-    (property "Reference" "D14" (id 0) (at 91.44 97.409 0))
+    (property "Reference" "D43" (id 0) (at 91.44 97.409 0))
     (property "Value" "1N4148" (id 1) (at 91.44 91.694 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 91.44 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4364,7 +4496,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 104.14 34.544 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044844d)
-    (property "Reference" "SW16" (id 0) (at 104.14 29.6418 0))
+    (property "Reference" "SW5" (id 0) (at 104.14 29.6418 0))
     (property "Value" "mx" (id 1) (at 104.14 29.6164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4381,7 +4513,7 @@
   (symbol (lib_id "diode:1N4148") (at 105.41 39.624 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060448453)
-    (property "Reference" "D16" (id 0) (at 105.41 42.799 0))
+    (property "Reference" "D4" (id 0) (at 105.41 42.799 0))
     (property "Value" "1N4148" (id 1) (at 105.41 37.084 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 105.41 39.624 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4396,7 +4528,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 104.14 70.104 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044846b)
-    (property "Reference" "SW18" (id 0) (at 104.14 65.2018 0))
+    (property "Reference" "SW31" (id 0) (at 104.14 65.2018 0))
     (property "Value" "mx" (id 1) (at 104.14 65.1764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4413,7 +4545,7 @@
   (symbol (lib_id "diode:1N4148") (at 105.41 75.184 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060448471)
-    (property "Reference" "D18" (id 0) (at 105.41 78.359 0))
+    (property "Reference" "D31" (id 0) (at 105.41 78.359 0))
     (property "Value" "1N4148" (id 1) (at 105.41 72.644 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 105.41 75.184 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4428,7 +4560,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 104.14 52.324 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044847a)
-    (property "Reference" "SW17" (id 0) (at 104.14 47.4218 0))
+    (property "Reference" "SW18" (id 0) (at 104.14 47.4218 0))
     (property "Value" "mx" (id 1) (at 104.14 47.3964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4445,7 +4577,7 @@
   (symbol (lib_id "diode:1N4148") (at 105.41 57.404 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060448480)
-    (property "Reference" "D17" (id 0) (at 105.41 60.579 0))
+    (property "Reference" "D18" (id 0) (at 105.41 60.579 0))
     (property "Value" "1N4148" (id 1) (at 105.41 54.864 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 105.41 57.404 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4460,7 +4592,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 104.14 108.204 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060448489)
-    (property "Reference" "SW20" (id 0) (at 104.14 103.3018 0))
+    (property "Reference" "SW57" (id 0) (at 104.14 103.3018 0))
     (property "Value" "mx" (id 1) (at 104.14 103.2764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4477,7 +4609,7 @@
   (symbol (lib_id "diode:1N4148") (at 105.41 113.284 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044848f)
-    (property "Reference" "D20" (id 0) (at 105.41 116.459 0))
+    (property "Reference" "D57" (id 0) (at 105.41 116.459 0))
     (property "Value" "1N4148" (id 1) (at 105.41 110.744 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 105.41 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4492,7 +4624,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 104.14 87.884 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060448498)
-    (property "Reference" "SW19" (id 0) (at 104.14 82.9818 0))
+    (property "Reference" "SW44" (id 0) (at 104.14 82.9818 0))
     (property "Value" "mx" (id 1) (at 104.14 82.9564 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4509,7 +4641,7 @@
   (symbol (lib_id "diode:1N4148") (at 105.41 94.234 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044849e)
-    (property "Reference" "D19" (id 0) (at 105.41 97.409 0))
+    (property "Reference" "D44" (id 0) (at 105.41 97.409 0))
     (property "Value" "1N4148" (id 1) (at 105.41 91.694 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 105.41 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4524,7 +4656,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 119.38 34.544 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044db5b)
-    (property "Reference" "SW21" (id 0) (at 119.38 29.6418 0))
+    (property "Reference" "SW6" (id 0) (at 119.38 29.6418 0))
     (property "Value" "mx" (id 1) (at 119.38 29.6164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4541,7 +4673,7 @@
   (symbol (lib_id "diode:1N4148") (at 120.65 39.624 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044db61)
-    (property "Reference" "D21" (id 0) (at 120.65 42.799 0))
+    (property "Reference" "D5" (id 0) (at 120.65 42.799 0))
     (property "Value" "1N4148" (id 1) (at 120.65 37.084 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 120.65 39.624 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4556,7 +4688,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 119.38 70.104 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044db79)
-    (property "Reference" "SW23" (id 0) (at 119.38 65.2018 0))
+    (property "Reference" "SW32" (id 0) (at 119.38 65.2018 0))
     (property "Value" "mx" (id 1) (at 119.38 65.1764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4573,7 +4705,7 @@
   (symbol (lib_id "diode:1N4148") (at 120.65 75.184 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044db7f)
-    (property "Reference" "D23" (id 0) (at 120.65 78.359 0))
+    (property "Reference" "D32" (id 0) (at 120.65 78.359 0))
     (property "Value" "1N4148" (id 1) (at 120.65 72.644 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 120.65 75.184 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4588,7 +4720,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 119.38 52.324 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044db88)
-    (property "Reference" "SW22" (id 0) (at 119.38 47.4218 0))
+    (property "Reference" "SW19" (id 0) (at 119.38 47.4218 0))
     (property "Value" "mx" (id 1) (at 119.38 47.3964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4605,7 +4737,7 @@
   (symbol (lib_id "diode:1N4148") (at 120.65 57.404 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044db8e)
-    (property "Reference" "D22" (id 0) (at 120.65 60.579 0))
+    (property "Reference" "D19" (id 0) (at 120.65 60.579 0))
     (property "Value" "1N4148" (id 1) (at 120.65 54.864 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 120.65 57.404 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4620,7 +4752,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 119.38 108.204 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044db97)
-    (property "Reference" "SW25" (id 0) (at 119.38 103.3018 0))
+    (property "Reference" "SW58" (id 0) (at 119.38 103.3018 0))
     (property "Value" "mx" (id 1) (at 119.38 103.2764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4637,7 +4769,7 @@
   (symbol (lib_id "diode:1N4148") (at 120.65 113.284 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044db9d)
-    (property "Reference" "D25" (id 0) (at 120.65 116.459 0))
+    (property "Reference" "D58" (id 0) (at 120.65 116.459 0))
     (property "Value" "1N4148" (id 1) (at 120.65 110.744 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 120.65 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4652,7 +4784,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 119.38 87.884 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044dba6)
-    (property "Reference" "SW24" (id 0) (at 119.38 82.9818 0))
+    (property "Reference" "SW45" (id 0) (at 119.38 82.9818 0))
     (property "Value" "mx" (id 1) (at 119.38 82.9564 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4669,7 +4801,7 @@
   (symbol (lib_id "diode:1N4148") (at 120.65 94.234 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006044dbac)
-    (property "Reference" "D24" (id 0) (at 120.65 97.409 0))
+    (property "Reference" "D45" (id 0) (at 120.65 97.409 0))
     (property "Value" "1N4148" (id 1) (at 120.65 91.694 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 120.65 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4684,7 +4816,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 133.35 34.544 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060453507)
-    (property "Reference" "SW26" (id 0) (at 133.35 29.6418 0))
+    (property "Reference" "SW7" (id 0) (at 133.35 29.6418 0))
     (property "Value" "mx" (id 1) (at 133.35 29.6164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4701,7 +4833,7 @@
   (symbol (lib_id "diode:1N4148") (at 134.62 39.624 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006045350d)
-    (property "Reference" "D26" (id 0) (at 134.62 42.799 0))
+    (property "Reference" "D6" (id 0) (at 134.62 42.799 0))
     (property "Value" "1N4148" (id 1) (at 134.62 37.084 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 134.62 39.624 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4716,7 +4848,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 133.35 70.104 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060453525)
-    (property "Reference" "SW28" (id 0) (at 133.35 65.2018 0))
+    (property "Reference" "SW33" (id 0) (at 133.35 65.2018 0))
     (property "Value" "mx" (id 1) (at 133.35 65.1764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4733,7 +4865,7 @@
   (symbol (lib_id "diode:1N4148") (at 134.62 75.184 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006045352b)
-    (property "Reference" "D28" (id 0) (at 134.62 78.359 0))
+    (property "Reference" "D33" (id 0) (at 134.62 78.359 0))
     (property "Value" "1N4148" (id 1) (at 134.62 72.644 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 134.62 75.184 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4748,7 +4880,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 133.35 52.324 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060453534)
-    (property "Reference" "SW27" (id 0) (at 133.35 47.4218 0))
+    (property "Reference" "SW20" (id 0) (at 133.35 47.4218 0))
     (property "Value" "mx" (id 1) (at 133.35 47.3964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4765,7 +4897,7 @@
   (symbol (lib_id "diode:1N4148") (at 134.62 57.404 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006045353a)
-    (property "Reference" "D27" (id 0) (at 134.62 60.579 0))
+    (property "Reference" "D20" (id 0) (at 134.62 60.579 0))
     (property "Value" "1N4148" (id 1) (at 134.62 54.864 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 134.62 57.404 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4780,7 +4912,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 133.35 108.204 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060453543)
-    (property "Reference" "SW30" (id 0) (at 133.35 103.3018 0))
+    (property "Reference" "SW59" (id 0) (at 133.35 103.3018 0))
     (property "Value" "mx" (id 1) (at 133.35 103.2764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4797,7 +4929,7 @@
   (symbol (lib_id "diode:1N4148") (at 134.62 113.284 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060453549)
-    (property "Reference" "D30" (id 0) (at 134.62 116.459 0))
+    (property "Reference" "D59" (id 0) (at 134.62 116.459 0))
     (property "Value" "1N4148" (id 1) (at 134.62 110.744 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 134.62 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4812,7 +4944,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 133.35 87.884 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060453552)
-    (property "Reference" "SW29" (id 0) (at 133.35 82.9818 0))
+    (property "Reference" "SW46" (id 0) (at 133.35 82.9818 0))
     (property "Value" "mx" (id 1) (at 133.35 82.9564 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4829,7 +4961,7 @@
   (symbol (lib_id "diode:1N4148") (at 134.62 94.234 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060453558)
-    (property "Reference" "D29" (id 0) (at 134.62 97.409 0))
+    (property "Reference" "D46" (id 0) (at 134.62 97.409 0))
     (property "Value" "1N4148" (id 1) (at 134.62 91.694 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 134.62 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4844,7 +4976,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 147.32 34.544 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006045b767)
-    (property "Reference" "SW31" (id 0) (at 147.32 29.6418 0))
+    (property "Reference" "SW8" (id 0) (at 147.32 29.6418 0))
     (property "Value" "mx" (id 1) (at 147.32 29.6164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4861,7 +4993,7 @@
   (symbol (lib_id "diode:1N4148") (at 148.59 39.624 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006045b76d)
-    (property "Reference" "D31" (id 0) (at 148.59 42.799 0))
+    (property "Reference" "D7" (id 0) (at 148.59 42.799 0))
     (property "Value" "1N4148" (id 1) (at 148.59 37.084 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 148.59 39.624 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4876,7 +5008,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 147.32 70.104 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006045b785)
-    (property "Reference" "SW33" (id 0) (at 147.32 65.2018 0))
+    (property "Reference" "SW34" (id 0) (at 147.32 65.2018 0))
     (property "Value" "mx" (id 1) (at 147.32 65.1764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4893,7 +5025,7 @@
   (symbol (lib_id "diode:1N4148") (at 148.59 75.184 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006045b78b)
-    (property "Reference" "D33" (id 0) (at 148.59 78.359 0))
+    (property "Reference" "D34" (id 0) (at 148.59 78.359 0))
     (property "Value" "1N4148" (id 1) (at 148.59 72.644 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 148.59 75.184 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4908,7 +5040,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 147.32 52.324 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006045b794)
-    (property "Reference" "SW32" (id 0) (at 147.32 47.4218 0))
+    (property "Reference" "SW21" (id 0) (at 147.32 47.4218 0))
     (property "Value" "mx" (id 1) (at 147.32 47.3964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4925,7 +5057,7 @@
   (symbol (lib_id "diode:1N4148") (at 148.59 57.404 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006045b79a)
-    (property "Reference" "D32" (id 0) (at 148.59 60.579 0))
+    (property "Reference" "D21" (id 0) (at 148.59 60.579 0))
     (property "Value" "1N4148" (id 1) (at 148.59 54.864 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 148.59 57.404 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4940,7 +5072,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 147.32 108.204 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006045b7a3)
-    (property "Reference" "SW35" (id 0) (at 147.32 103.3018 0))
+    (property "Reference" "SW60" (id 0) (at 147.32 103.3018 0))
     (property "Value" "mx" (id 1) (at 147.32 103.2764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4957,7 +5089,7 @@
   (symbol (lib_id "diode:1N4148") (at 148.59 113.284 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006045b7a9)
-    (property "Reference" "D35" (id 0) (at 148.59 116.459 0))
+    (property "Reference" "D60" (id 0) (at 148.59 116.459 0))
     (property "Value" "1N4148" (id 1) (at 148.59 110.744 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 148.59 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4972,7 +5104,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 147.32 87.884 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006045b7b2)
-    (property "Reference" "SW34" (id 0) (at 147.32 82.9818 0))
+    (property "Reference" "SW47" (id 0) (at 147.32 82.9818 0))
     (property "Value" "mx" (id 1) (at 147.32 82.9564 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4989,7 +5121,7 @@
   (symbol (lib_id "diode:1N4148") (at 148.59 94.234 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006045b7b8)
-    (property "Reference" "D34" (id 0) (at 148.59 97.409 0))
+    (property "Reference" "D47" (id 0) (at 148.59 97.409 0))
     (property "Value" "1N4148" (id 1) (at 148.59 91.694 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 148.59 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5004,7 +5136,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 161.29 34.544 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060465fb5)
-    (property "Reference" "SW36" (id 0) (at 161.29 29.6418 0))
+    (property "Reference" "SW9" (id 0) (at 161.29 29.6418 0))
     (property "Value" "mx" (id 1) (at 161.29 29.6164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5021,7 +5153,7 @@
   (symbol (lib_id "diode:1N4148") (at 162.56 39.624 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060465fbb)
-    (property "Reference" "D36" (id 0) (at 162.56 42.799 0))
+    (property "Reference" "D8" (id 0) (at 162.56 42.799 0))
     (property "Value" "1N4148" (id 1) (at 162.56 37.084 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 162.56 39.624 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5036,7 +5168,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 161.29 70.104 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060465fd3)
-    (property "Reference" "SW38" (id 0) (at 161.29 65.2018 0))
+    (property "Reference" "SW35" (id 0) (at 161.29 65.2018 0))
     (property "Value" "mx" (id 1) (at 161.29 65.1764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5053,7 +5185,7 @@
   (symbol (lib_id "diode:1N4148") (at 162.56 75.184 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060465fd9)
-    (property "Reference" "D38" (id 0) (at 162.56 78.359 0))
+    (property "Reference" "D35" (id 0) (at 162.56 78.359 0))
     (property "Value" "1N4148" (id 1) (at 162.56 72.644 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 162.56 75.184 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5068,7 +5200,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 161.29 52.324 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060465fe2)
-    (property "Reference" "SW37" (id 0) (at 161.29 47.4218 0))
+    (property "Reference" "SW22" (id 0) (at 161.29 47.4218 0))
     (property "Value" "mx" (id 1) (at 161.29 47.3964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5085,7 +5217,7 @@
   (symbol (lib_id "diode:1N4148") (at 162.56 57.404 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060465fe8)
-    (property "Reference" "D37" (id 0) (at 162.56 60.579 0))
+    (property "Reference" "D22" (id 0) (at 162.56 60.579 0))
     (property "Value" "1N4148" (id 1) (at 162.56 54.864 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 162.56 57.404 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5100,7 +5232,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 161.29 108.204 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060465ff1)
-    (property "Reference" "SW40" (id 0) (at 161.29 103.3018 0))
+    (property "Reference" "SW61" (id 0) (at 161.29 103.3018 0))
     (property "Value" "mx" (id 1) (at 161.29 103.2764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5117,7 +5249,7 @@
   (symbol (lib_id "diode:1N4148") (at 162.56 113.284 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060465ff7)
-    (property "Reference" "D40" (id 0) (at 162.56 116.459 0))
+    (property "Reference" "D61" (id 0) (at 162.56 116.459 0))
     (property "Value" "1N4148" (id 1) (at 162.56 110.744 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 162.56 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5132,7 +5264,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 161.29 87.884 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060466000)
-    (property "Reference" "SW39" (id 0) (at 161.29 82.9818 0))
+    (property "Reference" "SW48" (id 0) (at 161.29 82.9818 0))
     (property "Value" "mx" (id 1) (at 161.29 82.9564 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5149,7 +5281,7 @@
   (symbol (lib_id "diode:1N4148") (at 162.56 94.234 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060466006)
-    (property "Reference" "D39" (id 0) (at 162.56 97.409 0))
+    (property "Reference" "D48" (id 0) (at 162.56 97.409 0))
     (property "Value" "1N4148" (id 1) (at 162.56 91.694 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 162.56 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5164,7 +5296,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 175.26 34.544 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060471ca3)
-    (property "Reference" "SW41" (id 0) (at 175.26 29.6418 0))
+    (property "Reference" "SW10" (id 0) (at 175.26 29.6418 0))
     (property "Value" "mx" (id 1) (at 175.26 29.6164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5181,7 +5313,7 @@
   (symbol (lib_id "diode:1N4148") (at 176.53 39.624 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060471ca9)
-    (property "Reference" "D41" (id 0) (at 176.53 42.799 0))
+    (property "Reference" "D9" (id 0) (at 176.53 42.799 0))
     (property "Value" "1N4148" (id 1) (at 176.53 37.084 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 176.53 39.624 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5196,7 +5328,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 175.26 70.104 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060471cc1)
-    (property "Reference" "SW43" (id 0) (at 175.26 65.2018 0))
+    (property "Reference" "SW36" (id 0) (at 175.26 65.2018 0))
     (property "Value" "mx" (id 1) (at 175.26 65.1764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5213,7 +5345,7 @@
   (symbol (lib_id "diode:1N4148") (at 176.53 75.184 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060471cc7)
-    (property "Reference" "D43" (id 0) (at 176.53 78.359 0))
+    (property "Reference" "D36" (id 0) (at 176.53 78.359 0))
     (property "Value" "1N4148" (id 1) (at 176.53 72.644 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 176.53 75.184 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5228,7 +5360,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 175.26 52.324 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060471cd0)
-    (property "Reference" "SW42" (id 0) (at 175.26 47.4218 0))
+    (property "Reference" "SW23" (id 0) (at 175.26 47.4218 0))
     (property "Value" "mx" (id 1) (at 175.26 47.3964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5245,7 +5377,7 @@
   (symbol (lib_id "diode:1N4148") (at 176.53 57.404 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060471cd6)
-    (property "Reference" "D42" (id 0) (at 176.53 60.579 0))
+    (property "Reference" "D23" (id 0) (at 176.53 60.579 0))
     (property "Value" "1N4148" (id 1) (at 176.53 54.864 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 176.53 57.404 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5260,7 +5392,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 175.26 108.204 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060471cdf)
-    (property "Reference" "SW45" (id 0) (at 175.26 103.3018 0))
+    (property "Reference" "SW62" (id 0) (at 175.26 103.3018 0))
     (property "Value" "mx" (id 1) (at 175.26 103.2764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5277,7 +5409,7 @@
   (symbol (lib_id "diode:1N4148") (at 176.53 113.284 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060471ce5)
-    (property "Reference" "D45" (id 0) (at 176.53 116.459 0))
+    (property "Reference" "D62" (id 0) (at 176.53 116.459 0))
     (property "Value" "1N4148" (id 1) (at 176.53 110.744 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 176.53 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5292,7 +5424,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 175.26 87.884 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060471cee)
-    (property "Reference" "SW44" (id 0) (at 175.26 82.9818 0))
+    (property "Reference" "SW49" (id 0) (at 175.26 82.9818 0))
     (property "Value" "mx" (id 1) (at 175.26 82.9564 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5309,7 +5441,7 @@
   (symbol (lib_id "diode:1N4148") (at 176.53 94.234 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060471cf4)
-    (property "Reference" "D44" (id 0) (at 176.53 97.409 0))
+    (property "Reference" "D49" (id 0) (at 176.53 97.409 0))
     (property "Value" "1N4148" (id 1) (at 176.53 91.694 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 176.53 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5324,7 +5456,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 189.23 34.544 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006047f345)
-    (property "Reference" "SW46" (id 0) (at 189.23 29.6418 0))
+    (property "Reference" "SW11" (id 0) (at 189.23 29.6418 0))
     (property "Value" "mx" (id 1) (at 189.23 29.6164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5341,7 +5473,7 @@
   (symbol (lib_id "diode:1N4148") (at 190.5 39.624 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006047f34b)
-    (property "Reference" "D46" (id 0) (at 190.5 42.799 0))
+    (property "Reference" "D10" (id 0) (at 190.5 42.799 0))
     (property "Value" "1N4148" (id 1) (at 190.5 37.084 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 190.5 39.624 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5356,7 +5488,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 189.23 70.104 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006047f363)
-    (property "Reference" "SW48" (id 0) (at 189.23 65.2018 0))
+    (property "Reference" "SW37" (id 0) (at 189.23 65.2018 0))
     (property "Value" "mx" (id 1) (at 189.23 65.1764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5373,7 +5505,7 @@
   (symbol (lib_id "diode:1N4148") (at 190.5 75.184 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006047f369)
-    (property "Reference" "D48" (id 0) (at 190.5 78.359 0))
+    (property "Reference" "D37" (id 0) (at 190.5 78.359 0))
     (property "Value" "1N4148" (id 1) (at 190.5 72.644 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 190.5 75.184 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5388,7 +5520,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 189.23 52.324 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006047f372)
-    (property "Reference" "SW47" (id 0) (at 189.23 47.4218 0))
+    (property "Reference" "SW24" (id 0) (at 189.23 47.4218 0))
     (property "Value" "mx" (id 1) (at 189.23 47.3964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5405,7 +5537,7 @@
   (symbol (lib_id "diode:1N4148") (at 190.5 57.404 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006047f378)
-    (property "Reference" "D47" (id 0) (at 190.5 60.579 0))
+    (property "Reference" "D24" (id 0) (at 190.5 60.579 0))
     (property "Value" "1N4148" (id 1) (at 190.5 54.864 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 190.5 57.404 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5420,7 +5552,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 189.23 108.204 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006047f381)
-    (property "Reference" "SW50" (id 0) (at 189.23 103.3018 0))
+    (property "Reference" "SW63" (id 0) (at 189.23 103.3018 0))
     (property "Value" "mx" (id 1) (at 189.23 103.2764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5437,7 +5569,7 @@
   (symbol (lib_id "diode:1N4148") (at 190.5 113.284 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006047f387)
-    (property "Reference" "D50" (id 0) (at 190.5 116.459 0))
+    (property "Reference" "D63" (id 0) (at 190.5 116.459 0))
     (property "Value" "1N4148" (id 1) (at 190.5 110.744 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 190.5 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5452,7 +5584,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 189.23 87.884 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006047f390)
-    (property "Reference" "SW49" (id 0) (at 189.23 82.9818 0))
+    (property "Reference" "SW50" (id 0) (at 189.23 82.9818 0))
     (property "Value" "mx" (id 1) (at 189.23 82.9564 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5469,7 +5601,7 @@
   (symbol (lib_id "diode:1N4148") (at 190.5 94.234 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006047f396)
-    (property "Reference" "D49" (id 0) (at 190.5 97.409 0))
+    (property "Reference" "D50" (id 0) (at 190.5 97.409 0))
     (property "Value" "1N4148" (id 1) (at 190.5 91.694 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 190.5 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5484,7 +5616,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 203.2 34.544 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006048f9ad)
-    (property "Reference" "SW51" (id 0) (at 203.2 29.6418 0))
+    (property "Reference" "SW12" (id 0) (at 203.2 29.6418 0))
     (property "Value" "mx" (id 1) (at 203.2 29.6164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5501,7 +5633,7 @@
   (symbol (lib_id "diode:1N4148") (at 204.47 39.624 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006048f9b3)
-    (property "Reference" "D51" (id 0) (at 204.47 42.799 0))
+    (property "Reference" "D11" (id 0) (at 204.47 42.799 0))
     (property "Value" "1N4148" (id 1) (at 204.47 37.084 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 204.47 39.624 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5516,7 +5648,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 203.2 70.104 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006048f9cb)
-    (property "Reference" "SW53" (id 0) (at 203.2 65.2018 0))
+    (property "Reference" "SW38" (id 0) (at 203.2 65.2018 0))
     (property "Value" "mx" (id 1) (at 203.2 65.1764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5533,7 +5665,7 @@
   (symbol (lib_id "diode:1N4148") (at 204.47 75.184 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006048f9d1)
-    (property "Reference" "D53" (id 0) (at 204.47 78.359 0))
+    (property "Reference" "D38" (id 0) (at 204.47 78.359 0))
     (property "Value" "1N4148" (id 1) (at 204.47 72.644 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 204.47 75.184 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5548,7 +5680,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 203.2 52.324 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006048f9da)
-    (property "Reference" "SW52" (id 0) (at 203.2 47.4218 0))
+    (property "Reference" "SW25" (id 0) (at 203.2 47.4218 0))
     (property "Value" "mx" (id 1) (at 203.2 47.3964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5565,7 +5697,7 @@
   (symbol (lib_id "diode:1N4148") (at 204.47 57.404 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006048f9e0)
-    (property "Reference" "D52" (id 0) (at 204.47 60.579 0))
+    (property "Reference" "D25" (id 0) (at 204.47 60.579 0))
     (property "Value" "1N4148" (id 1) (at 204.47 54.864 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 204.47 57.404 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5580,7 +5712,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 203.2 108.204 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006048f9e9)
-    (property "Reference" "SW55" (id 0) (at 203.2 103.3018 0))
+    (property "Reference" "SW64" (id 0) (at 203.2 103.3018 0))
     (property "Value" "mx" (id 1) (at 203.2 103.2764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5597,7 +5729,7 @@
   (symbol (lib_id "diode:1N4148") (at 204.47 113.284 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006048f9ef)
-    (property "Reference" "D55" (id 0) (at 204.47 116.459 0))
+    (property "Reference" "D64" (id 0) (at 204.47 116.459 0))
     (property "Value" "1N4148" (id 1) (at 204.47 110.744 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 204.47 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5612,7 +5744,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 203.2 87.884 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006048f9f8)
-    (property "Reference" "SW54" (id 0) (at 203.2 82.9818 0))
+    (property "Reference" "SW51" (id 0) (at 203.2 82.9818 0))
     (property "Value" "mx" (id 1) (at 203.2 82.9564 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5629,7 +5761,7 @@
   (symbol (lib_id "diode:1N4148") (at 204.47 94.234 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006048f9fe)
-    (property "Reference" "D54" (id 0) (at 204.47 97.409 0))
+    (property "Reference" "D51" (id 0) (at 204.47 97.409 0))
     (property "Value" "1N4148" (id 1) (at 204.47 91.694 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 204.47 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5644,7 +5776,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 217.17 34.544 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604a7da9)
-    (property "Reference" "SW56" (id 0) (at 217.17 29.6418 0))
+    (property "Reference" "SW13" (id 0) (at 217.17 29.6418 0))
     (property "Value" "mx" (id 1) (at 217.17 29.6164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5661,7 +5793,7 @@
   (symbol (lib_id "diode:1N4148") (at 218.44 39.624 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604a7daf)
-    (property "Reference" "D56" (id 0) (at 218.44 42.799 0))
+    (property "Reference" "D12" (id 0) (at 218.44 42.799 0))
     (property "Value" "1N4148" (id 1) (at 218.44 37.084 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 218.44 39.624 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5676,7 +5808,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 217.17 70.104 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604a7dc7)
-    (property "Reference" "SW58" (id 0) (at 217.17 65.2018 0))
+    (property "Reference" "SW39" (id 0) (at 217.17 65.2018 0))
     (property "Value" "mx" (id 1) (at 217.17 65.1764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5693,7 +5825,7 @@
   (symbol (lib_id "diode:1N4148") (at 218.44 75.184 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604a7dcd)
-    (property "Reference" "D58" (id 0) (at 218.44 78.359 0))
+    (property "Reference" "D39" (id 0) (at 218.44 78.359 0))
     (property "Value" "1N4148" (id 1) (at 218.44 72.644 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 218.44 75.184 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5708,7 +5840,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 217.17 52.324 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604a7dd6)
-    (property "Reference" "SW57" (id 0) (at 217.17 47.4218 0))
+    (property "Reference" "SW26" (id 0) (at 217.17 47.4218 0))
     (property "Value" "mx" (id 1) (at 217.17 47.3964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5725,7 +5857,7 @@
   (symbol (lib_id "diode:1N4148") (at 218.44 57.404 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604a7ddc)
-    (property "Reference" "D57" (id 0) (at 218.44 60.579 0))
+    (property "Reference" "D26" (id 0) (at 218.44 60.579 0))
     (property "Value" "1N4148" (id 1) (at 218.44 54.864 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 218.44 57.404 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5740,7 +5872,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 217.17 108.204 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604a7de5)
-    (property "Reference" "SW60" (id 0) (at 217.17 103.3018 0))
+    (property "Reference" "SW65" (id 0) (at 217.17 103.3018 0))
     (property "Value" "mx" (id 1) (at 217.17 103.2764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5757,7 +5889,7 @@
   (symbol (lib_id "diode:1N4148") (at 218.44 113.284 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604a7deb)
-    (property "Reference" "D60" (id 0) (at 218.44 116.459 0))
+    (property "Reference" "D65" (id 0) (at 218.44 116.459 0))
     (property "Value" "1N4148" (id 1) (at 218.44 110.744 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 218.44 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5772,7 +5904,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 217.17 87.884 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604a7df4)
-    (property "Reference" "SW59" (id 0) (at 217.17 82.9818 0))
+    (property "Reference" "SW52" (id 0) (at 217.17 82.9818 0))
     (property "Value" "mx" (id 1) (at 217.17 82.9564 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5789,7 +5921,7 @@
   (symbol (lib_id "diode:1N4148") (at 218.44 94.234 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604a7dfa)
-    (property "Reference" "D59" (id 0) (at 218.44 97.409 0))
+    (property "Reference" "D52" (id 0) (at 218.44 97.409 0))
     (property "Value" "1N4148" (id 1) (at 218.44 91.694 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 218.44 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5804,7 +5936,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 231.14 34.544 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604beeab)
-    (property "Reference" "SW61" (id 0) (at 231.14 29.6418 0))
+    (property "Reference" "SW14" (id 0) (at 231.14 29.6418 0))
     (property "Value" "mx" (id 1) (at 231.14 29.6164 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5821,7 +5953,7 @@
   (symbol (lib_id "diode:1N4148") (at 232.41 39.624 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604beeb1)
-    (property "Reference" "D61" (id 0) (at 232.41 42.799 0))
+    (property "Reference" "D13" (id 0) (at 232.41 42.799 0))
     (property "Value" "1N4148" (id 1) (at 232.41 37.084 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 232.41 39.624 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5836,7 +5968,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 231.14 70.104 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604beec9)
-    (property "Reference" "SW63" (id 0) (at 231.14 65.2018 0))
+    (property "Reference" "SW40" (id 0) (at 231.14 65.2018 0))
     (property "Value" "mx" (id 1) (at 231.14 65.1764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5853,7 +5985,7 @@
   (symbol (lib_id "diode:1N4148") (at 232.41 75.184 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604beecf)
-    (property "Reference" "D63" (id 0) (at 232.41 78.359 0))
+    (property "Reference" "D40" (id 0) (at 232.41 78.359 0))
     (property "Value" "1N4148" (id 1) (at 232.41 72.644 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 232.41 75.184 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5868,7 +6000,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 231.14 52.324 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604beed8)
-    (property "Reference" "SW62" (id 0) (at 231.14 47.4218 0))
+    (property "Reference" "SW27" (id 0) (at 231.14 47.4218 0))
     (property "Value" "mx" (id 1) (at 231.14 47.3964 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5885,7 +6017,7 @@
   (symbol (lib_id "diode:1N4148") (at 232.41 57.404 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604beede)
-    (property "Reference" "D62" (id 0) (at 232.41 60.579 0))
+    (property "Reference" "D27" (id 0) (at 232.41 60.579 0))
     (property "Value" "1N4148" (id 1) (at 232.41 54.864 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 232.41 57.404 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5900,7 +6032,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 231.14 108.204 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604beee7)
-    (property "Reference" "SW65" (id 0) (at 231.14 103.3018 0))
+    (property "Reference" "SW66" (id 0) (at 231.14 103.3018 0))
     (property "Value" "mx" (id 1) (at 231.14 103.2764 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5917,7 +6049,7 @@
   (symbol (lib_id "diode:1N4148") (at 232.41 113.284 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604beeed)
-    (property "Reference" "D65" (id 0) (at 232.41 115.824 0))
+    (property "Reference" "D66" (id 0) (at 232.41 115.824 0))
     (property "Value" "1N4148" (id 1) (at 232.41 110.744 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 232.41 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5932,7 +6064,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 231.14 87.884 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604beef6)
-    (property "Reference" "SW64" (id 0) (at 231.14 82.9818 0))
+    (property "Reference" "SW53" (id 0) (at 231.14 82.9818 0))
     (property "Value" "mx" (id 1) (at 231.14 82.9564 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5949,7 +6081,7 @@
   (symbol (lib_id "diode:1N4148") (at 232.41 94.234 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000604beefc)
-    (property "Reference" "D64" (id 0) (at 232.41 97.409 0))
+    (property "Reference" "D53" (id 0) (at 232.41 97.409 0))
     (property "Value" "1N4148" (id 1) (at 232.41 91.694 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 232.41 94.234 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5981,7 +6113,7 @@
   (symbol (lib_id "Device:RotaryEncoder_Switch") (at 250.952 22.86 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000612e776c)
-    (property "Reference" "SW66" (id 0) (at 252.1204 28.702 0)
+    (property "Reference" "SW1" (id 0) (at 252.1204 28.702 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Volume" (id 1) (at 257.302 20.32 0)
@@ -6041,7 +6173,7 @@
   (symbol (lib_id "74xx:74HC595") (at 194.818 143.51 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 290e41a2-bd12-4c00-83c9-0512d65b21e5)
-    (property "Reference" "U4" (id 0) (at 178.4182 141.4906 0)
+    (property "Reference" "U2" (id 0) (at 178.4182 141.4906 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74HC595" (id 1) (at 180.9551 141.4906 0)
@@ -6093,7 +6225,7 @@
   (symbol (lib_id "74xx:74HC165") (at 94.996 144.018 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3158ed20-d8c3-4cc8-85a5-919c1b97ef5c)
-    (property "Reference" "U2" (id 0) (at 108.0008 131.9784 90))
+    (property "Reference" "U3" (id 0) (at 108.0008 131.9784 90))
     (property "Value" "74HC165" (id 1) (at 107.0864 134.3152 90))
     (property "Footprint" "m65:74hc165" (id 2) (at 94.996 144.018 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6141,7 +6273,7 @@
   (symbol (lib_id "Seeeduino XIAO_ble:SeeeduinoXIAOBLE") (at 40.132 148.336 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 454efc91-ff41-4a1b-bd26-f2f3004c7e98)
-    (property "Reference" "U1" (id 0) (at 34.798 136.906 0)
+    (property "Reference" "U4" (id 0) (at 34.798 136.906 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SeeeduinoXIAOBLE" (id 1) (at 34.798 139.446 0)
@@ -6194,10 +6326,24 @@
     )
   )
 
+  (symbol (lib_id "Connector:Conn_01x03_Male") (at 256.794 131.826 0) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid 6f8a5728-ad50-4541-a716-c0cf62c5b5c9)
+    (property "Reference" "J1" (id 0) (at 259.5372 124.6886 0))
+    (property "Value" "rgb" (id 1) (at 259.5372 127 0))
+    (property "Footprint" "m65:connector-rgb" (id 2) (at 256.794 131.826 0))
+    (property "Datasheet" "~" (id 3) (at 256.794 131.826 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 28364296-7f06-471a-a26c-9f4157cce1eb))
+    (pin "2" (uuid f82f79f5-26f3-448a-bffa-6eaa63430581))
+    (pin "3" (uuid b8dee536-12c7-4398-80f3-31a43f736d65))
+  )
+
   (symbol (lib_id "Device:C") (at 171.958 154.178 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 74721c9c-ba8f-4b68-a1f4-2e1a23e4346e)
-    (property "Reference" "C2" (id 0) (at 165.354 154.686 90))
+    (property "Reference" "C3" (id 0) (at 165.354 154.686 90))
     (property "Value" "100nF" (id 1) (at 167.894 154.686 90))
     (property "Footprint" "m65:C-dual" (id 2) (at 170.9928 150.368 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6228,7 +6374,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Female") (at 149.352 180.848 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 822a4fbd-9cb1-45bb-9f1a-809f4343b9ae)
-    (property "Reference" "J1" (id 0) (at 150.622 180.8479 0)
+    (property "Reference" "J2" (id 0) (at 150.622 180.8479 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "battery" (id 1) (at 150.622 183.3879 0)
@@ -6263,7 +6409,7 @@
   (symbol (lib_id "74xx:74HC595") (at 153.67 143.256 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 990e7e1e-33e9-4b67-b4dc-7b39681c38d4)
-    (property "Reference" "U3" (id 0) (at 136.7536 154.5844 0)
+    (property "Reference" "U1" (id 0) (at 136.7536 154.5844 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74HC595" (id 1) (at 139.2936 154.5844 0)
@@ -6352,7 +6498,7 @@
   (symbol (lib_id "Device:C") (at 212.598 130.048 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c060c470-a06c-4e02-aaca-c80103f7115c)
-    (property "Reference" "C3" (id 0) (at 206.248 130.048 90))
+    (property "Reference" "C1" (id 0) (at 206.248 130.048 90))
     (property "Value" "100nF" (id 1) (at 208.788 129.794 90))
     (property "Footprint" "m65:C-dual" (id 2) (at 211.6328 126.238 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6367,7 +6513,7 @@
   (symbol (lib_id "diode:1N4148") (at 249.682 40.386 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d36a8a3b-2822-4781-b9eb-9f9f8fc32dfc)
-    (property "Reference" "D66" (id 0) (at 249.682 42.926 0))
+    (property "Reference" "D14" (id 0) (at 249.682 42.926 0))
     (property "Value" "1N4148" (id 1) (at 249.682 37.846 0))
     (property "Footprint" "m65:diode_v" (id 2) (at 249.682 40.386 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6382,7 +6528,7 @@
   (symbol (lib_id "Device:C") (at 123.698 130.556 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d7c7f6e7-b9be-4013-ae9c-103486ca5a87)
-    (property "Reference" "C1" (id 0) (at 117.094 133.604 90)
+    (property "Reference" "C2" (id 0) (at 117.094 133.604 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100nF" (id 1) (at 119.634 133.604 90)
@@ -6412,218 +6558,221 @@
     (path "/b902f7b8-1935-4392-8b3e-d406e2b5631e"
       (reference "#PWR02") (unit 1) (value "-BATT") (footprint "")
     )
-    (path "/d7c7f6e7-b9be-4013-ae9c-103486ca5a87"
+    (path "/c060c470-a06c-4e02-aaca-c80103f7115c"
       (reference "C1") (unit 1) (value "100nF") (footprint "m65:C-dual")
     )
-    (path "/74721c9c-ba8f-4b68-a1f4-2e1a23e4346e"
+    (path "/d7c7f6e7-b9be-4013-ae9c-103486ca5a87"
       (reference "C2") (unit 1) (value "100nF") (footprint "m65:C-dual")
     )
-    (path "/c060c470-a06c-4e02-aaca-c80103f7115c"
+    (path "/74721c9c-ba8f-4b68-a1f4-2e1a23e4346e"
       (reference "C3") (unit 1) (value "100nF") (footprint "m65:C-dual")
     )
     (path "/00000000-0000-0000-0000-000060430ad9"
       (reference "D1") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604323a2"
+    (path "/00000000-0000-0000-0000-0000604422bd"
       (reference "D2") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060432393"
+    (path "/00000000-0000-0000-0000-000060445063"
       (reference "D3") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604338fc"
+    (path "/00000000-0000-0000-0000-000060448453"
       (reference "D4") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604338ed"
+    (path "/00000000-0000-0000-0000-00006044db61"
       (reference "D5") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604422bd"
+    (path "/00000000-0000-0000-0000-00006045350d"
       (reference "D6") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604422ea"
+    (path "/00000000-0000-0000-0000-00006045b76d"
       (reference "D7") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604422db"
+    (path "/00000000-0000-0000-0000-000060465fbb"
       (reference "D8") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060442308"
+    (path "/00000000-0000-0000-0000-000060471ca9"
       (reference "D9") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604422f9"
+    (path "/00000000-0000-0000-0000-00006047f34b"
       (reference "D10") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060445063"
+    (path "/00000000-0000-0000-0000-00006048f9b3"
       (reference "D11") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060445090"
+    (path "/00000000-0000-0000-0000-0000604a7daf"
       (reference "D12") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060445081"
+    (path "/00000000-0000-0000-0000-0000604beeb1"
       (reference "D13") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604450ae"
+    (path "/d36a8a3b-2822-4781-b9eb-9f9f8fc32dfc"
       (reference "D14") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006044509f"
+    (path "/00000000-0000-0000-0000-0000604323a2"
       (reference "D15") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060448453"
+    (path "/00000000-0000-0000-0000-0000604422ea"
       (reference "D16") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060448480"
+    (path "/00000000-0000-0000-0000-000060445090"
       (reference "D17") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060448471"
+    (path "/00000000-0000-0000-0000-000060448480"
       (reference "D18") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006044849e"
+    (path "/00000000-0000-0000-0000-00006044db8e"
       (reference "D19") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006044848f"
+    (path "/00000000-0000-0000-0000-00006045353a"
       (reference "D20") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006044db61"
+    (path "/00000000-0000-0000-0000-00006045b79a"
       (reference "D21") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006044db8e"
+    (path "/00000000-0000-0000-0000-000060465fe8"
       (reference "D22") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006044db7f"
+    (path "/00000000-0000-0000-0000-000060471cd6"
       (reference "D23") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006044dbac"
+    (path "/00000000-0000-0000-0000-00006047f378"
       (reference "D24") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006044db9d"
+    (path "/00000000-0000-0000-0000-00006048f9e0"
       (reference "D25") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006045350d"
+    (path "/00000000-0000-0000-0000-0000604a7ddc"
       (reference "D26") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006045353a"
+    (path "/00000000-0000-0000-0000-0000604beede"
       (reference "D27") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006045352b"
+    (path "/00000000-0000-0000-0000-000060432393"
       (reference "D28") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060453558"
+    (path "/00000000-0000-0000-0000-0000604422db"
       (reference "D29") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060453549"
+    (path "/00000000-0000-0000-0000-000060445081"
       (reference "D30") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006045b76d"
+    (path "/00000000-0000-0000-0000-000060448471"
       (reference "D31") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006045b79a"
+    (path "/00000000-0000-0000-0000-00006044db7f"
       (reference "D32") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006045b78b"
+    (path "/00000000-0000-0000-0000-00006045352b"
       (reference "D33") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006045b7b8"
+    (path "/00000000-0000-0000-0000-00006045b78b"
       (reference "D34") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006045b7a9"
+    (path "/00000000-0000-0000-0000-000060465fd9"
       (reference "D35") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060465fbb"
+    (path "/00000000-0000-0000-0000-000060471cc7"
       (reference "D36") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060465fe8"
+    (path "/00000000-0000-0000-0000-00006047f369"
       (reference "D37") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060465fd9"
+    (path "/00000000-0000-0000-0000-00006048f9d1"
       (reference "D38") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060466006"
+    (path "/00000000-0000-0000-0000-0000604a7dcd"
       (reference "D39") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060465ff7"
+    (path "/00000000-0000-0000-0000-0000604beecf"
       (reference "D40") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060471ca9"
+    (path "/00000000-0000-0000-0000-0000604338fc"
       (reference "D41") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060471cd6"
+    (path "/00000000-0000-0000-0000-000060442308"
       (reference "D42") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060471cc7"
+    (path "/00000000-0000-0000-0000-0000604450ae"
       (reference "D43") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060471cf4"
+    (path "/00000000-0000-0000-0000-00006044849e"
       (reference "D44") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-000060471ce5"
+    (path "/00000000-0000-0000-0000-00006044dbac"
       (reference "D45") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006047f34b"
+    (path "/00000000-0000-0000-0000-000060453558"
       (reference "D46") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006047f378"
+    (path "/00000000-0000-0000-0000-00006045b7b8"
       (reference "D47") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006047f369"
+    (path "/00000000-0000-0000-0000-000060466006"
       (reference "D48") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006047f396"
+    (path "/00000000-0000-0000-0000-000060471cf4"
       (reference "D49") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006047f387"
+    (path "/00000000-0000-0000-0000-00006047f396"
       (reference "D50") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006048f9b3"
+    (path "/00000000-0000-0000-0000-00006048f9fe"
       (reference "D51") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006048f9e0"
+    (path "/00000000-0000-0000-0000-0000604a7dfa"
       (reference "D52") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006048f9d1"
+    (path "/00000000-0000-0000-0000-0000604beefc"
       (reference "D53") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006048f9fe"
+    (path "/00000000-0000-0000-0000-0000604338ed"
       (reference "D54") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-00006048f9ef"
+    (path "/00000000-0000-0000-0000-0000604422f9"
       (reference "D55") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604a7daf"
+    (path "/00000000-0000-0000-0000-00006044509f"
       (reference "D56") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604a7ddc"
+    (path "/00000000-0000-0000-0000-00006044848f"
       (reference "D57") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604a7dcd"
+    (path "/00000000-0000-0000-0000-00006044db9d"
       (reference "D58") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604a7dfa"
+    (path "/00000000-0000-0000-0000-000060453549"
       (reference "D59") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604a7deb"
+    (path "/00000000-0000-0000-0000-00006045b7a9"
       (reference "D60") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604beeb1"
+    (path "/00000000-0000-0000-0000-000060465ff7"
       (reference "D61") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604beede"
+    (path "/00000000-0000-0000-0000-000060471ce5"
       (reference "D62") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604beecf"
+    (path "/00000000-0000-0000-0000-00006047f387"
       (reference "D63") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604beefc"
+    (path "/00000000-0000-0000-0000-00006048f9ef"
       (reference "D64") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/00000000-0000-0000-0000-0000604beeed"
+    (path "/00000000-0000-0000-0000-0000604a7deb"
       (reference "D65") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
-    (path "/d36a8a3b-2822-4781-b9eb-9f9f8fc32dfc"
+    (path "/00000000-0000-0000-0000-0000604beeed"
       (reference "D66") (unit 1) (value "1N4148") (footprint "m65:diode_v")
     )
     (path "/5dbb3e71-3654-4eae-ad04-9e11e65d6572"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "m65:LegoHole_16-32u_4875")
     )
+    (path "/6f8a5728-ad50-4541-a716-c0cf62c5b5c9"
+      (reference "J1") (unit 1) (value "rgb") (footprint "m65:connector-rgb")
+    )
     (path "/822a4fbd-9cb1-45bb-9f1a-809f4343b9ae"
-      (reference "J1") (unit 1) (value "battery") (footprint "m65:battery connector")
+      (reference "J2") (unit 1) (value "battery") (footprint "m65:battery connector")
     )
     (path "/b86b2db7-992a-49b7-8437-081bfaa5bb95"
       (reference "OL1") (unit 1) (value "oled - SSD1306") (footprint "m65:OLED_128x32")
@@ -6643,218 +6792,218 @@
     (path "/3c195225-4169-401b-910c-06272dc6b762"
       (reference "R5") (unit 1) (value "10kΩ") (footprint "m65:R-dual-10k")
     )
-    (path "/00000000-0000-0000-0000-000060430ad3"
-      (reference "SW1") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    (path "/00000000-0000-0000-0000-0000612e776c"
+      (reference "SW1") (unit 1) (value "Volume") (footprint "m65:RotaryEncoder_Alps_EC11E_Vertical_H20mm")
     )
-    (path "/00000000-0000-0000-0000-00006043239c"
+    (path "/00000000-0000-0000-0000-000060430ad3"
       (reference "SW2") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
     )
-    (path "/00000000-0000-0000-0000-00006043238d"
+    (path "/00000000-0000-0000-0000-0000604422b7"
       (reference "SW3") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
     )
-    (path "/00000000-0000-0000-0000-0000604338f6"
+    (path "/00000000-0000-0000-0000-00006044505d"
       (reference "SW4") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
     )
-    (path "/00000000-0000-0000-0000-0000604338e7"
+    (path "/00000000-0000-0000-0000-00006044844d"
       (reference "SW5") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
     )
-    (path "/00000000-0000-0000-0000-0000604422b7"
+    (path "/00000000-0000-0000-0000-00006044db5b"
       (reference "SW6") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
     )
-    (path "/00000000-0000-0000-0000-0000604422e4"
+    (path "/00000000-0000-0000-0000-000060453507"
       (reference "SW7") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
     )
-    (path "/00000000-0000-0000-0000-0000604422d5"
+    (path "/00000000-0000-0000-0000-00006045b767"
       (reference "SW8") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
     )
-    (path "/00000000-0000-0000-0000-000060442302"
+    (path "/00000000-0000-0000-0000-000060465fb5"
       (reference "SW9") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
     )
-    (path "/00000000-0000-0000-0000-0000604422f3"
+    (path "/00000000-0000-0000-0000-000060471ca3"
       (reference "SW10") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
     )
-    (path "/00000000-0000-0000-0000-00006044505d"
+    (path "/00000000-0000-0000-0000-00006047f345"
       (reference "SW11") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
     )
-    (path "/00000000-0000-0000-0000-00006044508a"
+    (path "/00000000-0000-0000-0000-00006048f9ad"
       (reference "SW12") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
     )
-    (path "/00000000-0000-0000-0000-00006044507b"
-      (reference "SW13") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-0000604450a8"
-      (reference "SW14") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060445099"
-      (reference "SW15") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006044844d"
-      (reference "SW16") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006044847a"
-      (reference "SW17") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006044846b"
-      (reference "SW18") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060448498"
-      (reference "SW19") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060448489"
-      (reference "SW20") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006044db5b"
-      (reference "SW21") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006044db88"
-      (reference "SW22") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006044db79"
-      (reference "SW23") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006044dba6"
-      (reference "SW24") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006044db97"
-      (reference "SW25") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060453507"
-      (reference "SW26") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060453534"
-      (reference "SW27") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060453525"
-      (reference "SW28") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060453552"
-      (reference "SW29") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060453543"
-      (reference "SW30") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006045b767"
-      (reference "SW31") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006045b794"
-      (reference "SW32") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006045b785"
-      (reference "SW33") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006045b7b2"
-      (reference "SW34") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006045b7a3"
-      (reference "SW35") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060465fb5"
-      (reference "SW36") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060465fe2"
-      (reference "SW37") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060465fd3"
-      (reference "SW38") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060466000"
-      (reference "SW39") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060465ff1"
-      (reference "SW40") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060471ca3"
-      (reference "SW41") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060471cd0"
-      (reference "SW42") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060471cc1"
-      (reference "SW43") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060471cee"
-      (reference "SW44") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-000060471cdf"
-      (reference "SW45") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006047f345"
-      (reference "SW46") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006047f372"
-      (reference "SW47") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006047f363"
-      (reference "SW48") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006047f390"
-      (reference "SW49") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006047f381"
-      (reference "SW50") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006048f9ad"
-      (reference "SW51") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006048f9da"
-      (reference "SW52") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006048f9cb"
-      (reference "SW53") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006048f9f8"
-      (reference "SW54") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
-    )
-    (path "/00000000-0000-0000-0000-00006048f9e9"
-      (reference "SW55") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
-    )
     (path "/00000000-0000-0000-0000-0000604a7da9"
-      (reference "SW56") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
-    )
-    (path "/00000000-0000-0000-0000-0000604a7dd6"
-      (reference "SW57") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
-    )
-    (path "/00000000-0000-0000-0000-0000604a7dc7"
-      (reference "SW58") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
-    )
-    (path "/00000000-0000-0000-0000-0000604a7df4"
-      (reference "SW59") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
-    )
-    (path "/00000000-0000-0000-0000-0000604a7de5"
-      (reference "SW60") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
+      (reference "SW13") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
     )
     (path "/00000000-0000-0000-0000-0000604beeab"
-      (reference "SW61") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
+      (reference "SW14") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
+    )
+    (path "/00000000-0000-0000-0000-00006043239c"
+      (reference "SW15") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-0000604422e4"
+      (reference "SW16") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006044508a"
+      (reference "SW17") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006044847a"
+      (reference "SW18") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006044db88"
+      (reference "SW19") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060453534"
+      (reference "SW20") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006045b794"
+      (reference "SW21") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060465fe2"
+      (reference "SW22") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060471cd0"
+      (reference "SW23") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006047f372"
+      (reference "SW24") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006048f9da"
+      (reference "SW25") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-0000604a7dd6"
+      (reference "SW26") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
     )
     (path "/00000000-0000-0000-0000-0000604beed8"
-      (reference "SW62") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
+      (reference "SW27") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
+    )
+    (path "/00000000-0000-0000-0000-00006043238d"
+      (reference "SW28") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-0000604422d5"
+      (reference "SW29") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006044507b"
+      (reference "SW30") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006044846b"
+      (reference "SW31") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006044db79"
+      (reference "SW32") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060453525"
+      (reference "SW33") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006045b785"
+      (reference "SW34") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060465fd3"
+      (reference "SW35") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060471cc1"
+      (reference "SW36") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006047f363"
+      (reference "SW37") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006048f9cb"
+      (reference "SW38") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-0000604a7dc7"
+      (reference "SW39") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
     )
     (path "/00000000-0000-0000-0000-0000604beec9"
-      (reference "SW63") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
+      (reference "SW40") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
+    )
+    (path "/00000000-0000-0000-0000-0000604338f6"
+      (reference "SW41") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060442302"
+      (reference "SW42") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-0000604450a8"
+      (reference "SW43") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060448498"
+      (reference "SW44") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006044dba6"
+      (reference "SW45") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060453552"
+      (reference "SW46") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006045b7b2"
+      (reference "SW47") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060466000"
+      (reference "SW48") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060471cee"
+      (reference "SW49") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006047f390"
+      (reference "SW50") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006048f9f8"
+      (reference "SW51") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-0000604a7df4"
+      (reference "SW52") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
     )
     (path "/00000000-0000-0000-0000-0000604beef6"
+      (reference "SW53") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
+    )
+    (path "/00000000-0000-0000-0000-0000604338e7"
+      (reference "SW54") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-0000604422f3"
+      (reference "SW55") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060445099"
+      (reference "SW56") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060448489"
+      (reference "SW57") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006044db97"
+      (reference "SW58") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060453543"
+      (reference "SW59") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006045b7a3"
+      (reference "SW60") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060465ff1"
+      (reference "SW61") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-000060471cdf"
+      (reference "SW62") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006047f381"
+      (reference "SW63") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB")
+    )
+    (path "/00000000-0000-0000-0000-00006048f9e9"
       (reference "SW64") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
     )
-    (path "/00000000-0000-0000-0000-0000604beee7"
+    (path "/00000000-0000-0000-0000-0000604a7de5"
       (reference "SW65") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
     )
-    (path "/00000000-0000-0000-0000-0000612e776c"
-      (reference "SW66") (unit 1) (value "Volume") (footprint "m65:RotaryEncoder_Alps_EC11E_Vertical_H20mm")
+    (path "/00000000-0000-0000-0000-0000604beee7"
+      (reference "SW66") (unit 1) (value "mx") (footprint "m65:SW_Cherry_MX_1.00u_PCB-3d")
     )
     (path "/9819a7bf-89a3-472a-ba7f-3b4856c9b9d4"
       (reference "SW67") (unit 1) (value "on/off") (footprint "m65:switch_slide")
     )
-    (path "/454efc91-ff41-4a1b-bd26-f2f3004c7e98"
-      (reference "U1") (unit 1) (value "SeeeduinoXIAOBLE") (footprint "m65:xiao-ble-tht-new")
-    )
-    (path "/3158ed20-d8c3-4cc8-85a5-919c1b97ef5c"
-      (reference "U2") (unit 1) (value "74HC165") (footprint "m65:74hc165")
-    )
     (path "/990e7e1e-33e9-4b67-b4dc-7b39681c38d4"
-      (reference "U3") (unit 1) (value "74HC595") (footprint "m65:74hc595n")
+      (reference "U1") (unit 1) (value "74HC595") (footprint "m65:74hc595n")
     )
     (path "/290e41a2-bd12-4c00-83c9-0512d65b21e5"
-      (reference "U4") (unit 1) (value "74HC595") (footprint "m65:74hc595n")
+      (reference "U2") (unit 1) (value "74HC595") (footprint "m65:74hc595n")
+    )
+    (path "/3158ed20-d8c3-4cc8-85a5-919c1b97ef5c"
+      (reference "U3") (unit 1) (value "74HC165") (footprint "m65:74hc165")
+    )
+    (path "/454efc91-ff41-4a1b-bd26-f2f3004c7e98"
+      (reference "U4") (unit 1) (value "SeeeduinoXIAOBLE") (footprint "m65:xiao-ble-tht-new")
     )
   )
 )
