@@ -1,4 +1,4 @@
-20721760107954066
+20730156221859807
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86443,6 +86443,13 @@ SOP 1.27
 32
 16
 m65
+74HC589-sop16
+16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
+SOP 1.27
+0
+32
+16
+m65
 74HC595-sop16
 16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
 SOP 1.27
@@ -86499,6 +86506,13 @@ CherryMX_ChocV2_1u
 7
 2
 m65
+CherryMX_ChocV2_1u-3dALPS
+
+
+0
+7
+2
+m65
 CherryMX_ChocV2_1u-3dCherry
 
 
@@ -86527,12 +86541,12 @@ CherryMX_ChocV2_1u-ledTHT
 4
 4
 m65
-CherryMX_ChocV2_1uALPS
+CherryMX_ChocV2_enc_1u
 
 
 0
-7
-2
+14
+5
 m65
 LED_D3.0mm_lwr
 IR-LED, diameter 3.0mm, 2 pins, color: clear
@@ -86570,6 +86584,13 @@ mounting hole 4.9mm, no annular
 0
 m65
 LegoHole_7u_4875
+Mounting Hole 4.9mm, no annular
+mounting hole 4.9mm, no annular
+0
+0
+0
+m65
+LegoHole_10x20u_4875
 Mounting Hole 4.9mm, no annular
 mounting hole 4.9mm, no annular
 0
@@ -86688,6 +86709,13 @@ Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W len
 10
 2
 m65
+R-dual-5k1
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+10
+2
+m65
 R-dual-10k
 Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
 Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
@@ -86749,7 +86777,7 @@ Alps rotary encoder, EC12E... without switch (pins are dummy), vertical shaft, h
 rotary encoder
 0
 7
-6
+5
 m65
 SK6812-MINI-E
 
@@ -86805,7 +86833,7 @@ Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uplo
 Cherry MX keyswitch 1.00u PCB
 0
 9
-6
+5
 m65
 SW_PG1350
 Kailh "Choc" PG1350 keyswitch
@@ -86990,6 +87018,13 @@ Through hole socket strip THT 1x08 2.54mm single row
 8
 m65
 screen-oled
+Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x08 2.54mm single row
+0
+8
+8
+m65
+socket2.54
 Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
 Through hole socket strip THT 1x08 2.54mm single row
 0
