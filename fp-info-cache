@@ -1,4 +1,4 @@
-20730156221859807
+20735199033514760
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86800,6 +86800,13 @@ SO16
 16
 16
 m65
+SOT-23-hand
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+m65
 SW-1u-MXandChocV2
 
 
@@ -87023,6 +87030,20 @@ Through hole socket strip THT 1x08 2.54mm single row
 0
 8
 8
+m65
+sig
+
+
+0
+0
+0
+m65
+sig-copper
+
+
+0
+0
+0
 m65
 socket2.54
 Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated

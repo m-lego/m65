@@ -33,9 +33,9 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.7 1.7) (drill 0.95) (layers *.Cu *.Mask) (tstamp 7cefc08d-d2d0-46b8-be71-a73a207e779b))
   (pad "2" thru_hole circle (at 2.5 0) (size 1.7 1.7) (drill 0.95) (layers *.Cu *.Mask) (tstamp 28e3fa10-b558-45e6-990c-a82ec801b2b4))
   (pad "3" thru_hole roundrect (at 5 0) (size 1.7 1.7) (drill 0.95) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 2eaa63de-4fb3-48b0-8b1c-a6de084c440a))
-  (model "${KISYS3DMOD}/Connector_JST.3dshapes/JST_EH_S3B-EH_1x03_P2.50mm_Horizontal.wrl"
-    (offset (xyz 0 0 0))
+  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_EH_S3B-EH_1x03_P2.50mm_Horizontal.step"
+    (offset (xyz 5 0 -1.75))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 -180 0))
   )
 )
