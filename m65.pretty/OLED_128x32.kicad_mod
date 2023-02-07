@@ -56,6 +56,8 @@
     (effects (font (size 0.8128 0.8128) (thickness 0.15)))
     (tstamp f3168173-8706-46a5-be80-74ad7d968518)
   )
+  (fp_rect (start -4.62 -0.87) (end 4.67 0.89) (layer "B.SilkS") (width 0.12) (fill none) (tstamp 6631d325-df38-4ae8-a77e-465ec21c604a))
+  (fp_rect (start -4.65 -0.87) (end 4.67 0.89) (layer "F.SilkS") (width 0.12) (fill none) (tstamp ebec3f50-b254-43b2-9fcb-6783d6286268))
   (fp_line (start -6 1.27) (end -6 -36.73) (layer "Dwgs.User") (width 0.12) (tstamp 240c10af-51b5-420e-a6f4-a2c8f5db1db5))
   (fp_line (start -6 -36.73) (end 6 -36.73) (layer "Dwgs.User") (width 0.12) (tstamp 2d697cf0-e02e-4ed1-a048-a704dab0ee43))
   (fp_line (start -6 1.27) (end 6 1.27) (layer "Dwgs.User") (width 0.12) (tstamp 503dbd88-3e6b-48cc-a2ea-a6e28b52a1f7))
