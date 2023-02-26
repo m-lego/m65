@@ -1,4 +1,4 @@
-21025423847123090
+21030466530594063
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87479,6 +87479,13 @@ C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor
 6
 2
 m65
+CHERRY_MX1A-11NN_SWITCH
+
+
+0
+4
+4
+m65
 CherryMX-ledTHT
 
 
@@ -87534,6 +87541,13 @@ CherryMX_ChocV2_enc_1u
 0
 14
 5
+m65
+JS202011SCQN
+JS202011SCQN
+Switch
+0
+6
+6
 m65
 LED_D3.0mm_lwr
 IR-LED, diameter 3.0mm, 2 pins, color: clear
@@ -87654,13 +87668,6 @@ mounting hole 4.9mm, no annular
 0
 0
 m65
-MX-Alps-Hybrid-1U
-
-
-0
-4
-2
-m65
 MountingHole_1.15mm_M1
 Mounting Hole 2.2mm, no annular, M2
 mounting hole 2.2mm no annular m2
@@ -87780,13 +87787,6 @@ SK6812-MINI-E-pins
 8
 4
 m65
-SO16
-<b>Small Outline package</b> 150 mil
-
-0
-16
-16
-m65
 SOT-23-hand
 SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
@@ -87823,6 +87823,13 @@ Cherry MX keyswitch 1.00u PCB
 2
 m65
 SW_Cherry_MX_1.00u_PCB-enc
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+9
+5
+m65
+SW_Cherry_MX_1.00u_PCB-encoder
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
 0
@@ -87997,6 +88004,20 @@ mouse-bite-5mm-slot
 0
 0
 m65
+qmk
+
+
+0
+0
+0
+m65
+qmk-icon
+
+
+0
+0
+0
+m65
 rgb-con
 JST EH series connector, S3B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 connector JST EH horizontal
@@ -88050,7 +88071,7 @@ switch_slide
 CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf
 switch SPDT
 0
-5
+11
 3
 m65
 xiao-ble-tht-new

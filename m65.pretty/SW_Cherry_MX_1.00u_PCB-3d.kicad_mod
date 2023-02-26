@@ -160,9 +160,9 @@
   (pad "" np_thru_hole circle (at -5.08 0) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp faa47df8-079a-4cf0-9532-c75cf51ad6aa))
   (pad "1" thru_hole circle (at 2.54 -5.08) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask) (tstamp 0ae91059-c3cb-42ca-b237-3365d95bbdf4))
   (pad "2" thru_hole circle (at -3.81 -2.54) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask) (tstamp 2c75b0fd-8d39-4134-8230-331aada634fa))
-  (model "${KIPRJMOD}/packages3d/Switch_Keyboard_Cherry_MX.3dshapes/SW_Cherry_MX_PCB.wrl"
-    (offset (xyz 0 0 0))
+  (model "${KIPRJMOD}/packages3d/Kailh Polia.step"
+    (offset (xyz 0 0 5))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 -90))
   )
 )
