@@ -1,4 +1,4 @@
-### not enough pins for matrix
+### not enough pins for matrix?
 
 So you decided to wire your matrix keyboard but your favorite mcu does not come with enough pins...
 this is more or less what happened to me when I put my hand on a xiao seeduino rp2040 some time ago.
@@ -25,8 +25,9 @@ link https://lastminuteengineers.com/74hc595-shift-register-arduino-tutorial/
 
 So googled hc595 and keyboard... and found this... https://mehmedbasic.dk/post/74hc595-keyboard/ and that was the start.
 
-three ways to, in all three cases I look at scanning a 13x5 matrix (my original problem) on a xiao seeduino rp2040 but this can be
-generalised.
+three ways to, in all three cases I look at scanning a 13x5 matrix (my original problem, that morphed in a 14x5 matrix in time,
+clickable encoder) on a xiao seeduino rp2040 but this can be generalised to any rp2040 or stm32... at least the ones I encourage
+using and I have been testing.
 
 **note**: at the time of starting this, qmk did not have an examples in the official repo, now you can find the keychron keyboards
 and hazel/bad wings use hc595.
@@ -36,7 +37,7 @@ for hc165 keyboards/handwired/dqz11n1g/,
 
 you will need 2x74HC595 shift registers,
 
-circuit picture
+  ![matrix version one](pics/matrix-1.png)
 
 qmk example
 
@@ -48,7 +49,8 @@ this is an old idea nothing, new internet has few hits on it.
 
 this approach is limited, you will not be able to share the MISO pin with other spi devices without extra circuitry
 
-circuit picture
+  ![matrix version 2 cheap non buffered](pics/matrix-2a.png)
+
 
 qmk example
 
@@ -57,8 +59,10 @@ qmk example
 you need 2x74HC595 and 1xHC589, 589 is slightly more expensive compared with 165 but is buffered so you can share MISO line
 unfortunately is available only in surface mount these days...
 
-circuit picture
+  ![matrix version 2 buffered](pics/matrix-2b.png)
 
 qmk example
+
+All three variants above permit mixing scanning via shft registers and pins... one will need to have a mixed matrix scanning codes.
 
 
