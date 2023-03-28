@@ -30,8 +30,10 @@ clickable encoder) on a xiao seeduino rp2040 but this can be generalised to any 
 using and I have been testing.
 
 **note**: at the time of starting this, qmk did not have an examples in the official repo, now you can find the keychron keyboards
-and hazel/bad wings use hc595.
-for hc165 keyboards/handwired/dqz11n1g/,
+and hazel/bad wings use hc595, since version 0.20.0.
+for hc165 keyboards/handwired/dqz11n1g/
+
+to manage these a lot of wise words from sigprof and tzarc were used...
 
 1. scan only columns with shift registers
 
