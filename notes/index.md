@@ -27,8 +27,6 @@ or [mechdb](https://mechdb.net/)
 I am not related with any of them and discovered some of them too late.
 
 I have also made a 5x12 split, 5x12 and 4x12, 5x4, 2x2 see below.
-
-
 ## designed keyboards
 
 what is special about these ones?
@@ -78,4 +76,5 @@ more about of each of the models done bellow
 ## other
 
 ### [handwire](hand5x5.md)
+
 ### [matrix](notenoughpins.md)
