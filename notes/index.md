@@ -61,6 +61,8 @@ more about of each of the models done bellow
 
 ###  [m20 5x4](m20.md)
 
+### [m8 4x2](m8.md)
+
 ### [m4 2x2](m4.md)
 
 ## converted tipro keyboards
@@ -76,3 +78,4 @@ more about of each of the models done bellow
 ## other
 
 ### [handwire](hand5x5.md)
+### [matrix](notenoughpins.md)
