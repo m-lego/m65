@@ -7,7 +7,9 @@ went on the internet at the time and found one of the solutions, wire duplex... 
 involves getting my head around too my simple things.
 
 The other solution restructure the matrix... let us say you want to wire a 17 columns and 6 rows, but you do not have 23 pins... you
-can wire another matrix, 11 columns and 10 rows and remap the matrix. In qmk this is made easy in the data driven approach
+can wire another matrix, 11 columns and 10 rows and remap the matrix, that is 21 pins.
+Not a huge save but if you are only 1-2 pins short of your end game this can make the difference. Now you will need a different
+matrix but in qmk this is made easy in the data driven approach, similar in zmk via a transorm.
 
 *note*: add example
 
