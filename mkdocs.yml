@@ -51,6 +51,7 @@ nav:
       - 'm60 split': m60_split.md
       - m48: m48.md
       - m20: m20.md
+      - m8: m8.md
       - m4: m4.md
     - Converted:
       - 'tipro 8x16': tipro8x16.md
@@ -59,4 +60,5 @@ nav:
       - 'tipro ortho-ansi': tiproortho-ansi.md
     - Others:
       - handwire: hand5x5.md
+      - "not enough pins": notenoughpins.md
 
