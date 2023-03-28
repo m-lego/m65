@@ -41,7 +41,7 @@ you will need 2x74HC595 shift registers,
 
   ![matrix version one](pics/matrix-1.png)
 
-qmk example
+   ![qmk example](https://github.com/alinelena/qmk_firmware/tree/mlego_dev/keyboards/mlego/m65/rev7/matrix.c)
 
 #### scan both columns and rows with shift registers.
 
@@ -54,7 +54,7 @@ this approach is limited, you will not be able to share the MISO pin with other 
   ![matrix version 2 cheap non buffered](pics/matrix-2a.png)
 
 
-qmk example
+   ![qmk example](https://github.com/alinelena/qmk_firmware/tree/mlego_dev/keyboards/mlego/m65/rev9/matrix.c)
 
 #### scan both columns and rows with shift registers
 
@@ -63,7 +63,7 @@ unfortunately is available only in surface mount these days...
 
   ![matrix version 2 buffered](pics/matrix-2b.png)
 
-qmk example
+   ![qmk examples](https://github.com/alinelena/qmk_firmware/blob/mlego_dev/keyboards/mlego/m8/rev1/matrix.c)
 
 ***All three variants above permit mixing scanning via shft registers and pins... one will need to have a mixed matrix scanning codes.***
 
