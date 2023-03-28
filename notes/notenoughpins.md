@@ -35,7 +35,7 @@ for hc165 keyboards/handwired/dqz11n1g/
 
 to manage these a lot of wise words from sigprof and tzarc were used...
 
-#### scan only columns with shift registers
+#### 1. scan only columns with shift registers
 
 you will need 2x74HC595 shift registers,
 
@@ -44,9 +44,10 @@ you will need 2x74HC595 shift registers,
    [qmk matrix scan example](https://github.com/alinelena/qmk_firmware/tree/mlego_dev/keyboards/mlego/m65/rev7/matrix.c)
 
 not this version can be also implemented in zmk
+
    [zmk matrix scan example](https://github.com/alinelena/mlego-zmk/blob/main/config/boards/shields/mlego5x13_rev8/mlego5x13_rev8.overlay)
 
-#### scan both columns and rows with shift registers.
+#### 2a. scan both columns and rows with shift registers.
 
 you need 2x74HC595 and 1xHC165, both are cheap and are available in both through hole and surface mount...
 
@@ -57,16 +58,16 @@ this approach is limited, you will not be able to share the MISO pin with other 
   ![matrix version 2 cheap non buffered](pics/matrix-2a.png)
 
 
-   ![qmk matrix scan example](https://github.com/alinelena/qmk_firmware/tree/mlego_dev/keyboards/mlego/m65/rev9/matrix.c)
+   [qmk matrix scan example](https://github.com/alinelena/qmk_firmware/tree/mlego_dev/keyboards/mlego/m65/rev9/matrix.c)
 
-#### scan both columns and rows with shift registers
+#### 2b. scan both columns and rows with shift registers
 
 you need 2x74HC595 and 1xHC589, 589 is slightly more expensive compared with 165 but is buffered so you can share MISO line
 unfortunately is available only in surface mount these days...
 
   ![matrix version 2 buffered](pics/matrix-2b.png)
 
-   ![qmk matrix scan examples](https://github.com/alinelena/qmk_firmware/blob/mlego_dev/keyboards/mlego/m8/rev1/matrix.c)
+   [qmk matrix scan examples](https://github.com/alinelena/qmk_firmware/blob/mlego_dev/keyboards/mlego/m8/rev1/matrix.c)
 
 ***All three variants above permit mixing scanning via shft registers and pins... one will need to have a mixed matrix scanning codes.***
 
