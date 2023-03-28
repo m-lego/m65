@@ -35,7 +35,7 @@ for hc165 keyboards/handwired/dqz11n1g/
 
 to manage these a lot of wise words from sigprof and tzarc were used...
 
-1. scan only columns with shift registers
+#### scan only columns with shift registers
 
 you will need 2x74HC595 shift registers,
 
@@ -43,7 +43,7 @@ you will need 2x74HC595 shift registers,
 
 qmk example
 
-2a. scan both columns and rows with shift registers.
+#### scan both columns and rows with shift registers.
 
 you need 2x74HC595 and 1xHC165, both are cheap and are available in both through hole and surface mount...
 
@@ -56,7 +56,7 @@ this approach is limited, you will not be able to share the MISO pin with other 
 
 qmk example
 
-2b. scan both columns and rows with shift registers
+#### scan both columns and rows with shift registers
 
 you need 2x74HC595 and 1xHC589, 589 is slightly more expensive compared with 165 but is buffered so you can share MISO line
 unfortunately is available only in surface mount these days...
@@ -65,6 +65,6 @@ unfortunately is available only in surface mount these days...
 
 qmk example
 
-All three variants above permit mixing scanning via shft registers and pins... one will need to have a mixed matrix scanning codes.
+***All three variants above permit mixing scanning via shft registers and pins... one will need to have a mixed matrix scanning codes.***
 
 
