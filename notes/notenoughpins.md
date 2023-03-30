@@ -18,6 +18,7 @@ https://github.com/tzarc/ghoul
 
 A popular solution was to use io expanders
 https://github.com/pierrechevalier83/ferris/wiki/Understanding-the-QMK-firmware-for-the-IO-Expander
+few other keyboards use demuxers likes 74HC138, check qmk repo for them.
 
 unfortunately non matrix solution looked too complex for me and the IO exapnder one pure magic(now that I know more about is just
 complicated).
