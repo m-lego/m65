@@ -15,6 +15,6 @@ needs to be cut to write dimensions.
 
 #### gerbers
 
-ready may gerbers for jlcpcb are available [here](https://gitlab.com/m-lego/hand5x5/-/blob/main/m155-gerbers.zip)
+ready may gerbers for jlcpcb are available [here](https://gitlab.com/m-lego/hand5x5/-/blob/main/gerbers-rev5.zip)
 
 full kicad project is available https://gitlab.com/m-lego/hand5x5 footprints are shared from [m65](https://gitlab.com/m-lego/m65)
