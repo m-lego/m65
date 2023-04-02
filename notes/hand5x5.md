@@ -6,14 +6,12 @@ needs to be cut to write dimensions.
 
 #### render
 
-  ![handwire 5x5](pics/hand/hand-5x5-3d.png)
+  ![handwire 5x5](pics/hand/m1-5x5-rounded.jpg)
 
 
 #### pcb
 
   ![handwire 5x5](pics/hand/m1-5x5-pcb.png)
-
-  ![handwire 5x5](pics/hand/hand-5x5-3d-back.png)
 
 #### gerbers
 
