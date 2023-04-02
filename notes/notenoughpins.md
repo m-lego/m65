@@ -76,9 +76,8 @@ can wire another matrix, 11 columns and 10 rows and remap the matrix, that is 21
 Now you will need a different
 matrix but in qmk this is made easy in the data driven approach, similar in zmk via a transorm.
 
-I will use as an example my 13x5 ortho in qmk was set up like:
+I will use as an example my mlego/m65 layout which is 13x5 ortho, and can be represented as a 5 rows 13 columns matrix, that is 18 pins. In qmk is set up like:
 
-the typical setup will look like:
 
 - the pins
 
@@ -89,7 +88,7 @@ the typical setup will look like:
         }
 ```
 
-- the layout
+- the layout to matrix, each key has a physical position ("x","y","w") and a position in the matrix indicated by "matrix". in this case is trivial since the two map one on top of each other.
 
 ```json
         "LAYOUT_ortho_5x13": {
@@ -107,7 +106,7 @@ the typical setup will look like:
                 { "label": "0" , "matrix": [0, 10], "w": 1, "x": 10, "y": 0 },
                 { "label": "-" , "matrix": [0, 11], "w": 1, "x": 11, "y": 0 },
                 { "label": "⌫" , "matrix": [0, 12], "w": 1, "x": 12, "y": 0 },
-                { "label": "↹ ", "matrix": [1, 0] , "w": 1, "x": 0 , "y": 1 },
+                { "label": "↹", "matrix": [1, 0] , "w": 1, "x": 0 , "y": 1 },
                 { "label": "q" , "matrix": [1, 1] , "w": 1, "x": 1 , "y": 1 },
                 { "label": "w" , "matrix": [1, 2] , "w": 1, "x": 2 , "y": 1 },
                 { "label": "e" , "matrix": [1, 3] , "w": 1, "x": 3 , "y": 1 },
@@ -156,10 +155,142 @@ the typical setup will look like:
                 { "label": " " , "matrix": [4, 7] , "w": 1, "x": 7 , "y": 4 },
                 { "label": "⎇" , "matrix": [4, 8] , "w": 1, "x": 8 , "y": 4 },
                 { "label": "⇧" , "matrix": [4, 9] , "w": 1, "x": 9 , "y": 4 },
-                { "label": "← ", "matrix": [4, 10], "w": 1, "x": 10, "y": 4 },
+                { "label": "←", "matrix": [4, 10], "w": 1, "x": 10, "y": 4 },
                 { "label": "↓" , "matrix": [4, 11], "w": 1, "x": 11, "y": 4 },
                 { "label": "→" , "matrix": [4, 12], "w": 1, "x": 12, "y": 4 }
             ]
         }
 
+```
+
+in terms of physical connections that looks like
+
+
+```
+┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
+│0A││0B││0C││0D││0E││0F││0G││0H││0I││0J││0K││0L││0M│
+└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘
+┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
+│1A││1B││1C││1D││1E││1F││1G││1H││1I││1J││1K││1L││1M│
+└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘
+┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
+│2A││2B││2C││2D││2E││2F││2G││2H││2I││2J││2K││2L││2M│
+└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘
+┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
+│3A││3B││3C││3D││3E││3F││3G││3H││3I││3J││3K││3L││3M│
+└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘
+┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
+│4A││4B││4C││4D││4E││4F││4G││4H││4I││4J││4K││4L││4M│
+└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘
+
+```
+
+each key is location is represented by a number, for row and a letter for column. you wire all the ones with the same number in a row and all with the same letter in the column.
+so row 0 goes to pin GP22, 1 to GP16 and so on, col A goes go GP1, col B to GP2 and so on...
+
+
+now the same layout can be represented as a 8 rows and 9 columns matrix which will need only 17 pins, saving you 1 pin.
+
+- the pins become
+
+```json
+    "matrix_pins": {
+        "cols": ["GP1", "GP6", "GP7", "GP8", "GP9", "GP15", "GP14", "GP13", "GP12" ],
+        "rows": ["GP11", "GP10", "GP17", "GP21", "GP16", "GP18", "GP19", "GP20"]
+    }
+```
+
+- the layout to matrix becomes, note the decoupling between the matrix and the physical layout
+
+```json
+        "LAYOUT_ortho_5x13": {
+            "layout": [
+                { "label": "⎋" , "matrix": [0, 0] , "w": 1, "x": 0 , "y": 0 },
+                { "label": "1" , "matrix": [0, 1] , "w": 1, "x": 1 , "y": 0 },
+                { "label": "2" , "matrix": [0, 2] , "w": 1, "x": 2 , "y": 0 },
+                { "label": "3" , "matrix": [0, 3] , "w": 1, "x": 3 , "y": 0 },
+                { "label": "4" , "matrix": [0, 4] , "w": 1, "x": 4 , "y": 0 },
+                { "label": "5" , "matrix": [0, 5] , "w": 1, "x": 5 , "y": 0 },
+                { "label": "6" , "matrix": [0, 6] , "w": 1, "x": 6 , "y": 0 },
+                { "label": "7" , "matrix": [0, 7] , "w": 1, "x": 7 , "y": 0 },
+                { "label": "8" , "matrix": [0, 8] , "w": 1, "x": 8 , "y": 0 },
+                { "label": "9" , "matrix": [1, 0] , "w": 1, "x": 9 , "y": 0 },
+                { "label": "0" , "matrix": [1, 1], "w": 1, "x": 10, "y": 0 },
+                { "label": "-" , "matrix": [1, 2], "w": 1, "x": 11, "y": 0 },
+                { "label": "⌫" , "matrix": [1, 3], "w": 1, "x": 12, "y": 0 },
+                { "label": "↹", "matrix": [1, 4] , "w": 1, "x": 0 , "y": 1 },
+                { "label": "q" , "matrix": [1, 5] , "w": 1, "x": 1 , "y": 1 },
+                { "label": "w" , "matrix": [1, 6] , "w": 1, "x": 2 , "y": 1 },
+                { "label": "e" , "matrix": [1, 7] , "w": 1, "x": 3 , "y": 1 },
+                { "label": "r" , "matrix": [1, 8] , "w": 1, "x": 4 , "y": 1 },
+                { "label": "t" , "matrix": [2, 0] , "w": 1, "x": 5 , "y": 1 },
+                { "label": "y" , "matrix": [2, 1] , "w": 1, "x": 6 , "y": 1 },
+                { "label": "u" , "matrix": [2, 2] , "w": 1, "x": 7 , "y": 1 },
+                { "label": "i" , "matrix": [2, 3] , "w": 1, "x": 8 , "y": 1 },
+                { "label": "o" , "matrix": [2, 4] , "w": 1, "x": 9 , "y": 1 },
+                { "label": "p" , "matrix": [2, 5], "w": 1, "x": 10, "y": 1 },
+                { "label": "[" , "matrix": [2, 6], "w": 1, "x": 11, "y": 1 },
+                { "label": "]" , "matrix": [2, 7], "w": 1, "x": 12, "y": 1 },
+                { "label": "#" , "matrix": [2, 8] , "w": 1, "x": 0 , "y": 2 },
+                { "label": "a" , "matrix": [3, 0] , "w": 1, "x": 1 , "y": 2 },
+                { "label": "s" , "matrix": [3, 1] , "w": 1, "x": 2 , "y": 2 },
+                { "label": "d" , "matrix": [3, 2] , "w": 1, "x": 3 , "y": 2 },
+                { "label": "f" , "matrix": [3, 3] , "w": 1, "x": 4 , "y": 2 },
+                { "label": "g" , "matrix": [3, 4] , "w": 1, "x": 5 , "y": 2 },
+                { "label": "h" , "matrix": [3, 5] , "w": 1, "x": 6 , "y": 2 },
+                { "label": "j" , "matrix": [3, 6] , "w": 1, "x": 7 , "y": 2 },
+                { "label": "k" , "matrix": [3, 7] , "w": 1, "x": 8 , "y": 2 },
+                { "label": "l" , "matrix": [3, 8] , "w": 1, "x": 9 , "y": 2 },
+                { "label": ";" , "matrix": [4, 0], "w": 1, "x": 10, "y": 2 },
+                { "label": "'" , "matrix": [4, 1], "w": 1, "x": 11, "y": 2 },
+                { "label": "⏎" , "matrix": [4, 2], "w": 1, "x": 12, "y": 2 },
+                { "label": "⇧" , "matrix": [4, 3] , "w": 1, "x": 0 , "y": 3 },
+                { "label": "\\", "matrix": [4, 4] , "w": 1, "x": 1 , "y": 3 },
+                { "label": "z" , "matrix": [4, 5] , "w": 1, "x": 2 , "y": 3 },
+                { "label": "x" , "matrix": [4, 6] , "w": 1, "x": 3 , "y": 3 },
+                { "label": "c" , "matrix": [4, 7] , "w": 1, "x": 4 , "y": 3 },
+                { "label": "v" , "matrix": [4, 8] , "w": 1, "x": 5 , "y": 3 },
+                { "label": "b" , "matrix": [5, 0] , "w": 1, "x": 6 , "y": 3 },
+                { "label": "n" , "matrix": [5, 1] , "w": 1, "x": 7 , "y": 3 },
+                { "label": "m" , "matrix": [5, 2] , "w": 1, "x": 8 , "y": 3 },
+                { "label": "," , "matrix": [5, 3] , "w": 1, "x": 9 , "y": 3 },
+                { "label": "." , "matrix": [5, 4], "w": 1, "x": 10, "y": 3 },
+                { "label": "↑" , "matrix": [5, 5], "w": 1, "x": 11, "y": 3 },
+                { "label": "/" , "matrix": [5, 6], "w": 1, "x": 12, "y": 3 },
+                { "label": "⎈" , "matrix": [5, 7] , "w": 1, "x": 0 , "y": 4 },
+                { "label": "" , "matrix": [5, 8] , "w": 1, "x": 1 , "y": 4 },
+                { "label": "⇓" , "matrix": [6, 0] , "w": 1, "x": 2 , "y": 4 },
+                { "label": "⎇" , "matrix": [6, 1] , "w": 1, "x": 3 , "y": 4 },
+                { "label": "⇑" , "matrix": [6, 2] , "w": 1, "x": 4 , "y": 4 },
+                { "label": " " , "matrix": [6, 3] , "w": 1, "x": 5 , "y": 4 },
+                { "label": " " , "matrix": [6, 4] , "w": 1, "x": 6 , "y": 4 },
+                { "label": " " , "matrix": [6, 5] , "w": 1, "x": 7 , "y": 4 },
+                { "label": "⎇" , "matrix": [6, 6] , "w": 1, "x": 8 , "y": 4 },
+                { "label": "⇧" , "matrix": [6, 7] , "w": 1, "x": 9 , "y": 4 },
+                { "label": "←", "matrix": [6, 8], "w": 1, "x": 10, "y": 4 },
+                { "label": "↓" , "matrix": [7, 0], "w": 1, "x": 11, "y": 4 },
+                { "label": "→" , "matrix": [7, 1], "w": 1, "x": 12, "y": 4 }
+            ]
+        }
+
+```
+
+- the physical connection for matrix now is more complex in respect to the physical layout but we saved 1 pin. same rules as before apply for connections.
+
+```
+┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
+│0A││0B││0C││0D││0E││0F││0G││0H││0I││1A││1B││1C││1D│
+└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘
+┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
+│1E││1F││1G││1H││1I││2A││2B││2C││2D││2E││2F││2G││2H│
+└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘
+┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
+│2I││3A││3B││3C││3D││3E││3F││3G││3H││3I││4A││4B││4C│
+└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘
+┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
+│4D││4E││4F││4G││4H││4I││5A││5B││5C││5D││5E││5F││5G│
+└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘
+┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
+│5H││5I││6A││6B││6C││6D││6E││6F││6G││6H││6I││7A││7B│
+└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘
 ```
