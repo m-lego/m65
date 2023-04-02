@@ -275,7 +275,7 @@ now the same layout can be represented as a 8 rows and 9 columns matrix which wi
 
 ```
 
-- the physical connection for matrix now is more complex in respect to the physical layout but we saved 1 pin. same rules as before apply for connections.
+- the physical connections for matrix now are more complex in respect to the physical layout but we saved 1 pin. same rules as before apply for connections.
 
 ```
 ┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
