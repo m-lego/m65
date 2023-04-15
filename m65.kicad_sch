@@ -7962,7 +7962,7 @@
     (property "Value" "MountingHole" (at 27.686 107.061 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "m65:LegoHole_16-32u_4875" (at 25.146 105.918 0)
+    (property "Footprint" "m65:LegoHole_16-32u_4875-rev11" (at 25.146 105.918 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 25.146 105.918 0)

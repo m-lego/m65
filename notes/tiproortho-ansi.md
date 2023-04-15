@@ -1,5 +1,7 @@
 ## tipro ortho ansi
 
+  ![tipro 128 8x16](pics/tipro/tiproortho-ansi.jpg)
+
 ### introduction
 
 this is an ortho ansi combination from tipro that I have converted to use qmk using same pcb as [here](https://mlego.elena.space/tipro8x16/)

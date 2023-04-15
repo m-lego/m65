@@ -1,5 +1,8 @@
 ## tipro ansi ortho
 
+
+  ![tipro 128 8x16](pics/tipro/tiproansi-ortho.jpg)
+
   ![tipro 128 8x16](pics/tipro/tipro-ansiortho-nokeys.jpg)
 
 ### introduction
