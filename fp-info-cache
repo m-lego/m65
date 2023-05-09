@@ -1,4 +1,4 @@
-21759416937216251
+21762780070344770
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90719,6 +90719,20 @@ Through hole socket strip THT 1x08 2.54mm single row
 0
 8
 8
+m65
+spiral
+
+
+0
+0
+0
+m65
+spiral_small
+
+
+0
+0
+0
 m65
 ssd-1680
 Through hole straight pin header, 2x04, 2.54mm pitch, double rows
