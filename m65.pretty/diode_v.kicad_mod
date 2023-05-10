@@ -2,6 +2,7 @@
   (layer "F.Cu")
   (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
   (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
+  (attr smd)
   (fp_text reference "D*" (at 9.66 -0.25 270) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 31a812be-4e7a-43e7-b2dc-99df26e87a40)

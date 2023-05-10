@@ -4,6 +4,7 @@
   (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
   (property "Sheetfile" "m65.kicad_sch")
   (property "Sheetname" "")
+  (attr smd)
   (fp_text reference "R*" (at 3.81 0.07) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 31861b10-e240-4549-bce8-0a542b9e855d)

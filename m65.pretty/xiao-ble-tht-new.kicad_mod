@@ -1,6 +1,6 @@
 (footprint "xiao-ble-tht-new" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr smd exclude_from_pos_files)
+  (attr through_hole exclude_from_pos_files)
   (fp_text reference "U?" (at -19.3989 -11.28268) (layer "F.SilkS") hide
       (effects (font (size 0.889 0.889) (thickness 0.1016)))
     (tstamp 1c479411-a194-4685-8eeb-e81966c16c7f)
@@ -223,11 +223,6 @@
   (pad "20" thru_hole circle (at 0.27 8.835 90) (size 1.397 1.397) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp 0d56b51c-bbef-4917-96af-47a7f2cad61e))
   (pad "21" thru_hole circle (at 5.35 9.208 270) (size 1.397 1.397) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp faaa6cbd-5b1e-4809-af1e-d670ea3421a9))
   (pad "22" thru_hole circle (at 7.255 9.208 270) (size 1.397 1.397) (drill 1.016) (layers "*.Cu" "*.Mask") (tstamp 10b1ec97-e390-4fc6-b0ba-a83b18234dcb))
-  (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/STEP214 Seeeduino XIAO Arduino.STEP"
-    (offset (xyz 1.5 0 10.5))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 180))
-  )
   (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x07_P2.54mm_Vertical.step"
     (offset (xyz -6 7.5 9.5))
     (scale (xyz 1 1 1))
@@ -255,6 +250,11 @@
   )
   (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x07_P2.54mm_Vertical.step"
     (offset (xyz 9 7.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/packages3d/Seeed Studio XIAO RP2040 v26.step"
+    (offset (xyz 1.5 0 9.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

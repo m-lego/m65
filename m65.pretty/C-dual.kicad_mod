@@ -4,6 +4,7 @@
   (tags "C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor")
   (property "Sheetfile" "m65.kicad_sch")
   (property "Sheetname" "")
+  (attr smd)
   (fp_text reference "C**" (at 4.58 0 90) (layer "F.SilkS")
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 75fb0b24-7e64-4927-b2df-497416cf3730)
