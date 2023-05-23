@@ -77,8 +77,8 @@ chance. **do not use it**
 
 ##### variant 2.
 
-   while this circuit "works" and with the right qmk firmware you get the matrix working, unfortunately all this works because of
-chance.
+  this circuit differs from above by using separate chip select pins for the 2x74HC589 and 1x74HC589, so uses one more pin than the
+variant 1, but shall make the matrix scan easier.
 
   ![matrix version 2 buffered](pics/matrix-2b_v2.png)
 
