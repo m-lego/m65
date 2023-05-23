@@ -10,9 +10,20 @@ site_description: set of notes on mlego keyboards
 theme:
   name: material
   palette:
-    scheme: slate
-    primary: teal
-    accent: lime
+      # Palette toggle for light mode
+    - scheme: default
+      primary: white
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   language: en
   logo: pics/mlego.png
   features:
