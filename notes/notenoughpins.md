@@ -75,7 +75,7 @@ chance. **do not use it**
    while this circuit "works" and with the right qmk firmware you get the matrix working, unfortunately all this works because of
 chance.
 
-  ![matrix version 2 buffered](pics/matrix-2b-v2.png)
+  ![matrix version 2 buffered](pics/matrix-2b_v2.png)
 
    [qmk matrix scan examples](to be added)
 
