@@ -16,8 +16,9 @@ few other keyboards use demuxers likes 74HC138, check qmk repo for them.
 unfortunately non matrix solution looked too complex for me and the IO exapnder one pure magic(now that I know more about is just
 complicated).
 
-I have been aware of shift registers and using them to blink arrays of leds in a previous life... you can see how they work in the
+I have been aware of shift registers(74HC595) and using them to blink arrays of leds in a previous life... you can see how they work in the
 link https://lastminuteengineers.com/74hc595-shift-register-arduino-tutorial/
+Another article that shows how shift registers work, 74HC595 and 74HC165, https://dronebotworkshop.com/shift-registers/
 
 So googled hc595 and keyboard... and found this... https://mehmedbasic.dk/post/74hc595-keyboard/ and that was the start.
 
@@ -31,9 +32,13 @@ for hc165 keyboards/handwired/dqz11n1g/
 
 to manage these a lot of wise words from sigprof and tzarc were used...
 
+**note**: while the circuits and the code work together to produce the expected result, eg. scanning the matrix and getting the
+characters in the right place, that does not mean they are optimal or "correct". use at your own risk and remember I am an entusiats
+and not an expert in circuits.
+
 #### 1. scan only columns with shift registers
 
-you will need 2x74HC595 shift registers,
+you will need 2x[74HC595](https://www.ti.com/product/SN74HC595) shift registers,
 
   ![matrix version one](pics/matrix-1.png)
 
@@ -45,7 +50,7 @@ not this version can be also implemented in zmk
 
 #### 2a. scan both columns and rows with shift registers.
 
-you need 2x74HC595 and 1xHC165, both are cheap and are available in both through hole and surface mount...
+you need 2x74HC595 and 1x[74HC165](https://www.ti.com/product/SN74HC165), both are cheap and are available in both through hole and surface mount...
 
 this is an old idea nothing, new internet has few hits on it.
 
@@ -58,7 +63,7 @@ this approach is limited, you will not be able to share the MISO pin with other 
 
 #### 2b. scan both columns and rows with shift registers
 
-you need 2x74HC595 and 1xHC589, 589 is slightly more expensive compared with 165 but is buffered so you can share MISO line
+you need 2x74HC595 and 1x[74HC589](https://www.onsemi.com/pdf/datasheet/mc74hc589a-d.pdf), 589 is slightly more expensive compared with 165 but is buffered so you can share MISO line
 unfortunately is available mainly in surface mount these days...
 
 ##### variant 1.
