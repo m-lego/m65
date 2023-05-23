@@ -59,11 +59,26 @@ this approach is limited, you will not be able to share the MISO pin with other 
 #### 2b. scan both columns and rows with shift registers
 
 you need 2x74HC595 and 1xHC589, 589 is slightly more expensive compared with 165 but is buffered so you can share MISO line
-unfortunately is available only in surface mount these days...
+unfortunately is available mainly in surface mount these days...
+
+##### variant 1.
+
+   while this circuit "works" and with the right qmk firmware you get the matrix working, unfortunately all this works because of
+chance. **do not use it**
 
   ![matrix version 2 buffered](pics/matrix-2b.png)
 
-   [qmk matrix scan examples](https://github.com/alinelena/qmk_firmware/blob/mlego_dev/keyboards/mlego/m8/rev1/matrix.c)
+   [qmk matrix scan examples](https://github.com/alinelena/qmk_firmware/blob/mlego_dev/keyboards/mlego/m65/rev10/matrix.c)
+
+##### variant 2.
+
+   while this circuit "works" and with the right qmk firmware you get the matrix working, unfortunately all this works because of
+chance.
+
+  ![matrix version 2 buffered](pics/matrix-2b-v2.png)
+
+   [qmk matrix scan examples](to be added)
+
 
 ***All three variants above permit mixing scanning via shft registers and pins... one will need to have a mixed matrix scanning codes.***
 
