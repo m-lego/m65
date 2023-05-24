@@ -430,6 +430,17 @@ and changed it to
 
 ### pcbs
 
+there are many guides on how to start designing a pcb and tools to help with it.
+I prefer to use KiCad which is opensource and runs on different operating systems.
+As a starting guide to design you can use [this tutorial from al03](https://wiki.ai03.com/books/pcb-design) it contains more
+information than is needed for a simple keyboard with an mcu on a external board but it is a good start.
+
+the other bit which is important is to have a good selection of symbols and footprints for your project. Fortunately some exist
+already so you can use for example [this one](https://github.com/ebastler/marbastlib)
+
+check tools and tutorials on [mechkey.org](https://mechkey.org/) for more information.
+
+
 |             |             |
 | ----------- | ----------- |
 | Pcb of a 3x3 keyboard matrix | |
