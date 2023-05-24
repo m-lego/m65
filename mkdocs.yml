@@ -3,20 +3,18 @@ site_url: https://mlego.elena.space
 site_dir: public
 docs_dir: ./notes
 repo_url: https://gitlab.com/m-lego/m65
-copyright: Ⓒ 2017-2022 alin m elena
+copyright: Ⓒ 2017-2023 alin m elena
 site_author: alin m elena
 site_description: set of notes on mlego keyboards
 
 theme:
   name: material
   palette:
-      # Palette toggle for light mode
+    # Palette toggle for light mode
     - scheme: default
-      primary: white
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-
     # Palette toggle for dark mode
     - scheme: slate
       primary: teal
@@ -27,11 +25,14 @@ theme:
   language: en
   logo: pics/mlego.png
   features:
+    - content.tabs.link
+    - navigation.expand
+    - navigation.indexes
+    - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.indexes
-    - navigation.expand
-    - content.tabs.link
+    - navigation.tracking
+
 
 # Extensions
 markdown_extensions:
@@ -69,7 +70,8 @@ nav:
       - 'tipro 8x12': tipro8x12.md
       - 'tipro ansi-ortho': tiproansi-ortho.md
       - 'tipro ortho-ansi': tiproortho-ansi.md
-    - Others:
+    - 'Extra notes':
       - handwire: hand5x5.md
       - "not enough pins": notenoughpins.md
+      - "simple keyboard example": how_matrix_works_extra.md
 
