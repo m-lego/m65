@@ -1,4 +1,4 @@
-### handwire
+# handwire
 
 handwire is great but is boring.
 This is a small 5x5 panel of that supports both MX and chocov2.
@@ -8,16 +8,16 @@ needs to be cut to write dimensions.
 
   ![handwire 5x5](pics/hand/hand-2.jpg)
 
-#### render
+# render
 
   ![handwire 5x5](pics/hand/m1-5x5-rounded.jpg)
 
 
-#### pcb
+# pcb
 
   ![handwire 5x5](pics/hand/m1-5x5-pcb.png)
 
-#### gerbers
+# gerbers
 
 ready may gerbers for jlcpcb are available [here](https://gitlab.com/m-lego/hand5x5/-/blob/main/gerbers-rev5.zip)
 
