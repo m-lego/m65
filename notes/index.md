@@ -24,7 +24,7 @@ Initially I started with a 6x13 but then settled to a 5x13 as best option.
 more info in [here](https://alin.elena.space/blog/keeblego/)
 
 There is a [6x13](https://github.com/Kyrremann/index-tab) project if you want
-and a [4x13](https://github.com/farfalleflickan/nack) and plenty of others see [help-14](https://github.com/help-14/mechanical-keyboard)
+and a [4x13](https://github.com/farfalleflickan/nack) and plenty of others see [help-14](https://mechkey.org/)
 or [mechdb](https://mechdb.net/)
 
 I am not related with any of them and discovered some of them too late.
@@ -50,9 +50,13 @@ what is special about these ones?
     as well as others. I suggest you to use 1x2 and 1x4 plates if you want the finest keyboard, since they tend to bend the pcb... you will be
     amased but the force.
 
-if you do not want an angle for typing use a single sided plate as base.
+!!! tips
 
-foaming the bottom makes a difference i use usually diy/hobbycraft foam, that you can buy for close to nothing in a4 sheets.
+    if you do not want an angle for typing use a single sided plate as base.
+
+!!! tips
+
+    foaming the bottom makes a difference i use usually diy/hobbycraft foam, that you can buy for close to nothing in a4 sheets.
 
 more about of each of the models done bellow
 
