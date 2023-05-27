@@ -78,6 +78,7 @@ nav:
       - 'tipro ansi-ortho': tiproansi-ortho.md
       - 'tipro ortho-ansi': tiproortho-ansi.md
     - 'Extra notes':
+      - extra.md
       - "handwire helpers": hand5x5.md
       - "assembly guide": assembly.md
       - "not enough pins": notenoughpins.md
