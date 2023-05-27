@@ -75,7 +75,8 @@ nav:
       - 'tipro ansi-ortho': tiproansi-ortho.md
       - 'tipro ortho-ansi': tiproortho-ansi.md
     - 'Extra notes':
-      - handwire: hand5x5.md
+      - "handwire helpers": hand5x5.md
+      - "assembly guide": assembly.md
       - "not enough pins": notenoughpins.md
       - "simple keyboard example": how_matrix_works_extra.md
 

@@ -88,7 +88,9 @@ more about of each of the models done bellow
 
 ## extra notes
 
-### [handwire](hand5x5.md)
+### [handwire helpers](hand5x5.md)
+
+### [assembly guide](assembly.md)
 
 ### [matrix](notenoughpins.md)
 
