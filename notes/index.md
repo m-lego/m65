@@ -1,5 +1,7 @@
 # mlego
 
+![some pics](pics/keybs.jpg)
+
 ##warning
 
 **this project is**
@@ -73,8 +75,10 @@ more about of each of the models done bellow
 
 ### [tipro ansi ortho](tiproansi-ortho.md)
 
-## other
+## extra notes
 
 ### [handwire](hand5x5.md)
 
 ### [matrix](notenoughpins.md)
+
+### [simple keyboard example](how_matrix_works_extra.md)
