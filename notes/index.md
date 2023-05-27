@@ -1,6 +1,6 @@
 # mlego
 
-![some pics](pics/keybs.jpg)
+![some pics](pics/keybs.jpg){loading=lazy}
 
 !!! warning
 
@@ -12,7 +12,7 @@
     * cheap(ish), till switches and keycaps.
 
 
-!!! failure "this project is not"
+!!! danger "this project is not"
 
     * end game
 
