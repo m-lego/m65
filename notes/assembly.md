@@ -57,8 +57,7 @@ finally shall look like this
 
 ![header mcu](pics/header_5.jpg)
 
-oled
-----
+### oled
 
 if you are using an oled i suggest to socket it too. Again I use round pins 4 in a row are enough and use a low profile socket, see
 below.
