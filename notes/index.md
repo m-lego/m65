@@ -4,16 +4,16 @@
 
 !!! warning
 
-!!! success "this project is"
+  !!! success "this project is"
 
     * fun
     * educational
     * functional
     * cheap(ish), till switches and keycaps.
 
-!!! failure "this project is not""
 
-   * end game
+  !!! failure "this project is not""
+    * end game
 
 ## motivation
 
