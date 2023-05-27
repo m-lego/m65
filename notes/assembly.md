@@ -217,7 +217,7 @@ if all is ok now looks like this
 
 ![lego](pics/lego_1.jpg)
 
-you can use a 16x32 plate and a mixture of lego plates, 1x2 and/or 1x4, corners if you have too.
+you can use a 16x32 plate or 2x16x16 plates and a mixture of lego plates, 1x2 and/or 1x4, corners if you have too.
 Also you can use a full brick and plate to give it a typing angle (around 6˚) already assembled in the picture above.
 
 put it as you please
@@ -226,6 +226,11 @@ put it as you please
 
 now you can put the pcb on top of the box base matching the lego inside. press gently till they are properly fit. thickness of the
 pcb is same as the lego prongs so you shall see them flush.
+
+!!! warning
+
+    depending on the lego colours, plates sometimes you may notice a bend of the pcb. you will have to experiment with various
+    colours for plates, nothing one cannot solve with lego.
 
 now you can socket mcu, oled and the knob of the encoder and plug it in.
 
@@ -241,6 +246,7 @@ now you can socket mcu, oled and the knob of the encoder and plug it in.
     + double tap dance the third key from the left on the bottom row, first led from the encoder shall be on... do it again shall be off...
     + double tap dance the fifth key from the left on the bottom row, second led from the encoder shall be on... do it again shall be off...
     + now you are ready to test the keys...
+
 
 if anything goes wrong you will need to debug... otherwise put the keycaps and enjoy.
 
