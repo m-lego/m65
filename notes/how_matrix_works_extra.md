@@ -9,8 +9,10 @@ but you are still mistified this will try to clarify using simple examples what 
 For example we choose a 3x3 keyboard matrix and as MCU STM32F401 aka BlackPill from weact. The arguments presented here however
 apply to any matrix size and MCU supported by QMK given there are enough IO pins available to connect the rows and columns.
 
-** note each MCU has its own quirks and sublteties so be sure you read and understand them before getting in any serious projects.
-Eg. which pins can be used for what and when? what extra circuitry is needed for things to work correctly.
+!!! note
+
+    each MCU has its own quirks and sublteties so be sure you read and understand them before getting in any serious projects.
+    Eg. which pins can be used for what and when? what extra circuitry is needed for things to work correctly.
 
 You already know that in order to solve the ghosting issue one has to introduce a diode for each switch, (1N4148 in here but other diodes can be used).
 Introducing a diode solves the ghosting but makes the current flow in only one direction. Now we have two possible circuits to
@@ -32,8 +34,6 @@ or [blackpill 411](https://stm32-base.org/boards/STM32F411CEU6-WeAct-Black-Pill-
 
 more qmk specific notes on blackpills [here](https://docs.qmk.fm/#/platformdev_blackpill_f4x1?id=weact-blackpill-stm32f4x1)
 
-**note add Why does it work**
-
 QMK takes care of this in an elegant way, you have to set a configuration option for your firmware **DIODE_DIRECTION** which can
 have two values *COL2ROW* and *ROW2COL*
 
@@ -44,8 +44,8 @@ for left handside circuit that is
 #define DIODE_DIRECTION COL2ROW
 
 ```
-n
-for right handside circuit that is
+
+and for right handside circuit that is
 
 ```C
 
@@ -63,13 +63,15 @@ Once you have qmk setup, {add link for qmk setup}
 
 Before we start we need some info.
 
-* Name of the MCU: blackpill_f401 (or blackpill_f411 if you have that one)
-* pins for columns: B12, B13, B14, order is important starting with col 0
-* pins for rows: B3, B4, B5, same as above
-* diode directions: COL2ROW or ROW2COL, we assume COL2ROW
-* name for the keyboard: m3x3, needs to be different from others in qmk
-* optionally a github username: alinelena
-* a name for the user that creates the keyboard: "dr faustroll"
+!!! info
+
+  * Name of the MCU: blackpill_f401 (or blackpill_f411 if you have that one)
+  * pins for columns: B12, B13, B14, order is important starting with col 0
+  * pins for rows: B3, B4, B5, same as above
+  * diode directions: COL2ROW or ROW2COL, we assume COL2ROW
+  * name for the keyboard: m3x3, needs to be different from others in qmk
+  * optionally a github username: alinelena
+  * a name for the user that creates the keyboard: "dr faustroll"
 
 ```bash
 
