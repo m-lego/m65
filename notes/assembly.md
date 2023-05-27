@@ -1,15 +1,16 @@
-assembly guide
-==============
+## assembly guide
 
 
-before you start
-----------------
+### before you start
 
-this is a rushed assembly guide... assumes you know how to solder and you already read the bom section and have all of them plus the
-pcb.
-while the complexity of the job is low, it may take over 2h of your time to put it together.
+!!! warning
 
-familiarise yourself with the pcb
+    this is a rushed assembly guide... assumes you know how to solder and you already read the bom section and have all of them plus the pcb.
+    while the complexity of the job is low, it may take over 2h of your time to put it together.
+
+!!! info
+
+    familiarise yourself with the pcb
 
 ![pcb](pics/m65-rev4-pcb.jpg)
 
@@ -17,10 +18,11 @@ front of the PCB is the one with the artwork on.
 you can ignore R4 and R5 since they are for use only in advaced cases when special oleds are used.
 if you go for the full build all other footprints will be populated.
 
-mcu
----
+### mcu
 
-whatever mcu you are using I suggest strongly to socket it.
+!!! tip
+
+    whatever mcu you are using I suggest strongly to socket it.
 
 first step is to add headers on it.
 
@@ -33,12 +35,17 @@ you can also use single row female headers, recommended if you use boards like r
 
 ![header mcu alternatives](pics/sockets.jpg)
 
-put the headers into the socket no need to fully insert them just be sure the conical bit points towars the socket and the mcu on
-top. see picture below.
+!!! danger
+
+    put the headers into the socket no need to fully insert them just be sure the conical bit points towars the socket and the mcu on
+    top. see picture below.
 
 ![header mcu](pics/header_2.jpg)
 
-be sure headers are vertical and stable. now you can start soldering.
+
+!!! info
+
+    be sure headers are vertical and stable. now you can start soldering.
 
 ![header mcu](pics/header_3.jpg)
 
@@ -60,7 +67,7 @@ below.
 ![header oled](pics/header_6.jpg)
 
 for soldering this you can use the pcb as support. add the headers into the pcb(conical side towards pcb) put the oled on top and be
-sure is vertical. you can use some blue tack or whatever.
+sure is vertical. you can use some blue tack or tape(electrical, painters, etc).
 
 ![header oled](pics/header_7.jpg)
 
@@ -70,27 +77,37 @@ side). Once done you can remove it from pcb shall look like this.
 ![header oled](pics/header_8.jpg)
 
 
-diodes
-------
+### diodes
 
 get 65 of them 1n4148 do-35, they look like this.
 
 ![diodes](pics/diodes_1.jpg)
-notice the black colar at one end.
+
+!!! danger
+
+    note the black ring/colar at one end.
 
 bend the legs at 90˚ like in the picture above.
 
-insert them in the holes, with the black colar oriented to the lower part of the board.
-see picture.
+!!! danger
+
+    insert them in the holes, with the black colar oriented to the lower part of the board.
+    see picture.
 
 ![diodes](pics/diodes_2.jpg)
 
-bend the legs on the reverse of the pcb to assure the diode is fixed in the position.
+
+bend the legs on the reverse of the pcb to assure the diode is fixed in the position. bending in the opposite direction helps
 see picture.
 
 ![diodes](pics/diodes_3.jpg)
 
-now you can solder, once done, wriggle the legs of the diode until they detach, leaving a clean cut at solder level.
+
+!!! danger
+
+    now you can solder, once done, wriggle the legs of the diode until they detach, leaving a clean cut at solder level. you may want to
+    reflow the joint after you remove the leg. wiggling may cause damage to the joint.
+
 see picture
 
 ![diodes](pics/diodes_4.jpg)
@@ -108,26 +125,33 @@ finally once you are over shall look like this or better
 
 
 
-resistors
----------
+### resistors
 
 there are max three resistors you need to put procedure is the same as for the diodes, bend, insert, bend.
 it does not matter how you insert them, just be sure you have the right values in the right places.
 
-R3  is 100kΩ R1 and R2 need to be calculated based on the colour of the led used and desired intensity. for yellow and green leds I
-use 510Ω(not very bright) and for white leds 1kΩ (quite bright)
+!!! warning
+
+    R3  is 100kΩ(you can use 22kΩ). this is needed for blackpill to enter reliably in boot mode
+
+!!! warning
+
+    R1 and R2 need to be calculated based on the colour of the led used and desired intensity. for yellow and green leds I
+    use 510Ω(not very bright) and for white leds 1kΩ (quite bright)
 
 ![resistors](pics/resistor_1.jpg)
 
-**note**: you may want to use a breadboard to test before to see if you are happy with the intensities, use a 3.3V DC source. alternatively
-you can use the mcu itself. if you do not have a breadboard dupont wires may be enough.
-also in this step you will determine the led orientation... note which leg goes to 3.3V and which one goes to ground.
-this step is important since I noticed some of the leds do not follow the convention... long leg positive, short leg negative.
+
+!!! note
+
+    you may want to use a breadboard to test before to see if you are happy with the intensities, use a 3.3V DC source. alternatively
+    you can use the mcu itself. if you do not have a breadboard dupont wires may be enough.
+    also in this step you will determine the led orientation... note which leg goes to 3.3V and which one goes to ground.
+    this step is important since I noticed some of the leds do not follow the convention... long leg positive, short leg negative.
 
 ![resistors](pics/resistor_2.jpg)
 
-sockets
--------
+### sockets
 
 
 ![socket mcu ](pics/socket_1.jpg)
@@ -143,8 +167,7 @@ turn the pcb. you can solder the  extreme pins on rows. be sure the socket is pr
 next repeat the same but with the oled socket.
 
 
-leds
-----
+### leds
 
 ![led oled](pics/led_1.jpg)
 
@@ -154,8 +177,7 @@ wriggle to remove the legs.
 
 ![led oled](pics/led_2.jpg)
 
-switches
---------
+### switches
 
 you need 65 switches 5 pins. be sure the legs are not bent. in general switches shall fit quite tight so you may have to push.
 once they are in place inspect all of them are aligned. just look along columns and rows and see if any is out of place... if yes
@@ -170,12 +192,11 @@ on the over side to solder.
 
 now you can solder...
 
-encoder
--------
+### encoder
 
 ![encoder front](pics/encoder_1.jpg)
 
-carefully push the encoder in its place. there are 5 pin but only 3 are user, solder all of them and also consider soldering the
+carefully push the encoder in its place. there are 5 pin but only 3 are used (in some models rev9 and after all are used), solder all of them and also consider soldering the
 oval ones too...
 
 if all is ok now looks like this
@@ -185,8 +206,7 @@ if all is ok now looks like this
 at this point everything shall work..
 
 
-the box
--------
+### the box
 
 ![lego](pics/lego_1.jpg)
 
@@ -207,15 +227,13 @@ now you can socket mcu, oled and the knob of the encoder and plug it in.
 
 ![lego](pics/final_2.jpg)
 
-testing time
-------------
+!!! success "testing time"
 
-+ if screen lights up showing an elephant inside a python it is perfectly fine. after few seconds, shall indicate you the the current
-layer and show wpm(some estimate of words per minute)
-+ encoder shall change the volume
-+ double tap dance the third key from the left on the bottom row, first led from the encoder shall be on... do it again shall be off...
-+ double tap dance the fifth key from the left on the bottom row, second led from the encoder shall be on... do it again shall be off...
-+ now you are ready to test the keys...
+    + if screen lights up showing an elephant inside a python it is perfectly fine. after few seconds, shall indicate you the the current layer and show wpm(some estimate of words per minute)
+    + encoder shall change the volume
+    + double tap dance the third key from the left on the bottom row, first led from the encoder shall be on... do it again shall be off...
+    + double tap dance the fifth key from the left on the bottom row, second led from the encoder shall be on... do it again shall be off...
+    + now you are ready to test the keys...
 
 if anything goes wrong you will need to debug... otherwise put the keycaps and enjoy.
 
