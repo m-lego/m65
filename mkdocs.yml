@@ -44,6 +44,8 @@ markdown_extensions:
     - pymdownx.magiclink
     - pymdownx.emoji
     - admonition
+    - md_in_html
+    - attr_list
     - pymdownx.tabbed:
         alternate_style: True
     - pymdownx.tasklist:
@@ -54,6 +56,7 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - glightbox
 
 nav:
     - Home: index.md
