@@ -29,7 +29,7 @@ theme:
     - navigation.expand
     - navigation.indexes
     - navigation.instant
-      #    - navigation.sections
+    - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.tracking
@@ -62,7 +62,7 @@ plugins:
 nav:
     - Home: index.md
     - Keyboards:
-      - keyboards.md
+      - keyboards/index.md
       - m65: m65.md
       - m60: m60.md
       - 'm60 split': m60_split.md
@@ -71,14 +71,14 @@ nav:
       - m8: m8.md
       - m4: m4.md
     - Converted:
-      - converted.md
+      - converted/index.md
       - 'tipro 8x16': tipro8x16.md
       - 'tipro 8x12': tipro8x12.md
       - 'tipro 8x4': tipro8x4.md
       - 'tipro ansi-ortho': tiproansi-ortho.md
       - 'tipro ortho-ansi': tiproortho-ansi.md
     - 'Extra notes':
-      - extra.md
+      - extra/indeX.md
       - "handwire helpers": hand5x5.md
       - "assembly guide": assembly.md
       - "not enough pins": notenoughpins.md
