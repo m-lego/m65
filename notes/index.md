@@ -2,18 +2,18 @@
 
 ![some pics](pics/keybs.jpg)
 
-##warning
+!!! warning
 
-**this project is**
+!!! success "this project is"
 
-* fun
-* educational
-* functional
-* cheap(ish), till switches and keycaps.
+    * fun
+    * educational
+    * functional
+    * cheap(ish), till switches and keycaps.
 
-**this project is not**
+!!! failure "this project is not""
 
-* end game
+   * end game
 
 ## motivation
 
