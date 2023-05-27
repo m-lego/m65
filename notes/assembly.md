@@ -171,9 +171,11 @@ next repeat the same but with the oled socket.
 
 ![led oled](pics/led_1.jpg)
 
-put the leds in the right position, matching the resistor value determined before. also you need to be sure the leg that pointed to
-ground goes in the hole with the square plating. once inserted you can bend the legs on the back of the board and solder them.
-wriggle to remove the legs.
+!!! danger
+
+    put the leds in the right position, matching the resistor value determined before. also you need to be sure the leg that pointed to
+    ground goes in the hole with the square plating. once inserted you can bend the legs on the back of the board and solder them.
+    wriggle to remove the legs.
 
 ![led oled](pics/led_2.jpg)
 
@@ -185,8 +187,11 @@ just push them.
 
 ![switches front](pics/switches_1.jpg)
 
-some switches do not fit tight (kailh for example) you will need to be creative and use a hardcover book or something to turn then
-on the over side to solder.
+
+!!! warning
+
+    some switches do not fit tight (kailh for example) you will need to be creative and use a hardcover book or something to turn then
+    on the over side to solder.
 
 ![switches front](pics/switches_2.jpg)
 
@@ -203,7 +208,10 @@ if all is ok now looks like this
 
 ![encoder front](pics/encoder_2.jpg)
 
-at this point everything shall work..
+
+!!! success
+
+    at this point everything shall work..
 
 
 ### the box
