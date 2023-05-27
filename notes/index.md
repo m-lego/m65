@@ -4,7 +4,7 @@
 
 !!! warning
 
-  !!! success "this project is"
+!!! success "this project is"
 
     * fun
     * educational
@@ -12,7 +12,8 @@
     * cheap(ish), till switches and keycaps.
 
 
-  !!! failure "this project is not""
+!!! failure "this project is not""
+
     * end game
 
 ## motivation
@@ -40,7 +41,8 @@ what is special about these ones?
   * optional led strip (you will need a full brick lego or one more layer..)
   * some will use shift registers HC595
 
-!!! warning
+!!! warning "Lego"
+
    the holes are cut at the official lego dimension. Unfortunately the drilling machines have tolerance and
    the same is true for the lego making tools... the tolerance in lego varies with colour of the plastic... you will find some colours may not fit
    as well as others. I suggest you to use 1x2 and 1x4 plates if you want the finest keyboard, since they tend to bend the pcb... you will be
