@@ -65,13 +65,13 @@ Before we start we need some info.
 
 !!! info
 
-  * Name of the MCU: blackpill_f401 (or blackpill_f411 if you have that one)
-  * pins for columns: B12, B13, B14, order is important starting with col 0
-  * pins for rows: B3, B4, B5, same as above
-  * diode directions: COL2ROW or ROW2COL, we assume COL2ROW
-  * name for the keyboard: m3x3, needs to be different from others in qmk
-  * optionally a github username: alinelena
-  * a name for the user that creates the keyboard: "dr faustroll"
+    * Name of the MCU: blackpill_f401 (or blackpill_f411 if you have that one)
+    * pins for columns: B12, B13, B14, order is important starting with col 0
+    * pins for rows: B3, B4, B5, same as above
+    * diode directions: COL2ROW or ROW2COL, we assume COL2ROW
+    * name for the keyboard: m3x3, needs to be different from others in qmk
+    * optionally a github username: alinelena
+    * a name for the user that creates the keyboard: "dr faustroll"
 
 ```bash
 
