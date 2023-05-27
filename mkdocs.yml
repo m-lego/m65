@@ -61,7 +61,8 @@ plugins:
 
 nav:
     - Home: index.md
-    - Keyboards: keyboards.md
+    - Keyboards:
+      - keyboards.md
       - m65: m65.md
       - m60: m60.md
       - 'm60 split': m60_split.md
