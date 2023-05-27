@@ -29,6 +29,10 @@ i use round pins and dil sockets, 40 way. picture below
 
 ![header mcu](pics/header_1.jpg)
 
+you can also use single row female headers, recommended if you use boards like raspberry pi.
+
+![header mcu alternatives](pics/sockets.jpg)
+
 put the headers into the socket no need to fully insert them just be sure the conical bit points towars the socket and the mcu on
 top. see picture below.
 
