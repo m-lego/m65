@@ -71,6 +71,8 @@ more about of each of the models done bellow
 
 ### [tipro 8x12](tipro8x12.md)
 
+### [tipro 8x4](tipro8x4.md)
+
 ### [tipro ortho ansi](tiproortho-ansi.md)
 
 ### [tipro ansi ortho](tiproansi-ortho.md)

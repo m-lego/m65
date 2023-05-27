@@ -68,6 +68,7 @@ nav:
     - Converted:
       - 'tipro 8x16': tipro8x16.md
       - 'tipro 8x12': tipro8x12.md
+      - 'tipro 8x4': tipro8x4.md
       - 'tipro ansi-ortho': tiproansi-ortho.md
       - 'tipro ortho-ansi': tiproortho-ansi.md
     - 'Extra notes':
