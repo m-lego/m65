@@ -12,7 +12,13 @@
 
     familiarise yourself with the pcb
 
-![pcb](pics/m65-rev4-pcb.jpg)
+front of the pcb
+
+![pcb](pics/m65-rev4-pcb-front.jpg)
+
+back of the pcb
+
+![pcb](pics/m65-rev4-pcb-back.jpg)
 
 front of the PCB is the one with the artwork on.
 you can ignore R4 and R5 since they are for use only in advaced cases when special oleds are used.
