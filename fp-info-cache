@@ -1,4 +1,4 @@
-21833949933551587
+21840691983340981
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90195,6 +90195,20 @@ varistor
 2
 2
 m65
+74AHC1G125
+<b>Small Outline Transistor</b><p>package type OT
+
+0
+5
+5
+m65
+74AHC1G125-sot23
+5-pin SOT23 package
+SOT-23-5 hand-soldering
+0
+5
+5
+m65
 74HC165-sop16
 16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
 SOP 1.27
@@ -90433,6 +90447,13 @@ mounting hole 4.9mm, no annular
 0
 0
 m65
+LegoHole_16-32u_4875-rev12
+Mounting Hole 4.9mm, no annular
+mounting hole 4.9mm, no annular
+0
+0
+0
+m65
 LegoHole_16x16u_4875
 Mounting Hole 4.9mm, no annular
 mounting hole 4.9mm, no annular
@@ -90572,6 +90593,13 @@ SK6812-MINI-E-pins
 0
 8
 4
+m65
+SOT-23-5_HandSoldering
+5-pin SOT23 package
+SOT-23-5 hand-soldering
+0
+5
+5
 m65
 SOT-23-hand
 SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
