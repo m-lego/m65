@@ -102,7 +102,8 @@ bend the legs at 90˚ like in the picture above.
 ![diodes](pics/diodes_2.jpg)
 
 
-bend the legs on the reverse of the pcb to assure the diode is fixed in the position. bending in the opposite direction helps
+bend the legs on the reverse of the pcb to assure the diode is fixed in the position. bending in the opposite direction helps for
+better stability during soldering.
 see picture.
 
 ![diodes](pics/diodes_3.jpg)
@@ -111,13 +112,14 @@ see picture.
 !!! danger
 
     now you can solder, once done, wriggle the legs of the diode until they detach, leaving a clean cut at solder level. you may want to
-    reflow the joint after you remove the leg. wiggling may cause damage to the joint.
+    reflow the joint after you remove the leg. wiggling may cause damage to the joint. alternatively use a flush cutter if you have
+    one makes things faster.
 
 see picture
 
 ![diodes](pics/diodes_4.jpg)
 
-repeat for all the diodes next to the switches.you may find it easier if you work your way for each column.
+repeat for all the diodes next to the switches. you may find it easier if you work your way for each column.
 
 for the diodes at the top, bending shall be done differently, see picture. this allows to add them all in one go.
 
