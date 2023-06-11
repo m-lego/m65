@@ -12,7 +12,7 @@
 
 ### mcu
 
-the mcu is stm32431 from [weact](https://www.aliexpress.com/item/1005005303669884.html)
+the mcu is stm32g431 from [weact](https://www.aliexpress.com/item/1005005303669884.html)
 
 
 ### firmware
