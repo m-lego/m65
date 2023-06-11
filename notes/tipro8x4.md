@@ -20,8 +20,6 @@ the mcu is stm32431 from [weact](https://www.aliexpress.com/item/100500530366988
   ready made firmware can be downloaded from [github actiona](https://github.com/alinelena/qmk_firmware/actions/workflows/build.yml)
 naaviate to **build firmware for mlego** and click onthe latest successful workflow and download **tipro32_default** from the list.
 
-  + []()
-
 
 ### pictures
 
