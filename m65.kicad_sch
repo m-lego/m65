@@ -11192,7 +11192,7 @@
     (property "Value" "2n7002" (at 172.72 231.14 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-3" (at 176.53 229.87 0)
+    (property "Footprint" "m65:SOT-23-hand" (at 176.53 229.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 173.99 224.79 0)
