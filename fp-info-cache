@@ -1,4 +1,4 @@
-21948830824026645
+21953906756944610
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90384,6 +90384,13 @@ capacitor handsolder
 4
 2
 m65
+C-1206_3216Metric_Pad1.33x1.80mm_HandSolder-long
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+4
+2
+m65
 C-dual
 C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
 C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor
@@ -90417,6 +90424,13 @@ Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 no
 capacitor handsolder
 0
 4
+2
+m65
+C_1206_3216Metric_Pad1.33x1.80mm_HandSolder_dual
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
 2
 m65
 CherryMX-ledTHT
@@ -90804,6 +90818,13 @@ SOT TO_SOT_SMD
 3
 3
 m65
+SOT-23-hand-2n7002
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+m65
 SW-1u-MXandChocV2
 
 
@@ -91179,5 +91200,5 @@ xiao-ble-tht-new
 
 
 0
-24
+38
 22
