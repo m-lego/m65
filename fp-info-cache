@@ -1,4 +1,4 @@
-22383805147021370
+22476788857869438
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64722,6 +64722,27 @@ Footprint for Cherry Clip/Screw in type stabilizers, 3u
 0
 0
 PCM_marbastlib-mx
+STAB_MX_4.5u
+Footprint for Cherry Clip/Screw in type stabilizers, 4.5u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_4u
+Footprint for Cherry Clip/Screw in type stabilizers, 4u
+
+0
+0
+0
+PCM_marbastlib-mx
+STAB_MX_5u
+Footprint for Cherry Clip/Screw in type stabilizers, 5u
+
+0
+0
+0
+PCM_marbastlib-mx
 STAB_MX_6.25u
 Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
 
@@ -64801,6 +64822,27 @@ Footprint for Cherry Clip/Screw in type stabilizers, 2u
 PCM_marbastlib-mx
 STAB_MX_P_3u
 Footprint for Cherry Clip/Screw in type stabilizers, 3u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_4.5u
+Footprint for Cherry Clip/Screw in type stabilizers, 4.5u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_4u
+Footprint for Cherry Clip/Screw in type stabilizers, 4u
+
+0
+2
+0
+PCM_marbastlib-mx
+STAB_MX_P_5u
+Footprint for Cherry Clip/Screw in type stabilizers, 5u
 
 0
 2
@@ -65016,6 +65058,76 @@ LED RGB NeoPixel
 4
 4
 PCM_marbastlib-various
+Molex_Pico-EZmate_78171-0002_1x02-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0002 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+14
+3
+PCM_marbastlib-various
+Molex_Pico-EZmate_78171-0003_1x03-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0003 (http://www.molex.com/pdm_docs/sd/781710003_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+15
+4
+PCM_marbastlib-various
+Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710004_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+16
+5
+PCM_marbastlib-various
+Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0005 (http://www.molex.com/pdm_docs/sd/781710005_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+17
+6
+PCM_marbastlib-various
+Molex_Pico-EZmate_78171-5006_1x06-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-5006 (http://www.molex.com/pdm_docs/sd/781715006_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+18
+7
+PCM_marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0002_1x02-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0002 (http://www.molex.com/pdm_docs/sd/2121340002_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+14
+3
+PCM_marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0003_1x03-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0003 (http://www.molex.com/pdm_docs/sd/2121340003_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+15
+4
+PCM_marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0004_1x04-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0004 (http://www.molex.com/pdm_docs/sd/2121340004_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+16
+5
+PCM_marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0005_1x05-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0005 (http://www.molex.com/pdm_docs/sd/2121340005_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+17
+6
+PCM_marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0006_1x06-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0006 (http://www.molex.com/pdm_docs/sd/2121340006_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+18
+7
+PCM_marbastlib-various
 QFN-60_EP_7x7_Pitch0.4mm
 QFN-60 package accroding to IS31FL3741A datasheets
 
@@ -65099,6 +65211,13 @@ split kb tenting puck mechanical mounting
 0
 5
 1
+PCM_marbastlib-various
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
 PCM_marbastlib-various
 USB_C_Receptacle_HRO_TYPE-C-31-M-14
 USB Type-C receptacle for USB 2.0 and PD
@@ -66050,35 +66169,35 @@ Footprint for 0xCB Helios controllers, USB pointing away from PCB
 
 0
 34
-33
+34
 PCM_marbastlib-xp-promicroish
 Helios_ACH
 Footprint for 0xCB Helios controllers, USB pointing away from PCB
 
 0
 65
-33
+34
 PCM_marbastlib-xp-promicroish
 Helios_AH_Reversible
 Footprint for 0xCB Helios controllers, USB pointing away from PCB
 
 0
 34
-33
+34
 PCM_marbastlib-xp-promicroish
 Helios_AH_USBdn
 Footprint for 0xCB Helios controllers, USB facing PCB
 
 0
 34
-33
+34
 PCM_marbastlib-xp-promicroish
 Helios_AH_USBup
 Footprint for 0xCB Helios controllers, USB pointing away from PCB
 
 0
 34
-33
+34
 PCM_marbastlib-xp-promicroish
 Liatris_AH_Reversible
 Footprint for Splitkb Liatris controllers, through hole pads only
@@ -66236,6 +66355,13 @@ LED RGB 1206 rear mount reverse
 PCM_marbastlib-xp-various
 LED_WS2812_2020_rearmount
 2020 SMD adressable RGB LED with integrated controller
+LED RGB NeoPixel
+0
+4
+4
+PCM_marbastlib-xp-various
+LED_WS2812_4020
+2040 side-firing SMD adressable RGB LED with integrated controller
 LED RGB NeoPixel
 0
 4
@@ -92085,6 +92211,20 @@ SOT-23-5 hand-soldering
 5
 5
 m65
+74AHC1G125-sot23-v2
+5-pin SOT23 package
+SOT-23-5 hand-soldering
+0
+6
+5
+m65
+74HC125-sop14
+NS (R-PDSO-G14)
+Integrated Circuit
+0
+14
+14
+m65
 74HC165-sop16
 16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
 SOP 1.27
@@ -92113,6 +92253,13 @@ SOP 1.27
 32
 16
 m65
+74hc125
+<b>Dual In Line Package</b>
+
+0
+14
+14
+m65
 74hc165
 <b>Dual In Line Package</b>
 
@@ -92121,6 +92268,13 @@ m65
 16
 m65
 74hc595n
+<b>Dual In Line Package</b>
+
+0
+16
+16
+m65
+74hc597
 <b>Dual In Line Package</b>
 
 0
@@ -92140,6 +92294,13 @@ module BlackPill weact STM32F401
 0
 40
 40
+m65
+C
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
+C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor
+0
+2
+2
 m65
 C-1206_3216Metric_Pad1.33x1.80mm_HandSolder
 Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
@@ -92169,6 +92330,13 @@ C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor
 10
 2
 m65
+CD74HC597
+PDIP 16
+Integrated Circuit
+0
+16
+16
+m65
 CHERRY_MX1A-11NN_SWITCH
 
 
@@ -92193,6 +92361,20 @@ m65
 C_1206_3216Metric_Pad1.33x1.80mm_HandSolder_dual
 Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor handsolder
+0
+2
+2
+m65
+Capacitor-Disc_D9.0mm_W2.5mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=9*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 9mm width 2.5mm Capacitor
+0
+2
+2
+m65
+Capacitor_Radial_D5.0mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
 0
 2
 2
@@ -92252,6 +92434,20 @@ CherryMX_ChocV2_enc_1u
 0
 14
 5
+m65
+D_DO-35-SOD-123
+D_DO-35-SOD-123
+SOD-123; DO-35
+0
+4
+2
+m65
+Elite-C
+
+
+0
+29
+29
 m65
 Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal_hand
 Hirose FH12, FFC/FPC connector, FH12-10S-0.5SH, 10 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
@@ -92464,31 +92660,38 @@ Logo Symbol OSHW
 0
 m65
 R-dual
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
 0
-10
+4
+2
+m65
+R-dual-4k7
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+4
 2
 m65
 R-dual-5k1
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
 0
-10
+4
 2
 m65
 R-dual-10k
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
 0
-10
+4
 2
 m65
 R-dual-510
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
 0
-10
+4
 2
 m65
 R510_led
@@ -92638,6 +92841,13 @@ Cherry MX keyswitch 1.00u PCB
 9
 5
 m65
+SW_Cherry_MX_1.00u_PCB-enc-ledfriendly
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+8
+5
+m65
 SW_Cherry_MX_1.00u_PCB-encoder
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
@@ -92672,6 +92882,13 @@ kailh,choc
 0
 2
 2
+m65
+U_extra_pins
+JST PH series connector, S8B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+8
+8
 m65
 battery connector
 JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
@@ -92714,6 +92931,20 @@ Through hole socket strip THT 1x06 2.54mm single row
 0
 6
 6
+m65
+columns-i
+Molex PicoBlade Connector System, 53047-0810, 8 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+8
+8
+m65
+columns-ii
+Molex PicoBlade Connector System, 53047-0810, 8 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+8
+8
 m65
 connector-rgb
 JST XH series connector, S3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
@@ -92806,6 +93037,13 @@ connector JST EH horizontal
 6
 3
 m65
+jumper2ways
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
+0
+5
+3
+m65
 lp
 
 
@@ -92819,6 +93057,48 @@ lp-copper
 0
 0
 0
+m65
+model_m_4p_socket_vertical
+Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x04 2.54mm single row
+0
+4
+4
+m65
+model_m_8p_socket
+Through hole straight socket strip, 1x12, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x12 2.54mm single row
+0
+12
+12
+m65
+model_m_12p_socket
+Through hole straight socket strip, 1x12, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x12 2.54mm single row
+0
+12
+12
+m65
+model_m_16p_socket
+HEADER 1X16
+Integrated Circuit
+0
+16
+16
+m65
+modelm_16p_socket_Vertical
+Through hole straight socket strip, 1x16, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x16 2.54mm single row
+0
+16
+16
+m65
+molex_10p_zif
+505278-1033-2
+Connector
+0
+12
+12
 m65
 mouse-bite-1mm-slot
 
@@ -92890,6 +93170,13 @@ connector JST EH horizontal
 3
 3
 m65
+rows
+Molex PicoBlade Connector System, 53047-0810, 8 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+8
+8
+m65
 rows0-7
 Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
 Through hole socket strip THT 1x08 2.54mm single row
@@ -92904,12 +93191,19 @@ Through hole socket strip THT 1x08 2.54mm single row
 8
 8
 m65
+sharp_Socket_1x05_P2.54mm_Vertical
+Through hole straight socket strip, 1x05, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x05 2.54mm single row
+0
+5
+5
+m65
 sharp_display_eink_like
 
 
 0
-5
-5
+6
+6
 m65
 sig
 
@@ -92925,12 +93219,40 @@ sig-copper
 0
 0
 m65
+socker_sharp_6p
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+m65
+socket-1p
+Through hole straight socket strip, 1x01, 2.00mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x01 2.00mm single row
+0
+1
+1
+m65
+socket-3p1G
+Through hole straight socket strip, 1x03, 2.00mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x03 2.00mm single row
+0
+3
+3
+m65
 socket2.54
 Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
 Through hole socket strip THT 1x08 2.54mm single row
 0
 8
 8
+m65
+socket=3p3G
+Through hole straight socket strip, 1x03, 2.00mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x03 2.00mm single row
+0
+3
+3
 m65
 spiral
 
@@ -92945,6 +93267,13 @@ spiral_small
 0
 0
 0
+m65
+splinky
+
+
+0
+31
+31
 m65
 ssd-1680
 Through hole straight pin header, 2x04, 2.54mm pitch, double rows
@@ -92974,6 +93303,55 @@ switch SPDT
 3
 3
 m65
+u-boot_reset-3p
+JST PH series connector, S3B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+3
+3
+m65
+u-encode-3p
+JST PH series connector, S3B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+3
+3
+m65
+u-jumper-3p
+Through hole straight socket strip, 1x03, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x03 2.54mm single row
+0
+3
+3
+m65
+u-oled-4p
+JST PH series connector, S4B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+4
+4
+m65
+u-rgb-3p
+JST PH series connector, S3B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+3
+3
+m65
+u-sharp-6p
+JST PH series connector, S6B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+6
+6
+m65
+u-spi_sdcreen_pins-8p
+JST PH series connector, S8B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+8
+8
+m65
 weact-wch582f
 
 
@@ -92985,5 +93363,5 @@ xiao-ble-tht-new
 
 
 0
-38
+24
 22
