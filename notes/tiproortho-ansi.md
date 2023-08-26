@@ -11,6 +11,8 @@ this is in working, page updated once finished.
 
 ### wiring
 
+![m128 ortho ansi ](pics/tipro/tipro_orthoansi_bottom.jpg)
+
 ### firmware
 
 ### other pictures
