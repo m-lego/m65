@@ -62,9 +62,11 @@
   (fp_line (start 1.6 0.8) (end 1.6 -0.8)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 37c9dbd1-3821-4d33-a4c0-e1d3218ef57d))
   (pad "1" smd roundrect (at -1.725 -0.0125) (size 2.1 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.185185) (tstamp f2782b7c-2467-4ca1-81ad-1dbbc9ed4c5d))
+  (pad "1" smd roundrect (at -1.725 -0.0125) (size 2.1 1.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.185185) (tstamp 09287b07-f969-4865-be68-40a30adcddc0))
   (pad "1" thru_hole circle (at -0.65 0) (size 0.5 0.5) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 2729c633-d198-4ac9-9248-983b19c43a2c))
-  (pad "2" thru_hole circle (at 0.65 0) (size 0.5 0.5) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp b6c44cca-fe65-4327-bd29-39ff469c18b5))
+  (pad "2" thru_hole roundrect (at 0.65 0) (size 0.5 0.5) (drill 0.3) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp b6c44cca-fe65-4327-bd29-39ff469c18b5))
   (pad "2" smd roundrect (at 1.75 0) (size 2.1 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.185185) (tstamp 9c7f6e06-db04-48fe-8ad2-fc894f71d1da))
+  (pad "2" smd roundrect (at 1.75 0) (size 2.1 1.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.185185) (tstamp 6262ea2a-1cb9-4769-a661-88e958413e95))
   (model "${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-10_Kemet-I.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
