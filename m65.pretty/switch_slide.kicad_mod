@@ -117,9 +117,14 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/packages3d/slide-switch.stp"
-    (offset (xyz 2 0 0.5))
+  (model "${KIPRJMOD}/packages3d/switch.step" hide
+    (offset (xyz 2 0 -0.5))
+    (scale (xyz 0.4 0.4 0.4))
+    (rotate (xyz -90 0 0))
+  )
+  (model "${KIPRJMOD}/packages3d/switch-surface.step"
+    (offset (xyz 2 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )

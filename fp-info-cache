@@ -1,4 +1,4 @@
-22609524971775814
+22519449450273957
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -78,11 +78,18 @@ Keystone type 107 battery holder
 2
 Battery
 BatteryHolder_Keystone_500
-Keystone #500, CR1220 battery holder, http://www.keyelco.com/product-pdf.cfm?p=710
+Keystone #500, 12mm CR1220 battery holder, http://www.keyelco.com/product-pdf.cfm?p=710
 CR1220 battery holder
 0
 2
 2
+Battery
+BatteryHolder_Keystone_590
+AA CR2 A battery holder with leaf spring, Keystone, https://ken.keyeuro.eu/cat/590.pdf
+AA battery holder Keystone
+0
+3
+1
 Battery
 BatteryHolder_Keystone_1042_1x18650
 Battery holder for 18650 cylindrical cells http://www.keyelco.com/product.cfm/product_id/918
@@ -8362,7 +8369,7 @@ SMA_Molex_73251-2120_EdgeMount_Horizontal
 Molex SMA RF Connector, Edge Mount, (http://www.molex.com/pdm_docs/sd/732512120_sd.pdf)
 sma edge
 0
-11
+7
 2
 Connector_Coaxial
 SMA_Molex_73251-2200_Horizontal
@@ -42644,6 +42651,13 @@ Surface mounted socket strip SMD 2x40 2.54mm double row
 80
 80
 Connector_RJ
+RJ9_Evercom_5301-440xxx_Horizontal
+Evercom 5301-4P4C RJ9 receptacle, unshielded, https://datasheet.lcsc.com/lcsc/2207051802_EVERCOM-5301-4P4C_C3097715.pdf
+RJ9 Connector tab down
+0
+4
+4
+Connector_RJ
 RJ12_Amphenol_54601
 RJ12 connector  https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0082.pdf
 RJ12 connector
@@ -42742,9 +42756,30 @@ RJ45 Magjack
 14
 13
 Connector_RJ
-RJ45_Hanrun_HR911105A
-http://www.kosmodrom.com.ua/pdf/HR911105A.pdf
-RJ45 Magjack
+RJ45_HALO_HFJ11-x2450E-LxxRL_Horizontal
+Halo FastJack, Shielded, 2 LEDs, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf
+10/100 Ethernet RJ45 Tab-Down
+0
+14
+13
+Connector_RJ
+RJ45_HALO_HFJ11-x2450ERL_Horizontal
+Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf
+10/100 Ethernet RJ45 Tab-Down
+0
+9
+8
+Connector_RJ
+RJ45_HALO_HFJ11-x2450HRL_Horizontal
+Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf
+10/100 Ethernet RJ45 Tab-Down
+0
+10
+9
+Connector_RJ
+RJ45_Hanrun_HR911105A_Horizontal
+1 Port RJ45 8P8C receptacle, shielded, with magnetics, through hole, 2 LEDs, tab down, http://www.hanrun.com/public/upload/down/2020/09-11/cc11be56d66bb63d5f1eeb85492439c0.pdf
+RJ45 Magjack ethernet
 0
 14
 13
@@ -46248,6 +46283,1168 @@ Through hole Samtec HPM power header series 3.81mm post length THT 1x19 5.08mm s
 0
 19
 19
+Connector_Samtec_HSEC8
+Samtec_HSEC8-109-01-X-DV-A-BL_2x09_P0.8mm_Pol04_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+20
+18
+Connector_Samtec_HSEC8
+Samtec_HSEC8-109-01-X-DV-A-WT_2x09_P0.8mm_Pol04_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+20
+18
+Connector_Samtec_HSEC8
+Samtec_HSEC8-109-01-X-DV-A_2x09_P0.8mm_Pol04_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+18
+18
+Connector_Samtec_HSEC8
+Samtec_HSEC8-109-01-X-DV_2x09_P0.8mm_Pol04_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+18
+18
+Connector_Samtec_HSEC8
+Samtec_HSEC8-110-01-X-DV-A-BL_2x10_P0.8mm_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+22
+20
+Connector_Samtec_HSEC8
+Samtec_HSEC8-110-01-X-DV-A-WT_2x10_P0.8mm_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+22
+20
+Connector_Samtec_HSEC8
+Samtec_HSEC8-110-01-X-DV-A_2x10_P0.8mm_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+20
+20
+Connector_Samtec_HSEC8
+Samtec_HSEC8-110-01-X-DV_2x10_P0.8mm_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+20
+20
+Connector_Samtec_HSEC8
+Samtec_HSEC8-110-03-X-DV-A-WT_2x10_P0.8mm_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+22
+20
+Connector_Samtec_HSEC8
+Samtec_HSEC8-110-03-X-DV-A_2x10_P0.8mm_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+20
+20
+Connector_Samtec_HSEC8
+Samtec_HSEC8-110-03-X-DV_2x10_P0.8mm_Socket
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+20
+20
+Connector_Samtec_HSEC8
+Samtec_HSEC8-113-01-X-DV-A-BL_2x13_P0.8mm_Pol06_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+28
+26
+Connector_Samtec_HSEC8
+Samtec_HSEC8-113-01-X-DV-A-WT_2x13_P0.8mm_Pol06_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+28
+26
+Connector_Samtec_HSEC8
+Samtec_HSEC8-113-01-X-DV-A_2x13_P0.8mm_Pol06_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+26
+26
+Connector_Samtec_HSEC8
+Samtec_HSEC8-113-01-X-DV_2x13_P0.8mm_Pol06_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+26
+26
+Connector_Samtec_HSEC8
+Samtec_HSEC8-120-01-X-DV-A-BL_2x20_P0.8mm_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+42
+40
+Connector_Samtec_HSEC8
+Samtec_HSEC8-120-01-X-DV-A-WT_2x20_P0.8mm_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+42
+40
+Connector_Samtec_HSEC8
+Samtec_HSEC8-120-01-X-DV-A_2x20_P0.8mm_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+40
+40
+Connector_Samtec_HSEC8
+Samtec_HSEC8-120-01-X-DV_2x20_P0.8mm_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+40
+40
+Connector_Samtec_HSEC8
+Samtec_HSEC8-120-03-X-DV-A-WT_2x20_P0.8mm_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+42
+40
+Connector_Samtec_HSEC8
+Samtec_HSEC8-120-03-X-DV-A_2x20_P0.8mm_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+40
+40
+Connector_Samtec_HSEC8
+Samtec_HSEC8-120-03-X-DV_2x20_P0.8mm_Socket
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+40
+40
+Connector_Samtec_HSEC8
+Samtec_HSEC8-125-01-X-DV-A-BL_2x25_P0.8mm_Pol06_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+52
+50
+Connector_Samtec_HSEC8
+Samtec_HSEC8-125-01-X-DV-A-WT_2x25_P0.8mm_Pol06_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+52
+50
+Connector_Samtec_HSEC8
+Samtec_HSEC8-125-01-X-DV-A_2x25_P0.8mm_Pol06_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+50
+50
+Connector_Samtec_HSEC8
+Samtec_HSEC8-125-01-X-DV_2x25_P0.8mm_Pol06_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+50
+50
+Connector_Samtec_HSEC8
+Samtec_HSEC8-130-01-X-DV-A-BL_2x30_P0.8mm_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+62
+60
+Connector_Samtec_HSEC8
+Samtec_HSEC8-130-01-X-DV-A-WT_2x30_P0.8mm_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+62
+60
+Connector_Samtec_HSEC8
+Samtec_HSEC8-130-01-X-DV-A_2x30_P0.8mm_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+60
+60
+Connector_Samtec_HSEC8
+Samtec_HSEC8-130-01-X-DV_2x30_P0.8mm_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+60
+60
+Connector_Samtec_HSEC8
+Samtec_HSEC8-130-03-X-DV-A-WT_2x30_P0.8mm_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+62
+60
+Connector_Samtec_HSEC8
+Samtec_HSEC8-130-03-X-DV-A_2x30_P0.8mm_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+60
+60
+Connector_Samtec_HSEC8
+Samtec_HSEC8-130-03-X-DV_2x30_P0.8mm_Socket
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+60
+60
+Connector_Samtec_HSEC8
+Samtec_HSEC8-137-01-X-DV-A-BL_2x37_P0.8mm_Pol21_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+76
+74
+Connector_Samtec_HSEC8
+Samtec_HSEC8-137-01-X-DV-A-WT_2x37_P0.8mm_Pol21_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+76
+74
+Connector_Samtec_HSEC8
+Samtec_HSEC8-137-01-X-DV-A_2x37_P0.8mm_Pol21_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+74
+74
+Connector_Samtec_HSEC8
+Samtec_HSEC8-137-01-X-DV_2x37_P0.8mm_Pol21_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+74
+74
+Connector_Samtec_HSEC8
+Samtec_HSEC8-140-01-X-DV-A-BL_2x40_P0.8mm_Pol22_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+82
+80
+Connector_Samtec_HSEC8
+Samtec_HSEC8-140-01-X-DV-A-WT_2x40_P0.8mm_Pol22_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+82
+80
+Connector_Samtec_HSEC8
+Samtec_HSEC8-140-01-X-DV-A_2x40_P0.8mm_Pol22_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+80
+80
+Connector_Samtec_HSEC8
+Samtec_HSEC8-140-01-X-DV_2x40_P0.8mm_Pol22_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+80
+80
+Connector_Samtec_HSEC8
+Samtec_HSEC8-140-03-X-DV-A-WT_2x40_P0.8mm_Pol22_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+82
+80
+Connector_Samtec_HSEC8
+Samtec_HSEC8-140-03-X-DV-A_2x40_P0.8mm_Pol22_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+80
+80
+Connector_Samtec_HSEC8
+Samtec_HSEC8-140-03-X-DV_2x40_P0.8mm_Pol22_Socket
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+80
+80
+Connector_Samtec_HSEC8
+Samtec_HSEC8-149-01-X-DV-A-BL_2x49_P0.8mm_Pol27_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+100
+98
+Connector_Samtec_HSEC8
+Samtec_HSEC8-149-01-X-DV-A-WT_2x49_P0.8mm_Pol27_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+100
+98
+Connector_Samtec_HSEC8
+Samtec_HSEC8-149-01-X-DV-A_2x49_P0.8mm_Pol27_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+98
+98
+Connector_Samtec_HSEC8
+Samtec_HSEC8-149-01-X-DV_2x49_P0.8mm_Pol27_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+98
+98
+Connector_Samtec_HSEC8
+Samtec_HSEC8-150-01-X-DV-A-BL_2x50_P0.8mm_Pol27_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+102
+100
+Connector_Samtec_HSEC8
+Samtec_HSEC8-150-01-X-DV-A-WT_2x50_P0.8mm_Pol27_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+102
+100
+Connector_Samtec_HSEC8
+Samtec_HSEC8-150-01-X-DV-A_2x50_P0.8mm_Pol27_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+100
+100
+Connector_Samtec_HSEC8
+Samtec_HSEC8-150-01-X-DV_2x50_P0.8mm_Pol27_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+100
+100
+Connector_Samtec_HSEC8
+Samtec_HSEC8-150-03-X-DV-A-WT_2x50_P0.8mm_Pol27_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+102
+100
+Connector_Samtec_HSEC8
+Samtec_HSEC8-150-03-X-DV-A_2x50_P0.8mm_Pol27_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+100
+100
+Connector_Samtec_HSEC8
+Samtec_HSEC8-150-03-X-DV_2x50_P0.8mm_Pol27_Socket
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+100
+100
+Connector_Samtec_HSEC8
+Samtec_HSEC8-160-01-X-DV-A-BL_2x60_P0.8mm_Pol32_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+122
+120
+Connector_Samtec_HSEC8
+Samtec_HSEC8-160-01-X-DV-A-WT_2x60_P0.8mm_Pol32_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+122
+120
+Connector_Samtec_HSEC8
+Samtec_HSEC8-160-01-X-DV-A_2x60_P0.8mm_Pol32_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+120
+120
+Connector_Samtec_HSEC8
+Samtec_HSEC8-160-01-X-DV_2x60_P0.8mm_Pol32_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+120
+120
+Connector_Samtec_HSEC8
+Samtec_HSEC8-160-03-X-DV-A-WT_2x60_P0.8mm_Pol32_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+122
+120
+Connector_Samtec_HSEC8
+Samtec_HSEC8-160-03-X-DV-A_2x60_P0.8mm_Pol32_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+120
+120
+Connector_Samtec_HSEC8
+Samtec_HSEC8-160-03-X-DV_2x60_P0.8mm_Pol32_Socket
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+120
+120
+Connector_Samtec_HSEC8
+Samtec_HSEC8-170-01-X-DV-A-BL_2x70_P0.8mm_Pol32_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+142
+140
+Connector_Samtec_HSEC8
+Samtec_HSEC8-170-01-X-DV-A-WT_2x70_P0.8mm_Pol32_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+142
+140
+Connector_Samtec_HSEC8
+Samtec_HSEC8-170-01-X-DV-A_2x70_P0.8mm_Pol32_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+140
+140
+Connector_Samtec_HSEC8
+Samtec_HSEC8-170-01-X-DV_2x70_P0.8mm_Pol32_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+140
+140
+Connector_Samtec_HSEC8
+Samtec_HSEC8-170-03-X-DV-A-WT_2x70_P0.8mm_Pol32_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+142
+140
+Connector_Samtec_HSEC8
+Samtec_HSEC8-170-03-X-DV-A_2x70_P0.8mm_Pol32_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+140
+140
+Connector_Samtec_HSEC8
+Samtec_HSEC8-170-03-X-DV_2x70_P0.8mm_Pol32_Socket
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+140
+140
+Connector_Samtec_HSEC8
+Samtec_HSEC8-180-01-X-DV-A-BL_2x80_P0.8mm_Pol32_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+162
+160
+Connector_Samtec_HSEC8
+Samtec_HSEC8-180-01-X-DV-A-WT_2x80_P0.8mm_Pol32_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+162
+160
+Connector_Samtec_HSEC8
+Samtec_HSEC8-180-01-X-DV-A_2x80_P0.8mm_Pol32_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+160
+160
+Connector_Samtec_HSEC8
+Samtec_HSEC8-180-01-X-DV_2x80_P0.8mm_Pol32_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+160
+160
+Connector_Samtec_HSEC8
+Samtec_HSEC8-180-03-X-DV-A-WT_2x80_P0.8mm_Pol32_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+162
+160
+Connector_Samtec_HSEC8
+Samtec_HSEC8-180-03-X-DV-A_2x80_P0.8mm_Pol32_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+160
+160
+Connector_Samtec_HSEC8
+Samtec_HSEC8-180-03-X-DV_2x80_P0.8mm_Pol32_Socket
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+160
+160
+Connector_Samtec_HSEC8
+Samtec_HSEC8-190-01-X-DV-A-BL_2x90_P0.8mm_Pol32_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+182
+180
+Connector_Samtec_HSEC8
+Samtec_HSEC8-190-01-X-DV-A-WT_2x90_P0.8mm_Pol32_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+182
+180
+Connector_Samtec_HSEC8
+Samtec_HSEC8-190-01-X-DV-A_2x90_P0.8mm_Pol32_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+180
+180
+Connector_Samtec_HSEC8
+Samtec_HSEC8-190-01-X-DV_2x90_P0.8mm_Pol32_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+180
+180
+Connector_Samtec_HSEC8
+Samtec_HSEC8-190-03-X-DV-A-WT_2x90_P0.8mm_Pol32_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+182
+180
+Connector_Samtec_HSEC8
+Samtec_HSEC8-190-03-X-DV-A_2x90_P0.8mm_Pol32_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+180
+180
+Connector_Samtec_HSEC8
+Samtec_HSEC8-190-03-X-DV_2x90_P0.8mm_Pol32_Socket
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+180
+180
+Connector_Samtec_HSEC8
+Samtec_HSEC8-1100-01-X-DV-A-BL_2x100_P0.8mm_Pol32_Socket_WeldTabs_BoardLocks
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+202
+200
+Connector_Samtec_HSEC8
+Samtec_HSEC8-1100-01-X-DV-A-WT_2x100_P0.8mm_Pol32_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+202
+200
+Connector_Samtec_HSEC8
+Samtec_HSEC8-1100-01-X-DV-A_2x100_P0.8mm_Pol32_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+200
+200
+Connector_Samtec_HSEC8
+Samtec_HSEC8-1100-01-X-DV_2x100_P0.8mm_Pol32_Socket
+0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+200
+200
+Connector_Samtec_HSEC8
+Samtec_HSEC8-1100-03-X-DV-A-WT_2x100_P0.8mm_Pol32_Socket_WeldTabs
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+202
+200
+Connector_Samtec_HSEC8
+Samtec_HSEC8-1100-03-X-DV-A_2x100_P0.8mm_Pol32_Socket_AlignmentPins
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+200
+200
+Connector_Samtec_HSEC8
+Samtec_HSEC8-1100-03-X-DV_2x100_P0.8mm_Pol32_Socket
+0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
+conn samtec card-edge socket high-speed
+0
+200
+200
+Connector_Samtec_MicroMate
+Samtec_T1M-02-X-S-RA_1x02-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+4
+3
+Connector_Samtec_MicroMate
+Samtec_T1M-02-X-S-V_1x02-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+4
+3
+Connector_Samtec_MicroMate
+Samtec_T1M-02-X-SH-L_1x02-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+4
+3
+Connector_Samtec_MicroMate
+Samtec_T1M-02-X-SV-L_1x02-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+4
+3
+Connector_Samtec_MicroMate
+Samtec_T1M-03-X-S-RA_1x03-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+5
+4
+Connector_Samtec_MicroMate
+Samtec_T1M-03-X-S-V_1x03-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+5
+4
+Connector_Samtec_MicroMate
+Samtec_T1M-03-X-SH-L_1x03-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+5
+4
+Connector_Samtec_MicroMate
+Samtec_T1M-03-X-SV-L_1x03-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+5
+4
+Connector_Samtec_MicroMate
+Samtec_T1M-04-X-S-RA_1x04-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+6
+5
+Connector_Samtec_MicroMate
+Samtec_T1M-04-X-S-V_1x04-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+6
+5
+Connector_Samtec_MicroMate
+Samtec_T1M-04-X-SH-L_1x04-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+6
+5
+Connector_Samtec_MicroMate
+Samtec_T1M-04-X-SV-L_1x04-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+6
+5
+Connector_Samtec_MicroMate
+Samtec_T1M-05-X-S-RA_1x05-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+7
+6
+Connector_Samtec_MicroMate
+Samtec_T1M-05-X-S-V_1x05-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+7
+6
+Connector_Samtec_MicroMate
+Samtec_T1M-05-X-SH-L_1x05-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+7
+6
+Connector_Samtec_MicroMate
+Samtec_T1M-05-X-SV-L_1x05-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+7
+6
+Connector_Samtec_MicroMate
+Samtec_T1M-06-X-S-RA_1x06-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+8
+7
+Connector_Samtec_MicroMate
+Samtec_T1M-06-X-S-V_1x06-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+8
+7
+Connector_Samtec_MicroMate
+Samtec_T1M-06-X-SH-L_1x06-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+8
+7
+Connector_Samtec_MicroMate
+Samtec_T1M-06-X-SV-L_1x06-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+8
+7
+Connector_Samtec_MicroMate
+Samtec_T1M-07-X-S-RA_1x07-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+9
+8
+Connector_Samtec_MicroMate
+Samtec_T1M-07-X-S-V_1x07-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+9
+8
+Connector_Samtec_MicroMate
+Samtec_T1M-07-X-SH-L_1x07-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+9
+8
+Connector_Samtec_MicroMate
+Samtec_T1M-07-X-SV-L_1x07-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+9
+8
+Connector_Samtec_MicroMate
+Samtec_T1M-08-X-S-RA_1x08-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+10
+9
+Connector_Samtec_MicroMate
+Samtec_T1M-08-X-S-V_1x08-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+10
+9
+Connector_Samtec_MicroMate
+Samtec_T1M-08-X-SH-L_1x08-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+10
+9
+Connector_Samtec_MicroMate
+Samtec_T1M-08-X-SV-L_1x08-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+10
+9
+Connector_Samtec_MicroMate
+Samtec_T1M-09-X-S-RA_1x09-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+11
+10
+Connector_Samtec_MicroMate
+Samtec_T1M-09-X-S-V_1x09-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+11
+10
+Connector_Samtec_MicroMate
+Samtec_T1M-09-X-SH-L_1x09-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+11
+10
+Connector_Samtec_MicroMate
+Samtec_T1M-09-X-SV-L_1x09-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+11
+10
+Connector_Samtec_MicroMate
+Samtec_T1M-10-X-S-RA_1x10-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+12
+11
+Connector_Samtec_MicroMate
+Samtec_T1M-10-X-S-V_1x10-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+12
+11
+Connector_Samtec_MicroMate
+Samtec_T1M-10-X-SH-L_1x10-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+12
+11
+Connector_Samtec_MicroMate
+Samtec_T1M-10-X-SV-L_1x10-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+12
+11
+Connector_Samtec_MicroMate
+Samtec_T1M-11-X-S-RA_1x11-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+13
+12
+Connector_Samtec_MicroMate
+Samtec_T1M-11-X-S-V_1x11-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+13
+12
+Connector_Samtec_MicroMate
+Samtec_T1M-11-X-SH-L_1x11-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+13
+12
+Connector_Samtec_MicroMate
+Samtec_T1M-11-X-SV-L_1x11-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+13
+12
+Connector_Samtec_MicroMate
+Samtec_T1M-12-X-S-RA_1x12-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+14
+13
+Connector_Samtec_MicroMate
+Samtec_T1M-12-X-S-V_1x12-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+14
+13
+Connector_Samtec_MicroMate
+Samtec_T1M-12-X-SH-L_1x12-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+14
+13
+Connector_Samtec_MicroMate
+Samtec_T1M-12-X-SV-L_1x12-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+14
+13
+Connector_Samtec_MicroMate
+Samtec_T1M-13-X-S-RA_1x13-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+15
+14
+Connector_Samtec_MicroMate
+Samtec_T1M-13-X-S-V_1x13-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+15
+14
+Connector_Samtec_MicroMate
+Samtec_T1M-13-X-SH-L_1x13-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+15
+14
+Connector_Samtec_MicroMate
+Samtec_T1M-13-X-SV-L_1x13-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+15
+14
+Connector_Samtec_MicroMate
+Samtec_T1M-14-X-S-RA_1x14-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+16
+15
+Connector_Samtec_MicroMate
+Samtec_T1M-14-X-S-V_1x14-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+16
+15
+Connector_Samtec_MicroMate
+Samtec_T1M-14-X-SH-L_1x14-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+16
+15
+Connector_Samtec_MicroMate
+Samtec_T1M-14-X-SV-L_1x14-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+16
+15
+Connector_Samtec_MicroMate
+Samtec_T1M-15-X-S-RA_1x15-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+17
+16
+Connector_Samtec_MicroMate
+Samtec_T1M-15-X-S-V_1x15-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+17
+16
+Connector_Samtec_MicroMate
+Samtec_T1M-15-X-SH-L_1x15-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+17
+16
+Connector_Samtec_MicroMate
+Samtec_T1M-15-X-SV-L_1x15-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+17
+16
+Connector_Samtec_MicroMate
+Samtec_T1M-16-X-S-RA_1x16-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+18
+17
+Connector_Samtec_MicroMate
+Samtec_T1M-16-X-S-V_1x16-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+18
+17
+Connector_Samtec_MicroMate
+Samtec_T1M-16-X-SH-L_1x16-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+18
+17
+Connector_Samtec_MicroMate
+Samtec_T1M-16-X-SV-L_1x16-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+18
+17
+Connector_Samtec_MicroMate
+Samtec_T1M-17-X-S-RA_1x17-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+19
+18
+Connector_Samtec_MicroMate
+Samtec_T1M-17-X-S-V_1x17-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+19
+18
+Connector_Samtec_MicroMate
+Samtec_T1M-17-X-SH-L_1x17-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+19
+18
+Connector_Samtec_MicroMate
+Samtec_T1M-17-X-SV-L_1x17-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+19
+18
+Connector_Samtec_MicroMate
+Samtec_T1M-18-X-S-RA_1x18-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+20
+19
+Connector_Samtec_MicroMate
+Samtec_T1M-18-X-S-V_1x18-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+20
+19
+Connector_Samtec_MicroMate
+Samtec_T1M-18-X-SH-L_1x18-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+20
+19
+Connector_Samtec_MicroMate
+Samtec_T1M-18-X-SV-L_1x18-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+20
+19
+Connector_Samtec_MicroMate
+Samtec_T1M-19-X-S-RA_1x19-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+21
+20
+Connector_Samtec_MicroMate
+Samtec_T1M-19-X-S-V_1x19-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+21
+20
+Connector_Samtec_MicroMate
+Samtec_T1M-19-X-SH-L_1x19-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+21
+20
+Connector_Samtec_MicroMate
+Samtec_T1M-19-X-SV-L_1x19-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+21
+20
+Connector_Samtec_MicroMate
+Samtec_T1M-20-X-S-RA_1x20-1MP_P1.0mm_Terminal_Horizontal
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+22
+21
+Connector_Samtec_MicroMate
+Samtec_T1M-20-X-S-V_1x20-1MP_P1.0mm_Terminal_Vertical
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+22
+21
+Connector_Samtec_MicroMate
+Samtec_T1M-20-X-SH-L_1x20-1MP_P1.0mm_Terminal_Horizontal_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+22
+21
+Connector_Samtec_MicroMate
+Samtec_T1M-20-X-SV-L_1x20-1MP_P1.0mm_Terminal_Vertical_Latch
+Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
+conn samtec discrete wire terminal
+0
+22
+21
 Connector_Stocko
 Stocko_MKS_1651-6-0-202_1x2_P2.50mm_Vertical
 Stocko MKS 16xx series connector, (https://www.stocko-contact.com/downloads/steckverbindersystem-raster-2,5-mm.pdf#page=15), generated with kicad-footprint-generator
@@ -47060,6 +48257,13 @@ USB C Type-C Receptacle SMD USB Power-only Charging-only 6P 6C USB4135-GF-A
 0
 10
 7
+Connector_USB
+USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A
+16-pin USB-C receptacle, USB2.0 and PD, 5A VBUS rating, https://datasheet.lcsc.com/lcsc/2211161000_HCTL-HC-TYPE-C-16P-01A_C2894897.pdf
+usb usb-c 2.0 pd
+0
+20
+17
 Connector_USB
 USB_C_Receptacle_HRO_TYPE-C-31-M-12
 USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
@@ -59977,8 +61181,8 @@ Tricolor LED
 4
 LED_SMD
 LED_Avago_PLCC4_3.2x2.8mm_CW
-https://docs.broadcom.com/docs/AV02-4186EN
-LED Avago PLCC-4 ASMB-MTB0-0A3A2
+3.2mm x 2.8mm PLCC4 RGB LED, https://docs.broadcom.com/docs/AV02-4186EN
+LED Avago PLCC-4 3528 ASMB-MTB0-0A3A2
 0
 4
 4
@@ -59998,22 +61202,22 @@ LED Samsung LH181B
 2
 LED_SMD
 LED_Cree-PLCC4_2x2mm_CW
-2.0mm x 2.0mm PLCC4 LED, http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLMVBFKA.pdf
-LED Cree PLCC-4
+2.0mm x 2.0mm PLCC4 LED, https://assets.cree-led.com/a/ds/h/HB-CLMVC-FKA.pdf
+LED Cree PLCC-4 2020 CLMVB-FKA CLMVC-FKA
 0
 4
 4
 LED_SMD
 LED_Cree-PLCC4_3.2x2.8mm_CCW
-3.2mm x 2.8mm PLCC4 LED, http://www.cree.com/led-components/media/documents/CLV1AFKB(874).pdf
-LED Cree PLCC-4
+3.2mm x 2.8mm PLCC4 RGB LED, https://assets.cree-led.com/a/ds/h/HB-CLV1A-FKB.pdf
+LED Cree PLCC-4 3528 CLV1A-FKB
 0
 4
 4
 LED_SMD
 LED_Cree-PLCC4_5x5mm_CW
 5.0mm x 5.0mm PLCC4 LED
-LED Cree PLCC-4
+LED Cree PLCC-4 5050
 0
 4
 4
@@ -60110,8 +61314,8 @@ LED Dialight 591
 2
 LED_SMD
 LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
-http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf
-RGB LED NeoPixel addressable
+5.0mm x 5.0mm PLCC4 Addressable RGB LED, http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf
+LED RGB NeoPixel addressable PLCC-4 5050
 0
 4
 4
@@ -60286,7 +61490,7 @@ RGB LED PLCC-6
 LED_SMD
 LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100
 3.2mm x 2.8mm PLCC4 LED, https://www.we-online.de/katalog/datasheet/150141M173100.pdf
-LED RGB Wurth PLCC-4
+LED RGB Wurth PLCC-4 3528
 0
 4
 4
@@ -60300,14 +61504,14 @@ LED ROHM SMLVN6
 LED_SMD
 LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
 https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
-LED RGB NeoPixel Nano
+LED RGB NeoPixel Nano PLCC-4
 0
 4
 4
 LED_SMD
 LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
-https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
-LED RGB NeoPixel Mini
+3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini PLCC-4 3535
 0
 4
 4
@@ -60320,22 +61524,22 @@ LED RGB NeoPixel
 4
 LED_SMD
 LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
-https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
-LED RGB NeoPixel
+5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
+LED RGB NeoPixel PLCC-4 5050
 0
 4
 4
 LED_SMD
 LED_WS2812B-2020_PLCC4_2.0x2.0mm
-Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
-LED RGB NeoPixel Nano 2020
+2.0mm x 2.0mm Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+LED RGB NeoPixel Nano PLCC-4 2020
 0
 4
 4
 LED_SMD
 LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
-https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
-LED RGB NeoPixel
+5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel PLCC-4 5050
 0
 4
 4
@@ -64658,1896 +65862,6 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PCM_marbastlib-choc
-LED_choc_6028R
-Add-on for regular choc-footprints with 6028 reverse mount LED
-kailh choc 6028 rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_marbastlib-choc
-LED_choc_6028R-ROT
-Add-on for regular choc-footprints with 6028 reverse mount LED
-kailh choc 6028 rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_marbastlib-choc
-SW_choc_v1_1.5u
-Footprint for Kailh Choc style switches
-
-0
-2
-2
-PCM_marbastlib-choc
-SW_choc_v1_1.25u
-Footprint for Kailh Choc style switches
-
-0
-2
-2
-PCM_marbastlib-choc
-SW_choc_v1_1.75u
-Footprint for Kailh Choc style switches
-
-0
-2
-2
-PCM_marbastlib-choc
-SW_choc_v1_1u
-Footprint for Kailh Choc style switches
-
-0
-2
-2
-PCM_marbastlib-choc
-SW_choc_v1_HS_1.5u
-Hotswap footprint for Kailh Choc style switches
-
-0
-6
-2
-PCM_marbastlib-choc
-SW_choc_v1_HS_1.25u
-Hotswap footprint for Kailh Choc style switches
-
-0
-6
-2
-PCM_marbastlib-choc
-SW_choc_v1_HS_1.75u
-Hotswap footprint for Kailh Choc style switches
-
-0
-6
-2
-PCM_marbastlib-choc
-SW_choc_v1_HS_1u
-Hotswap footprint for Kailh Choc style switches
-
-0
-6
-2
-PCM_marbastlib-hitek
-SW_HiTek_1.5u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-hitek
-SW_HiTek_1.25u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-hitek
-SW_HiTek_1.75u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-hitek
-SW_HiTek_1.75u_STP_1.5
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-hitek
-SW_HiTek_1.75u_STP_1.25
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-hitek
-SW_HiTek_1u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-hitek
-SW_HiTek_2.25u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-hitek
-SW_HiTek_2.75u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-hitek
-SW_HiTek_2u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-hitek
-SW_HiTek_7u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-mx
-LED_MX_3mm
-Add-on for regular MX-footprints with 3mm LED
-cherry MX 3mm led backlight
-0
-2
-2
-PCM_marbastlib-mx
-LED_MX_3mm-ROT
-Add-on for regular MX-footprints with 3mm LED
-cherry MX 3mm led backlight
-0
-2
-2
-PCM_marbastlib-mx
-LED_MX_6028R
-Add-on for regular MX-footprints with 6028 reverse mount LED
-cherry MX 6028 rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_marbastlib-mx
-LED_MX_6028R-ROT
-Add-on for regular MX-footprints with 6028 reverse mount LED
-cherry MX 6028 rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_marbastlib-mx
-STAB_MX_2.25u
-Footprint for Cherry Clip/Screw in type stabilizers, 2.25u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_2.75u
-Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_2u
-Footprint for Cherry Clip/Screw in type stabilizers, 2u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_3u
-Footprint for Cherry Clip/Screw in type stabilizers, 3u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_4.5u
-Footprint for Cherry Clip/Screw in type stabilizers, 4.5u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_4u
-Footprint for Cherry Clip/Screw in type stabilizers, 4u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_5u
-Footprint for Cherry Clip/Screw in type stabilizers, 5u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_6.25u
-Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_6u
-Footprint for Cherry Clip/Screw in type stabilizers, 6u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_7u
-Footprint for Cherry Clip/Screw in type stabilizers, 7u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_8u
-Footprint for Cherry Clip/Screw in type stabilizers, 10u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_9u
-Footprint for Cherry Clip/Screw in type stabilizers, 10u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_10u
-Footprint for Cherry Clip/Screw in type stabilizers, 10u
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_ISO
-Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_ISO-ROT
-Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
-
-0
-0
-0
-PCM_marbastlib-mx
-STAB_MX_P_2.25u
-Footprint for Cherry Clip/Screw in type stabilizers, 2.25u, plated
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_2.75u
-Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_2u
-Footprint for Cherry Clip/Screw in type stabilizers, 2u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_3u
-Footprint for Cherry Clip/Screw in type stabilizers, 3u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_4.5u
-Footprint for Cherry Clip/Screw in type stabilizers, 4.5u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_4u
-Footprint for Cherry Clip/Screw in type stabilizers, 4u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_5u
-Footprint for Cherry Clip/Screw in type stabilizers, 5u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_6.25u
-Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_6u
-Footprint for Cherry Clip/Screw in type stabilizers, 6u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_7u
-Footprint for Cherry Clip/Screw in type stabilizers, 7u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_8u
-Footprint for Cherry Clip/Screw in type stabilizers, 10u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_9u
-Footprint for Cherry Clip/Screw in type stabilizers, 10u
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_10u
-Footprint for Cherry Clip/Screw in type stabilizers, 10u
-
-0
-4
-0
-PCM_marbastlib-mx
-STAB_MX_P_ISO
-Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
-
-0
-2
-0
-PCM_marbastlib-mx
-STAB_MX_P_ISO-ROT
-Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
-
-0
-2
-0
-PCM_marbastlib-mx
-SW_MX_1.5u
-Footprint for Cherry MX style switches
-
-0
-2
-2
-PCM_marbastlib-mx
-SW_MX_1.25u
-Footprint for Cherry MX style switches
-
-0
-2
-2
-PCM_marbastlib-mx
-SW_MX_1.75u
-Footprint for Cherry MX style switches
-
-0
-2
-2
-PCM_marbastlib-mx
-SW_MX_1.75u_STP_1.5
-Footprint for Cherry MX style switches
-
-0
-2
-2
-PCM_marbastlib-mx
-SW_MX_1.75u_STP_1.25
-Footprint for Cherry MX style switches
-
-0
-2
-2
-PCM_marbastlib-mx
-SW_MX_1u
-Footprint for Cherry MX style switches
-cherry mx switch
-0
-2
-2
-PCM_marbastlib-mx
-SW_MX_HS_1.5u
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
-0
-6
-2
-PCM_marbastlib-mx
-SW_MX_HS_1.25u
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
-0
-6
-2
-PCM_marbastlib-mx
-SW_MX_HS_1.75u
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
-0
-6
-2
-PCM_marbastlib-mx
-SW_MX_HS_1.75u_STP_1.5
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
-0
-6
-2
-PCM_marbastlib-mx
-SW_MX_HS_1.75u_STP_1.25
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
-0
-6
-2
-PCM_marbastlib-mx
-SW_MX_HS_1u
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
-0
-6
-2
-PCM_marbastlib-mx
-SW_MX_HS_S_1u
-Footprint for Cherry MX style switches with Kailh hotswap socket
-
-0
-6
-2
-PCM_marbastlib-various
-CON_FH33J-4S-0.5SH
-Hirose FH33J FFC/FPC connector, FH33J-4S-0.5SH, 4 Pins per row (https://www.hirose.com/product/series/FH33#)
-connector Hirose FH33J horizontal
-0
-6
-5
-PCM_marbastlib-various
-CON_FH33J-10S-0.5SH
-Hirose FH33J FFC/FPC connector, FH33J-10S-0.5SH, 10 Pins per row (https://www.hirose.com/product/series/FH33#)
-connector Hirose FH33J horizontal
-0
-12
-11
-PCM_marbastlib-various
-CON_FH33J-12S-0.5SH
-Hirose FH33J FFC/FPC connector, FH33J-12S-0.5SH, 12 Pins per row (https://www.hirose.com/product/series/FH33#)
-connector Hirose FH33J horizontal
-0
-14
-13
-PCM_marbastlib-various
-CON_HytePro_M411P_Plug_1x04-P2.20mm_Horizontal
-HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
-HytePro magnetic connector
-0
-4
-4
-PCM_marbastlib-various
-CON_HytePro_M411P_Receptacle_1x04-P2.20mm_Horizontal
-HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
-HytePro magnetic connector
-0
-4
-4
-PCM_marbastlib-various
-CON_JST_ACH_BM02B
-JST ACH series connector, BM02B-ACHSS-GAN-ETF (http://www.jst-mfg.com/product/pdf/eng/eACH.pdf), generated with kicad-footprint-generator
-connector JST ACH vertical
-0
-4
-3
-PCM_marbastlib-various
-CON_TC2030_outlined
-Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
-tag connect programming header pogo pins
-0
-6
-6
-PCM_marbastlib-various
-LED_6028R
-rear-mount SMD 6028 RGB LED
-LED RGB 6028 rear mount reverse
-0
-4
-4
-PCM_marbastlib-various
-LED_WS2812_2020
-2020 SMD adressable RGB LED with integrated controller
-LED RGB NeoPixel
-0
-4
-4
-PCM_marbastlib-various
-Molex_Pico-EZmate_78171-0002_1x02-1MP_P1.20mm_Vertical
-Molex Pico-EZmate series connector, 78171-0002 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf)
-connector Molex Pico-EZmate side entry
-0
-14
-3
-PCM_marbastlib-various
-Molex_Pico-EZmate_78171-0003_1x03-1MP_P1.20mm_Vertical
-Molex Pico-EZmate series connector, 78171-0003 (http://www.molex.com/pdm_docs/sd/781710003_sd.pdf)
-connector Molex Pico-EZmate side entry
-0
-15
-4
-PCM_marbastlib-various
-Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical
-Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710004_sd.pdf)
-connector Molex Pico-EZmate side entry
-0
-16
-5
-PCM_marbastlib-various
-Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical
-Molex Pico-EZmate series connector, 78171-0005 (http://www.molex.com/pdm_docs/sd/781710005_sd.pdf)
-connector Molex Pico-EZmate side entry
-0
-17
-6
-PCM_marbastlib-various
-Molex_Pico-EZmate_78171-5006_1x06-1MP_P1.20mm_Vertical
-Molex Pico-EZmate series connector, 78171-5006 (http://www.molex.com/pdm_docs/sd/781715006_sd.pdf)
-connector Molex Pico-EZmate side entry
-0
-18
-7
-PCM_marbastlib-various
-Molex_Pico-EZmate_PLUS_212134-0002_1x02-1MP_P1.00mm_Vertical
-Molex Pico-EZmate series connector, 212134-0002 (http://www.molex.com/pdm_docs/sd/2121340002_sd.pdf)
-connector Molex Pico-EZmate side entry
-0
-14
-3
-PCM_marbastlib-various
-Molex_Pico-EZmate_PLUS_212134-0003_1x03-1MP_P1.00mm_Vertical
-Molex Pico-EZmate series connector, 212134-0003 (http://www.molex.com/pdm_docs/sd/2121340003_sd.pdf)
-connector Molex Pico-EZmate side entry
-0
-15
-4
-PCM_marbastlib-various
-Molex_Pico-EZmate_PLUS_212134-0004_1x04-1MP_P1.00mm_Vertical
-Molex Pico-EZmate series connector, 212134-0004 (http://www.molex.com/pdm_docs/sd/2121340004_sd.pdf)
-connector Molex Pico-EZmate side entry
-0
-16
-5
-PCM_marbastlib-various
-Molex_Pico-EZmate_PLUS_212134-0005_1x05-1MP_P1.00mm_Vertical
-Molex Pico-EZmate series connector, 212134-0005 (http://www.molex.com/pdm_docs/sd/2121340005_sd.pdf)
-connector Molex Pico-EZmate side entry
-0
-17
-6
-PCM_marbastlib-various
-Molex_Pico-EZmate_PLUS_212134-0006_1x06-1MP_P1.00mm_Vertical
-Molex Pico-EZmate series connector, 212134-0006 (http://www.molex.com/pdm_docs/sd/2121340006_sd.pdf)
-connector Molex Pico-EZmate side entry
-0
-18
-7
-PCM_marbastlib-various
-QFN-60_EP_7x7_Pitch0.4mm
-QFN-60 package accroding to IS31FL3741A datasheets
-
-0
-158
-61
-PCM_marbastlib-various
-ROT_Alps_EC11E-Switch
-Alps rotary encoder, EC11E/EC11N with switch, vertical shaft
-rotary encoder
-0
-7
-6
-PCM_marbastlib-various
-ROT_SKYLOONG_HS-Switch
-SKYLOONG hotswap knob module with internal switch
-
-0
-4
-4
-PCM_marbastlib-various
-SOT-23-6-routable
-SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOT TO_SOT_SMD
-0
-6
-6
-PCM_marbastlib-various
-SW_ESP3020
-ECE ESP3020 SMD slide switch
-slide switch smd ece
-0
-3
-3
-PCM_marbastlib-various
-SW_MSK12C02-HB
-12V 50mA SMD toggle switch, available at LCSC/JLCPCB (C431541)
-switch toggle smd 
-0
-7
-4
-PCM_marbastlib-various
-SW_SKHLLCA010
-alps SKHLLCA010 DIP pushbutton
-alps tht dip pushbutton SPST
-0
-4
-3
-PCM_marbastlib-various
-SW_SPST_SKQG_WithStem
-ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html
-SPST Button Switch
-0
-4
-2
-PCM_marbastlib-various
-SW_SSSS213100
-alps SKHLLCA010 DIP 1-pole, 2-position switch
-alps dip tht SPDT
-0
-3
-3
-PCM_marbastlib-various
-SW_SSSS223900
-alps SKHLLCA010 DIP 2-pole, 3-position switch
-alps tht dip DP3T
-0
-8
-8
-PCM_marbastlib-various
-SW_kailh_big_1u
-Footprint for Kailh "Big Switch Series" style switches
-
-0
-2
-2
-PCM_marbastlib-various
-SplitkbTentingPuck
-https://splitkb.com/products/tenting-puck
-split kb tenting puck mechanical mounting
-0
-5
-1
-PCM_marbastlib-various
-USB_C_Receptacle_HRO_TYPE-C-31-M-12
-USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
-usb usb-c 2.0 pd
-0
-20
-17
-PCM_marbastlib-various
-USB_C_Receptacle_HRO_TYPE-C-31-M-14
-USB Type-C receptacle for USB 2.0 and PD
-usb usb-c 2.0 pd
-0
-20
-17
-PCM_marbastlib-various
-mousebites_1mm
-
-
-0
-0
-0
-PCM_marbastlib-various
-mousebites_2.5mm
-
-
-0
-0
-0
-PCM_marbastlib-various
-mousebites_2mm
-
-
-0
-0
-0
-PCM_marbastlib-various
-mousebites_5p5mm_easysnap
-Mousebites designed to break easier on one side than the other, with hole to apply leverage
-mousebites hex 
-0
-0
-0
-PCM_marbastlib-various
-nRF52840_holyiot_18010
-Module containing a nRF52840 and most passives and antenna
-holyiot 18010 bluetooth low energy 
-0
-55
-55
-PCM_marbastlib-various
-nRF52840_holyiot_18010_HS_simple
-Module containing a nRF52840 and most passives and antenna, with only hand solderable pads
-holyiot 18010 bluetooth low energy 
-0
-37
-37
-PCM_marbastlib-various
-nRF52840_moko_mk08
-
-
-0
-60
-58
-PCM_marbastlib-xp-alps
-SW_Alps_1.5u
-Footprint for Alps SKCx style switches
-alps skcm skcl switch
-0
-2
-2
-PCM_marbastlib-xp-alps
-SW_Alps_1.25u
-Footprint for Alps SKCx style switches
-alps skcm skcl switch
-0
-2
-2
-PCM_marbastlib-xp-alps
-SW_Alps_1.75u
-Footprint for Alps SKCx style switches
-alps skcm skcl switch
-0
-2
-2
-PCM_marbastlib-xp-alps
-SW_Alps_1.75u_STP_1.5
-Footprint for Alps SKCx style switches
-alps skcm skcl switch
-0
-2
-2
-PCM_marbastlib-xp-alps
-SW_Alps_1.75u_STP_1.25
-Footprint for Alps SKCx style switches
-alps skcm skcl switch
-0
-2
-2
-PCM_marbastlib-xp-alps
-SW_Alps_1u
-Footprint for Alps SKCx style switches
-alps skcm skcl switch
-0
-2
-2
-PCM_marbastlib-xp-alps
-SW_Alps_MX_1.5u
-Combo Footprint for Alps SKCx and Cherry MX style switches
-cherry mx alps SKCM SKCL switch
-0
-4
-2
-PCM_marbastlib-xp-alps
-SW_Alps_MX_1.25u
-Combo Footprint for Alps SKCx and Cherry MX style switches
-cherry mx alps SKCM SKCL switch
-0
-4
-2
-PCM_marbastlib-xp-alps
-SW_Alps_MX_1.75u
-Combo Footprint for Alps SKCx and Cherry MX style switches
-cherry mx alps SKCM SKCL switch
-0
-4
-2
-PCM_marbastlib-xp-alps
-SW_Alps_MX_1.75u_STP_1.5
-Combo Footprint for Alps SKCx and Cherry MX style switches
-cherry mx alps SKCM SKCL switch
-0
-4
-2
-PCM_marbastlib-xp-alps
-SW_Alps_MX_1.75u_STP_1.25
-Combo Footprint for Alps SKCx and Cherry MX style switches
-cherry mx alps SKCM SKCL switch
-0
-4
-2
-PCM_marbastlib-xp-alps
-SW_Alps_MX_1u
-Combo Footprint for Alps SKCx and Cherry MX style switches
-cherry mx alps SKCM SKCL switch
-0
-4
-2
-PCM_marbastlib-xp-choc
-LED_choc_1206R
-Add-on for regular choc-footprints with MHT151RGBCT 1206 reverse mount LED
-kailh choc 1206 rearmount rear mount led rgb backlight 
-0
-4
-4
-PCM_marbastlib-xp-choc
-LED_choc_1206R-ROT
-Add-on for regular choc-footprints with MHT151RGBCT 1206 reverse mount LED
-kailh choc 1206 rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_marbastlib-xp-choc
-LED_choc_WS2812_2020
-Add-on for regular choc-footprints with WS2812_2020
-kailh choc WS2812 2020 rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_marbastlib-xp-choc
-LED_choc_WS2812_2020-ROT
-Add-on for regular choc-footprints with WS2812 2020
-kailh choc WS2812 2020 rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_marbastlib-xp-choc
-PLATE_choc
-Break-out tabs for switch and plate multi-purpose-PCBs (kailh choc footprints)
-kailh choc pcb plate break
-0
-0
-0
-PCM_marbastlib-xp-choc
-STAB_choc_2u
-Footprint for Kailh Choc style switches
-
-0
-0
-0
-PCM_marbastlib-xp-choc
-STAB_choc_6.25u
-Footprint for Kailh Choc style switches
-
-0
-0
-0
-PCM_marbastlib-xp-choc
-SW_choc_MxCombo_1u
-Combined footprint for Kailh Choc and Cherry MX style switches
-
-0
-4
-2
-PCM_marbastlib-xp-choc
-SW_choc_Reversible_1u
-Reversible dootprint for Kailh Choc style switches
-
-0
-3
-2
-PCM_marbastlib-xp-choc
-SW_choc_v1+v2_1.5u
-Combined footprint for Kailh Choc v1 and v2 style switches
-
-0
-3
-3
-PCM_marbastlib-xp-choc
-SW_choc_v1+v2_1.25u
-Combined footprint for Kailh Choc v1 and v2 style switches
-
-0
-3
-3
-PCM_marbastlib-xp-choc
-SW_choc_v1+v2_1.75u
-Combined footprint for Kailh Choc v1 and v2 style switches
-
-0
-3
-3
-PCM_marbastlib-xp-choc
-SW_choc_v1+v2_1u
-Combined footprint for Kailh Choc v1 and v2 style switches
-
-0
-3
-3
-PCM_marbastlib-xp-choc
-SW_choc_v2_1.5u
-Footprint for Kailh Choc v2 style switches
-
-0
-3
-3
-PCM_marbastlib-xp-choc
-SW_choc_v2_1.25u
-Footprint for Kailh Choc v2 style switches
-
-0
-3
-3
-PCM_marbastlib-xp-choc
-SW_choc_v2_1.75u
-Footprint for Kailh Choc v2 style switches
-
-0
-3
-3
-PCM_marbastlib-xp-choc
-SW_choc_v2_1u
-Footprint for Kailh Choc v2 style switches
-
-0
-3
-3
-PCM_marbastlib-xp-choc
-SW_choc_v2_HS_1.5u
-Hotswap footprint for Kailh Choc v2 style switches
-
-0
-7
-3
-PCM_marbastlib-xp-choc
-SW_choc_v2_HS_1.25u
-Hotswap footprint for Kailh Choc v2 style switches
-
-0
-7
-3
-PCM_marbastlib-xp-choc
-SW_choc_v2_HS_1.75u
-Hotswap footprint for Kailh Choc v2 style switches
-
-0
-7
-3
-PCM_marbastlib-xp-choc
-SW_choc_v2_HS_1u
-Hotswap footprint for Kailh Choc v2 style switches
-
-0
-7
-3
-PCM_marbastlib-xp-hitek
-SW_HiTek_Mount_1.5u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-xp-hitek
-SW_HiTek_Mount_1.25u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-xp-hitek
-SW_HiTek_Mount_1.75u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-xp-hitek
-SW_HiTek_Mount_1.75u_STP_1.5
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-xp-hitek
-SW_HiTek_Mount_1.75u_STP_1.25
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-xp-hitek
-SW_HiTek_Mount_1u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-xp-hitek
-SW_HiTek_Mount_2.25u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-xp-hitek
-SW_HiTek_Mount_2.75u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-xp-hitek
-SW_HiTek_Mount_2u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-xp-hitek
-SW_HiTek_Mount_7u
-Footprint for Hi-Tek Series 725 ("Space Invader") Switches
-Hi-Tek hitek space invader switch keyboard 725
-0
-4
-2
-PCM_marbastlib-xp-mx
-LED_MX_1206R
-Add-on for regular MX-footprints with MHT151RGBCT 1206 reverse mount LED
-cherry MX 1206 rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_marbastlib-xp-mx
-LED_MX_1206R-ROT
-Add-on for regular MX-footprints with MHT151RGBCT 1206 reverse mount LED
-cherry MX 1206 rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_marbastlib-xp-mx
-LED_MX_WS2812_2020
-Add-on for regular MX-footprints with WS2812_2020
-cherry MX WS2812 2020 rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_marbastlib-xp-mx
-LED_MX_WS2812_2020-ROT
-Add-on for regular MX-footprints with WS2812_2020
-cherry MX WS2812 2020 rearmount rear mount led rgb backlight
-0
-4
-4
-PCM_marbastlib-xp-mx
-PLATE_MX
-Break-out tabs for switch and plate multi-purpose-PCBs cherry MX footprints)
-cherry mx pcb plate break
-0
-0
-0
-PCM_marbastlib-xp-mx
-SW_MX_Reversible_1u
-Reversible footprint for Cherry MX style switches
-cherry mx switch
-0
-4
-2
-PCM_marbastlib-xp-mx
-SW_MX_ULP_1u
-Footprint for Cherry MX Ultra Low Profile switches
-Cherry MX ULP
-0
-7
-3
-PCM_marbastlib-xp-mx
-SW_MX_ULP_1u_handsolder
-Footprint for Cherry MX Ultra Low Profile switches
-Cherry MX ULP HS
-0
-7
-3
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_1.5u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_1.25u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_1.75u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_1.75u_STP_1.5
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_1.75u_STP_1.25
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_1u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_2.25u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_2.75u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_2u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_3u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_6.25u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_6u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_7u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_8u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_9u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_10u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_ANSI-ISO-ENTER
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_ANSI-ISO-LSHIFT
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_ISO
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_ISO-ROT
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_SPLIT-BS
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_SPLIT-RSHIFT
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-MP_MX_STP-CAPS
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_1.5u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_1.25u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_1.75u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_1.75u_STP_1.5
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_1.75u_STP_1.25
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_1u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_2.25u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_2.75u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_2u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_3u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_6.25u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_6u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_7u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_8u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_9u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_10u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_ANSI-ISO-ENTER
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_ANSI-ISO-SHIFT
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_ISO
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_ISO-ROT
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_SPLIT-BS
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_SPLIT-RSHIFT
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate-M_MX_STP-CAPS
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_1.5u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_1.25u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_1.75u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_1.75u_STP_1.5
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_1.75u_STP_1.25
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_1u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_2.25u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_2.75u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_2u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_3u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_6.25u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_6u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_7u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_8u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_9u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_10u
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_ANSI-ISO-ENTER
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_ANSI-ISO-SHIFT
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_ISO
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_ISO-ROT
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_SPLIT-BS
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_SPLIT-RSHIFT
-
-
-0
-0
-0
-PCM_marbastlib-xp-plate-mx
-Plate_MX_STP-CAPS
-
-
-0
-0
-0
-PCM_marbastlib-xp-promicroish
-Elite-C_AC
-Footprint for Elite-C controllers, castellated pads only
-
-0
-30
-30
-PCM_marbastlib-xp-promicroish
-Elite-C_ACH
-Footprint for Elite-C controllers, through hole and castellated pads
-
-0
-59
-30
-PCM_marbastlib-xp-promicroish
-Elite-C_AH_Reversible
-Footprint for Elite-C controllers, through hole pads only, USB pointing away from PCB
-
-0
-30
-30
-PCM_marbastlib-xp-promicroish
-Elite-C_AH_USBdn
-Footprint for Elite-C controllers, through hole pads only, USB facing PCB
-
-0
-30
-30
-PCM_marbastlib-xp-promicroish
-Elite-C_AH_USBup
-Footprint for Elite-C controllers, through hole pads only, USB pointing away from PCB
-
-0
-30
-30
-PCM_marbastlib-xp-promicroish
-Elite-C_C
-Footprint for Elite-C controllers (pro-micro-pins only), castellated pads only
-
-0
-25
-25
-PCM_marbastlib-xp-promicroish
-Elite-C_CH
-Footprint for Elite-C controllers (pro-micro-pins only), castellated and through hole pads
-
-0
-49
-25
-PCM_marbastlib-xp-promicroish
-Helios_AC
-Footprint for 0xCB Helios controllers, USB pointing away from PCB
-
-0
-34
-34
-PCM_marbastlib-xp-promicroish
-Helios_ACH
-Footprint for 0xCB Helios controllers, USB pointing away from PCB
-
-0
-65
-34
-PCM_marbastlib-xp-promicroish
-Helios_AH_Reversible
-Footprint for 0xCB Helios controllers, USB pointing away from PCB
-
-0
-34
-34
-PCM_marbastlib-xp-promicroish
-Helios_AH_USBdn
-Footprint for 0xCB Helios controllers, USB facing PCB
-
-0
-34
-34
-PCM_marbastlib-xp-promicroish
-Helios_AH_USBup
-Footprint for 0xCB Helios controllers, USB pointing away from PCB
-
-0
-34
-34
-PCM_marbastlib-xp-promicroish
-Liatris_AH_Reversible
-Footprint for Splitkb Liatris controllers, through hole pads only
-
-0
-29
-29
-PCM_marbastlib-xp-promicroish
-Liatris_AH_USBdn
-Footprint for Splitkb Liatris controllers, through hole pads only
-
-0
-29
-29
-PCM_marbastlib-xp-promicroish
-Liatris_AH_USBup
-Footprint for Splitkb Liatris controllers, through hole pads only
-
-0
-29
-29
-PCM_marbastlib-xp-promicroish
-Liatris_H_USBdn
-Footprint for Splitkb Liatris controllers (pro-micro-pins only), through hole pads only
-
-0
-24
-24
-PCM_marbastlib-xp-promicroish
-Liatris_H_USBup
-Footprint for Splitkb Liatris controllers (pro-micro-pins only), through hole pads only
-
-0
-24
-24
-PCM_marbastlib-xp-promicroish
-Pluto_AH_Reversible
-Footprint for 0xCB Pluto controllers, Reversible
-
-0
-33
-33
-PCM_marbastlib-xp-promicroish
-Pluto_AH_USBdn
-Footprint for 0xCB Pluto controllers, USB facing PCB
-
-0
-33
-33
-PCM_marbastlib-xp-promicroish
-Pluto_AH_USBup
-Footprint for 0xCB Pluto controllers, USB pointing away from PCB
-
-0
-33
-33
-PCM_marbastlib-xp-promicroish
-ProMicro_Reversible
-Footprint for Arduino Pro Micro and compatible boards, Reversible with 2 staggered footprints
-
-0
-48
-24
-PCM_marbastlib-xp-promicroish
-ProMicro_Reversible_Single
-Footprint for Arduino Pro Micro and compatible boards, Reversible with single footprint
-
-0
-24
-24
-PCM_marbastlib-xp-promicroish
-ProMicro_USBdn
-Footprint for Arduino Pro Micro and compatible boards, USB facing PCB
-
-0
-24
-24
-PCM_marbastlib-xp-promicroish
-ProMicro_USBup
-Footprint for Arduino Pro Micro and compatible boards, USB pointing away from PCB
-
-0
-24
-24
-PCM_marbastlib-xp-promicroish
-nice_nano_AH_Reversible
-Footprint for nice!nano (nRF52850 pro-micro compatible controller), Reversible
-
-0
-29
-29
-PCM_marbastlib-xp-promicroish
-nice_nano_AH_USBdn
-Footprint for nice!nano (nRF52850 pro-micro compatible controller), USB facing PCB
-
-0
-29
-29
-PCM_marbastlib-xp-promicroish
-nice_nano_AH_USBup
-Footprint for nice!nano (nRF52850 pro-micro compatible controller), USB pointing away from PCB
-
-0
-29
-29
-PCM_marbastlib-xp-promicroish
-nice_nano_H_USBdn
-Footprint for nice!nano (nRF52850 pro-micro compatible controller), pro-micro compatible pads only, USB facing PCB
-
-0
-24
-24
-PCM_marbastlib-xp-promicroish
-nice_nano_H_USBup
-Footprint for nice!nano (nRF52850 pro-micro compatible controller), pro-micro compatible pads only, USB pointing away from PCB
-
-0
-24
-24
-PCM_marbastlib-xp-various
-ANT_2.4_IFA_1
-Inverted F BLE antenna designed following cypress' guide: https://www.cypress.com/file/136236/download
-PCB antenna IFA inverted F bluetooth 2.4 GHz
-0
-51
-2
-PCM_marbastlib-xp-various
-ANT_2.4_IFA_2
-Inverted F BLE antenna designed following cypress' guide: https://www.cypress.com/file/136236/download
-PCB antenna IFA inverted F bluetooth 2.4 GHz
-0
-51
-2
-PCM_marbastlib-xp-various
-CON_MJ-4PP-9
-TRRS Jack
-TRRS jack 3.5mm headphone connector
-0
-4
-4
-PCM_marbastlib-xp-various
-CON_MJ-4PP-9_Reversible
-Reversible TRRS Jack
-TRRS jack 3.5mm headphone connector
-0
-8
-4
-PCM_marbastlib-xp-various
-LED_1206R
-rear-mount SMD MHT151RGBCT 1206 RGB LED
-LED RGB 1206 rear mount reverse
-0
-4
-4
-PCM_marbastlib-xp-various
-LED_WS2812_2020_rearmount
-2020 SMD adressable RGB LED with integrated controller
-LED RGB NeoPixel
-0
-4
-4
-PCM_marbastlib-xp-various
-LED_WS2812_4020
-2040 side-firing SMD adressable RGB LED with integrated controller
-LED RGB NeoPixel
-0
-4
-4
-PCM_marbastlib-xp-various
-MAX77751
-3A 1S LiXx battery charging IC with USB (DP/DP + CC) current negotiation and power path
-LiIon LiPo battery charger management usb power path switch-mode step-down buck
-0
-24
-24
-PCM_marbastlib-xp-various
-PNT_RKJXU1210006
-
-
-0
-3
-1
-PCM_marbastlib-xp-various
-PNT_psp1000
-Footprint for a PSP-1000 joystick
-psp joystick analog
-0
-6
-5
-PCM_marbastlib-xp-various
-STM32WB5MMG
-Bluetooth capable ARM Microcontroller
-stm32 arm wireless bluetooth low energy ble zigbee
-0
-86
-86
-PCM_marbastlib-xp-various
-nRF52840_holyiot_18010_HS
-Module containing a nRF52840 and most passives and antenna
-holyiot 18010 bluetooth low energy 
-0
-55
-55
-PCM_marbastlib-xp-various
-nRF52840_holyiot_18010_HS_all
-Module containing a nRF52840 and most passives and antenna, with a cutout for hand soldering of the bottom IO
-holyiot 18010 bluetooth low energy 
-0
-55
-55
-PCM_marbastlib-xp-various
-nRF52840_moko_mk08_HS
-
-
-0
-60
-58
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -67872,6 +67186,13 @@ LFCSP NoLead
 31
 17
 Package_CSP
+LFCSP-16_3x3mm_P0.5mm
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/CP_16_32.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+16
+16
+Package_CSP
 LFCSP-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm
 20-Lead Frame Chip Scale Package - 4x4x0.9 mm Body [LFCSP], (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_20_6.pdf)
 LFCSP 0.5
@@ -68729,6 +68050,13 @@ Package_DFN_QFN
 DFN-6-1EP_2x2mm_P0.5mm_EP0.61x1.42mm
 DC6 Package; 6-Lead Plastic DFN (2mm x 2mm) (see Linear Technology DFN_6_05-08-1703.pdf)
 DFN 0.5
+0
+9
+7
+Package_DFN_QFN
+DFN-6-1EP_2x2mm_P0.65mm_EP1.01x1.7mm
+DFN, 6 Pin (https://www.diodes.com/assets/Package-Files/U-DFN2020-6%20(Type%20C).pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
 0
 9
 7
@@ -70940,6 +70268,20 @@ QFN NoLead
 Package_DFN_QFN
 QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm_ThermalVias
 QFN, 64 Pin (https://datasheet.lcsc.com/szlcsc/Realtek-Semicon-RTL8211EG-VB-CG_C69264.pdf#page=77), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+79
+65
+Package_DFN_QFN
+QFN-64-1EP_9x9mm_P0.5mm_EP4.1x4.1mm
+QFN, 64 Pin (https://www.silabs.com/documents/public/data-sheets/cp2108-datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+74
+65
+Package_DFN_QFN
+QFN-64-1EP_9x9mm_P0.5mm_EP4.1x4.1mm_ThermalVias
+QFN, 64 Pin (https://www.silabs.com/documents/public/data-sheets/cp2108-datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
 0
 79
@@ -74893,6 +74235,20 @@ lga land grid array
 8
 8
 Package_LGA
+LGA-8_8x6.2mm_P1.27mm
+LGA, 8 Pin (https://datasheet.lcsc.com/lcsc/2303241700_Zetta-ZDSD64GLGEAG-R_C5277948.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
+LGA NoLead
+0
+8
+8
+Package_LGA
+LGA-8_8x6mm_P1.27mm
+LGA, 8 Pin (https://datasheet.lcsc.com/lcsc/2005251034_XTX-XTSD01GLGEAG_C558837.pdf#page=6), generated with kicad-footprint-generator ipc_noLead_generator.py
+LGA NoLead
+0
+8
+8
+Package_LGA
 LGA-12_2x2mm_P0.5mm
 LGA12
 lga land grid array
@@ -77001,8 +76357,8 @@ SOP SO
 16
 Package_SO
 SOP-16_4.4x10.4mm_P1.27mm
-16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
-SOP 1.27
+SOP, 16 Pin (https://www.vishay.com/docs/83513/tcmd1000.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
 0
 16
 16
@@ -81425,28 +80781,28 @@ Potentiometer horizontal Bourns 3269X
 3
 Potentiometer_SMD
 Potentiometer_Bourns_3314G_Vertical
-Potentiometer, vertical, Bourns 3314G, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
+Potentiometer, vertical, top-adjust, Bourns 3314G, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
 Potentiometer vertical Bourns 3314G
 0
 3
 3
 Potentiometer_SMD
 Potentiometer_Bourns_3314J_Vertical
-Potentiometer, vertical, Bourns 3314J, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
+Potentiometer, vertical, top-adjust, Bourns 3314J, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
 Potentiometer vertical Bourns 3314J
 0
 3
 3
 Potentiometer_SMD
 Potentiometer_Bourns_3314R-1_Vertical_Hole
-Potentiometer, vertical, shaft hole, Bourns 3314R-1, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
+Potentiometer, vertical, bottom-adjust, single slot, Bourns 3314R-1, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
 Potentiometer vertical hole Bourns 3314R-1
 0
 3
 3
 Potentiometer_SMD
 Potentiometer_Bourns_3314R-GM5_Vertical
-Potentiometer, vertical, Bourns 3314R-GM5, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
+Potentiometer, vertical, cross-slot, extended leadframe, Bourns 3314R-GM5, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
 Potentiometer vertical Bourns 3314R-GM5
 0
 3
@@ -85412,6 +84768,13 @@ Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en
 infineon mems microphone
 0
 15
+5
+Sensor_Audio
+Infineon_PG-LLGA-5-2
+Infineon, IP57, XENSIV, LGA-5, https://www.infineon.com/dgdl/Infineon-IM73A135-DataSheet-v01_00-EN.pdf?fileId=8ac78c8c7f2a768a017fadec36b84500
+MEMS Microphone LGA Dust Water
+0
+5
 5
 Sensor_Audio
 InvenSense_ICS-43434-6_3.5x2.65mm
@@ -92596,6 +91959,27 @@ m65
 16
 16
 m65
+096ips
+Hirose FH12, FFC/FPC connector, FH12-8S-0.5SH, 8 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+10
+8
+m65
+096lcdconn
+Through hole straight socket strip, 2x04, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x04 2.54mm double row
+0
+8
+8
+m65
+096lcdconn-pins
+Through hole straight socket strip, 2x04, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x04 2.54mm double row
+0
+8
+8
+m65
 BlackPillSTM32F303CCT6
 Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
 module BlluePill Blue Pill header SWD breakout
@@ -92763,6 +92147,20 @@ Elite-C
 0
 29
 29
+m65
+Helios_tht
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+34
+34
+m65
+Hirose_FH12-8S-0.5SH_1x08-1MP_P0.50mm_Horizontal-screen
+Hirose FH12, FFC/FPC connector, FH12-8S-0.5SH, 8 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+10
+9
 m65
 Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal_hand
 Hirose FH12, FFC/FPC connector, FH12-10S-0.5SH, 10 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
@@ -93002,6 +92400,13 @@ resistor handsolder
 6
 2
 m65
+R-dual-75k
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+6
+2
+m65
 R-dual-510
 Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor handsolder
@@ -93079,6 +92484,13 @@ Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W len
 2
 2
 m65
+R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), Alternate KiCad Library
+resistor handsolder
+0
+4
+2
+m65
 R_A10
 Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
 Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
@@ -93092,6 +92504,13 @@ rotary encoder
 0
 7
 5
+m65
+SK6805_PLCC4_2.4x2.7mm_P1.3mm
+https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
+LED RGB NeoPixel Nano PLCC-4
+0
+7
+4
 m65
 SK6812-MINI-E
 
@@ -93114,6 +92533,13 @@ SK6812-MINI-E-pins
 8
 4
 m65
+SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
+3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini PLCC-4 3535
+0
+6
+4
+m65
 SN74HC125N
 14 pdip
 Integrated Circuit
@@ -93127,6 +92553,13 @@ SOT-23-5 hand-soldering
 0
 5
 5
+m65
+SOT-23-6-reg
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+8
+6
 m65
 SOT-23-hand
 SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -93222,6 +92655,20 @@ m65
 SW_PG1350
 Kailh "Choc" PG1350 keyswitch
 kailh,choc
+0
+2
+2
+m65
+SW_reset
+tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm
+tact sw push 6mm
+0
+4
+2
+m65
+SolderJumper-Open
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
 0
 2
 2
@@ -93393,6 +92840,13 @@ solder jumper open
 0
 5
 3
+m65
+jumpers-legend
+
+
+0
+0
+0
 m65
 lp
 
@@ -93604,6 +93058,13 @@ Through hole socket strip THT 1x03 2.00mm single row
 3
 3
 m65
+spi-eink-rgb-sharp
+Through hole straight pin header, 2x04, 2.54mm pitch, double rows
+Through hole pin header THT 2x04 2.54mm double row
+0
+8
+8
+m65
 spiral
 
 
@@ -93633,6 +93094,13 @@ splinky
 31
 m65
 ssd-1680
+Through hole straight pin header, 2x04, 2.54mm pitch, double rows
+Through hole pin header THT 2x04 2.54mm double row
+0
+8
+8
+m65
+ssd-1680-eink-board
 Through hole straight pin header, 2x04, 2.54mm pitch, double rows
 Through hole pin header THT 2x04 2.54mm double row
 0
