@@ -44,7 +44,7 @@ you will need 2x[74HC595](https://www.ti.com/product/SN74HC595) shift registers,
 
    [qmk matrix scan example](https://github.com/alinelena/qmk_firmware/tree/mlego_dev/keyboards/mlego/m65/rev7/matrix.c)
 
-not this version can be also implemented in zmk
+**note** this version can be also implemented in zmk
 
    [zmk matrix scan example](https://github.com/alinelena/mlego-zmk/blob/main/config/boards/shields/mlego5x13_rev8/mlego5x13_rev8.overlay)
 
