@@ -15280,7 +15280,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/rgbips.wrl" hide
+    (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/rgbips.wrl"
       (offset (xyz -27.5 0.625 11))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
@@ -15290,17 +15290,17 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
     )
-    (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/M3_M_TO_F_10MM_STANDOFF.STEP"
+    (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/M3_M_TO_F_10MM_STANDOFF.STEP" hide
       (offset (xyz 0.3 -12 4.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
     )
-    (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/M3_M_TO_F_10MM_STANDOFF.STEP"
+    (model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/M3_M_TO_F_10MM_STANDOFF.STEP" hide
       (offset (xyz -66.5 -12 4.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 0))
     )
-    (model "${KIPRJMOD}/packages3d/eink23.wrl"
+    (model "${KIPRJMOD}/packages3d/eink23.wrl" hide
       (offset (xyz -32.25 0 10.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
