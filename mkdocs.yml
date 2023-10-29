@@ -64,7 +64,7 @@ nav:
     - Keyboards:
       - keyboards/index.md
       - m65: m65.md
-      - m65: m66.md
+      - m66: m66.md
       - m60: m60.md
       - 'm60 split': m60_split.md
       - m48: m48.md
