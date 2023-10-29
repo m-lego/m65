@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1381.7499999999998" height="525.625" viewBox="-5 -5 276.34999999999997 105.125">
+<defs>
+</defs>
+<rect x="-5" y="-5" width="276.34999999999997" height="105.125" fill="midnightblue" rx="2.5" ry="2.5" />
+<rect x="0.0" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="19.025" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="38.05" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="57.074999999999996" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="76.1" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="95.125" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="114.14999999999999" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="133.17499999999998" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="152.2" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="171.225" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="190.25" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="209.27499999999998" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="228.29999999999998" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="247.325" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="0.0" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="19.025" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="38.05" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="57.074999999999996" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="76.1" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="95.125" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="114.14999999999999" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="133.17499999999998" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="152.2" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="171.225" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="190.25" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="209.27499999999998" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="228.29999999999998" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="0.0" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="19.025" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="38.05" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="57.074999999999996" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="76.1" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="95.125" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="114.14999999999999" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="133.17499999999998" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="152.2" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="171.225" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="190.25" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="209.27499999999998" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="228.29999999999998" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="0.0" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="19.025" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="38.05" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="57.074999999999996" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="76.1" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="95.125" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="114.14999999999999" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="133.17499999999998" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="152.2" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="171.225" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="190.25" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="209.27499999999998" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="228.29999999999998" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="0.0" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="19.025" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="38.05" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="57.074999999999996" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="76.1" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="95.125" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="114.14999999999999" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="133.17499999999998" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="152.2" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="171.225" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="190.25" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="209.27499999999998" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<rect x="228.29999999999998" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
+<text x="9.5125" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">⎋</text>
+<text x="28.537499999999998" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">f1</text>
+<text x="47.5625" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">f2</text>
+<text x="66.58749999999999" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">f3</text>
+<text x="85.6125" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">f4</text>
+<text x="104.6375" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">f5</text>
+<text x="123.6625" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">f6</text>
+<text x="142.68749999999997" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">f7</text>
+<text x="161.71249999999998" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">f8</text>
+<text x="180.73749999999998" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">f9</text>
+<text x="199.7625" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">f10</text>
+<text x="218.78749999999997" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">f11</text>
+<text x="237.81249999999997" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">f12</text>
+<text x="256.8375" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="9.5125" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="28.537499999999998" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="47.5625" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="66.58749999999999" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="85.6125" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="104.6375" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="123.6625" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="142.68749999999997" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="161.71249999999998" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="180.73749999999998" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="199.7625" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="218.78749999999997" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="237.81249999999997" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="9.5125" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">⇪</text>
+<text x="28.537499999999998" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="47.5625" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="66.58749999999999" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="85.6125" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="104.6375" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="123.6625" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="142.68749999999997" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="161.71249999999998" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="180.73749999999998" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="199.7625" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="218.78749999999997" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="237.81249999999997" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="9.5125" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="28.537499999999998" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="47.5625" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="66.58749999999999" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="85.6125" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="104.6375" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="123.6625" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="142.68749999999997" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="161.71249999999998" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="180.73749999999998" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="199.7625" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="218.78749999999997" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="218.78749999999997" dy="0.0em">🖰</tspan><tspan x="218.78749999999997" dy="1em">⇡</tspan></text>
+<text x="237.81249999999997" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="9.5125" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="28.537499999999998" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="47.5625" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="66.58749999999999" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="85.6125" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="104.6375" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="123.6625" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="142.68749999999997" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="161.71249999999998" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="180.73749999999998" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="199.7625" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="199.7625" dy="0.0em">⇠</tspan><tspan x="199.7625" dy="1em">🖰</tspan></text>
+<text x="218.78749999999997" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="218.78749999999997" dy="0.0em">🖰</tspan><tspan x="218.78749999999997" dy="1em">⇣</tspan></text>
+<text x="237.81249999999997" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="237.81249999999997" dy="0.0em">🖰</tspan><tspan x="237.81249999999997" dy="1em">⇢</tspan></text>
+<circle cx="9.5125" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_ESC
+matrix 0-0
+       0-A
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="28.537499999999998" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_F1
+matrix 0-1
+       0-B
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="47.5625" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_F2
+matrix 0-2
+       0-C
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="66.58749999999999" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_F3
+matrix 0-3
+       0-D
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="85.6125" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_F4
+matrix 0-4
+       0-E
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="104.6375" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_F5
+matrix 0-5
+       0-F
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="123.6625" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_F6
+matrix 0-6
+       0-G
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="142.68749999999997" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_F7
+matrix 0-7
+       0-H
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="161.71249999999998" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_F8
+matrix 0-8
+       0-I
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="180.73749999999998" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_F9
+matrix 0-9
+       0-J
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="199.7625" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_F10
+matrix 0-10
+       0-K
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="218.78749999999997" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_F11
+matrix 0-11
+       0-L
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="237.81249999999997" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_F12
+matrix 0-12
+       0-M
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="256.8375" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 0-13
+       0-N
+   col NO_PIN
+   row GP1</title>
+</circle>
+<circle cx="9.5125" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 1-0
+       1-A
+   col NO_PIN
+   row GP26</title>
+</circle>
+<circle cx="28.537499999999998" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 1-1
+       1-B
+   col NO_PIN
+   row GP26</title>
+</circle>
+<circle cx="47.5625" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 1-2
+       1-C
+   col NO_PIN
+   row GP26</title>
+</circle>
+<circle cx="66.58749999999999" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 1-3
+       1-D
+   col NO_PIN
+   row GP26</title>
+</circle>
+<circle cx="85.6125" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 1-4
+       1-E
+   col NO_PIN
+   row GP26</title>
+</circle>
+<circle cx="104.6375" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 1-5
+       1-F
+   col NO_PIN
+   row GP26</title>
+</circle>
+<circle cx="123.6625" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 1-6
+       1-G
+   col NO_PIN
+   row GP26</title>
+</circle>
+<circle cx="142.68749999999997" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 1-7
+       1-H
+   col NO_PIN
+   row GP26</title>
+</circle>
+<circle cx="161.71249999999998" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 1-8
+       1-I
+   col NO_PIN
+   row GP26</title>
+</circle>
+<circle cx="180.73749999999998" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 1-9
+       1-J
+   col NO_PIN
+   row GP26</title>
+</circle>
+<circle cx="199.7625" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 1-10
+       1-K
+   col NO_PIN
+   row GP26</title>
+</circle>
+<circle cx="218.78749999999997" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 1-11
+       1-L
+   col NO_PIN
+   row GP26</title>
+</circle>
+<circle cx="237.81249999999997" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 1-12
+       1-M
+   col NO_PIN
+   row GP26</title>
+</circle>
+<circle cx="9.5125" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_CAPS
+matrix 2-0
+       2-A
+   col NO_PIN
+   row GP29</title>
+</circle>
+<circle cx="28.537499999999998" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 2-1
+       2-B
+   col NO_PIN
+   row GP29</title>
+</circle>
+<circle cx="47.5625" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 2-2
+       2-C
+   col NO_PIN
+   row GP29</title>
+</circle>
+<circle cx="66.58749999999999" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 2-3
+       2-D
+   col NO_PIN
+   row GP29</title>
+</circle>
+<circle cx="85.6125" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 2-4
+       2-E
+   col NO_PIN
+   row GP29</title>
+</circle>
+<circle cx="104.6375" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 2-5
+       2-F
+   col NO_PIN
+   row GP29</title>
+</circle>
+<circle cx="123.6625" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 2-6
+       2-G
+   col NO_PIN
+   row GP29</title>
+</circle>
+<circle cx="142.68749999999997" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 2-7
+       2-H
+   col NO_PIN
+   row GP29</title>
+</circle>
+<circle cx="161.71249999999998" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 2-8
+       2-I
+   col NO_PIN
+   row GP29</title>
+</circle>
+<circle cx="180.73749999999998" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 2-9
+       2-J
+   col NO_PIN
+   row GP29</title>
+</circle>
+<circle cx="199.7625" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 2-10
+       2-K
+   col NO_PIN
+   row GP29</title>
+</circle>
+<circle cx="218.78749999999997" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 2-11
+       2-L
+   col NO_PIN
+   row GP29</title>
+</circle>
+<circle cx="237.81249999999997" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 2-12
+       2-M
+   col NO_PIN
+   row GP29</title>
+</circle>
+<circle cx="9.5125" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 3-0
+       3-A
+   col NO_PIN
+   row GP28</title>
+</circle>
+<circle cx="28.537499999999998" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 3-1
+       3-B
+   col NO_PIN
+   row GP28</title>
+</circle>
+<circle cx="47.5625" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 3-2
+       3-C
+   col NO_PIN
+   row GP28</title>
+</circle>
+<circle cx="66.58749999999999" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 3-3
+       3-D
+   col NO_PIN
+   row GP28</title>
+</circle>
+<circle cx="85.6125" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 3-4
+       3-E
+   col NO_PIN
+   row GP28</title>
+</circle>
+<circle cx="104.6375" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 3-5
+       3-F
+   col NO_PIN
+   row GP28</title>
+</circle>
+<circle cx="123.6625" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 3-6
+       3-G
+   col NO_PIN
+   row GP28</title>
+</circle>
+<circle cx="142.68749999999997" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 3-7
+       3-H
+   col NO_PIN
+   row GP28</title>
+</circle>
+<circle cx="161.71249999999998" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 3-8
+       3-I
+   col NO_PIN
+   row GP28</title>
+</circle>
+<circle cx="180.73749999999998" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 3-9
+       3-J
+   col NO_PIN
+   row GP28</title>
+</circle>
+<circle cx="199.7625" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 3-10
+       3-K
+   col NO_PIN
+   row GP28</title>
+</circle>
+<circle cx="218.78749999999997" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_WH_U
+matrix 3-11
+       3-L
+   col NO_PIN
+   row GP28</title>
+</circle>
+<circle cx="237.81249999999997" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 3-12
+       3-M
+   col NO_PIN
+   row GP28</title>
+</circle>
+<circle cx="9.5125" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 4-0
+       4-A
+   col NO_PIN
+   row GP27</title>
+</circle>
+<circle cx="28.537499999999998" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 4-1
+       4-B
+   col NO_PIN
+   row GP27</title>
+</circle>
+<circle cx="47.5625" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 4-2
+       4-C
+   col NO_PIN
+   row GP27</title>
+</circle>
+<circle cx="66.58749999999999" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 4-3
+       4-D
+   col NO_PIN
+   row GP27</title>
+</circle>
+<circle cx="85.6125" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 4-4
+       4-E
+   col NO_PIN
+   row GP27</title>
+</circle>
+<circle cx="104.6375" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 4-5
+       4-F
+   col NO_PIN
+   row GP27</title>
+</circle>
+<circle cx="123.6625" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 4-6
+       4-G
+   col NO_PIN
+   row GP27</title>
+</circle>
+<circle cx="142.68749999999997" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 4-7
+       4-H
+   col NO_PIN
+   row GP27</title>
+</circle>
+<circle cx="161.71249999999998" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 4-8
+       4-I
+   col NO_PIN
+   row GP27</title>
+</circle>
+<circle cx="180.73749999999998" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_TRNS
+matrix 4-9
+       4-J
+   col NO_PIN
+   row GP27</title>
+</circle>
+<circle cx="199.7625" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_WH_L
+matrix 4-10
+       4-K
+   col NO_PIN
+   row GP27</title>
+</circle>
+<circle cx="218.78749999999997" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_WH_D
+matrix 4-11
+       4-L
+   col NO_PIN
+   row GP27</title>
+</circle>
+<circle cx="237.81249999999997" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<title>
+  code KC_WH_R
+matrix 4-12
+       4-M
+   col NO_PIN
+   row GP27</title>
+</circle>
+</svg>
