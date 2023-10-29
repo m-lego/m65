@@ -14,11 +14,11 @@
 
 front of the pcb
 
-![pcb](pics/m65-rev4-pcb-front.jpg)
+![pcb](pics/m65-rev4-pcb-front.webp)
 
 back of the pcb
 
-![pcb](pics/m65-rev4-pcb-back.jpg)
+![pcb](pics/m65-rev4-pcb-back.webp)
 
 front of the PCB is the one with the artwork on.
 you can ignore R4 and R5 since they are for use only in advaced cases when special oleds are used.
@@ -223,14 +223,14 @@ if all is ok now looks like this
 
 ### the box
 
-![lego](pics/lego_1.jpg)
+![lego](pics/lego_1.webp)
 
 you can use a 16x32 plate or 2x16x16 plates and a mixture of lego plates, 1x2 and/or 1x4, corners if you have too.
 Also you can use a full brick and plate to give it a typing angle (around 6˚) already assembled in the picture above.
 
 put it as you please
 
-![lego](pics/lego_2.jpg)
+![lego](pics/lego_2.webp)
 
 now you can put the pcb on top of the box base matching the lego inside. press gently till they are properly fit. thickness of the
 pcb is same as the lego prongs so you shall see them flush.
