@@ -35,33 +35,33 @@ first step is to add headers on it.
 i use round pins and dil sockets, 40 way. picture below
 
 
-![header mcu](pics/header_1.jpg)
+![header mcu](pics/header_1.webp)
 
 you can also use single row female headers, recommended if you use boards like raspberry pi.
 
-![header mcu alternatives](pics/sockets.jpg)
+![header mcu alternatives](pics/sockets.webp)
 
 !!! danger
 
     put the headers into the socket no need to fully insert them just be sure the conical bit points towars the socket and the mcu on
     top. see picture below.
 
-![header mcu](pics/header_2.jpg)
+![header mcu](pics/header_2.webp)
 
 
 !!! info
 
     be sure headers are vertical and stable. now you can start soldering.
 
-![header mcu](pics/header_3.jpg)
+![header mcu](pics/header_3.webp)
 
 I solder usually the extremes for each row and then the rest.
 
 finally shall look like this
 
-![header mcu](pics/header_4.jpg)
+![header mcu](pics/header_4.webp)
 
-![header mcu](pics/header_5.jpg)
+![header mcu](pics/header_5.webp)
 
 ### oled
 
@@ -69,24 +69,24 @@ if you are using an oled i suggest to socket it too. Again I use round pins 4 in
 below.
 
 
-![header oled](pics/header_6.jpg)
+![header oled](pics/header_6.webp)
 
 for soldering this you can use the pcb as support. add the headers into the pcb(conical side towards pcb) put the oled on top and be
 sure is vertical. you can use some blue tack or tape(electrical, painters, etc).
 
-![header oled](pics/header_7.jpg)
+![header oled](pics/header_7.webp)
 
 now you can solder the oled(be sure you do not solder the keyboard pcb
 side). Once done you can remove it from pcb shall look like this.
 
-![header oled](pics/header_8.jpg)
+![header oled](pics/header_8.webp)
 
 
 ### diodes
 
 get 65 of them 1n4148 do-35, they look like this.
 
-![diodes](pics/diodes_1.jpg)
+![diodes](pics/diodes_1.webp)
 
 !!! danger
 
@@ -99,14 +99,14 @@ bend the legs at 90˚ like in the picture above.
     insert them in the holes, with the black colar oriented to the lower part of the board.
     see picture.
 
-![diodes](pics/diodes_2.jpg)
+![diodes](pics/diodes_2.webp)
 
 
 bend the legs on the reverse of the pcb to assure the diode is fixed in the position. bending in the opposite direction helps for
 better stability during soldering.
 see picture.
 
-![diodes](pics/diodes_3.jpg)
+![diodes](pics/diodes_3.webp)
 
 
 !!! danger
@@ -117,18 +117,18 @@ see picture.
 
 see picture
 
-![diodes](pics/diodes_4.jpg)
+![diodes](pics/diodes_4.webp)
 
 repeat for all the diodes next to the switches. you may find it easier if you work your way for each column.
 
 for the diodes at the top, bending shall be done differently, see picture. this allows to add them all in one go.
 
-![diodes](pics/diodes_5.jpg)
+![diodes](pics/diodes_5.webp)
 
 finally once you are over shall look like this or better
 
 
-![diodes](pics/diodes_6.jpg)
+![diodes](pics/diodes_6.webp)
 
 
 
@@ -146,7 +146,7 @@ it does not matter how you insert them, just be sure you have the right values i
     R1 and R2 need to be calculated based on the colour of the led used and desired intensity. for yellow and green leds I
     use 510Ω(not very bright) and for white leds 1kΩ (quite bright)
 
-![resistors](pics/resistor_1.jpg)
+![resistors](pics/resistor_1.webp)
 
 
 !!! note
@@ -156,27 +156,27 @@ it does not matter how you insert them, just be sure you have the right values i
     also in this step you will determine the led orientation... note which leg goes to 3.3V and which one goes to ground.
     this step is important since I noticed some of the leds do not follow the convention... long leg positive, short leg negative.
 
-![resistors](pics/resistor_2.jpg)
+![resistors](pics/resistor_2.webp)
 
 ### sockets
 
 
-![socket mcu ](pics/socket_1.jpg)
+![socket mcu ](pics/socket_1.webp)
 
 put the 40 way dil socket into the pcb (front side). secure it with tape.
 
-![socket oled ](pics/socket_2.jpg)
+![socket oled ](pics/socket_2.webp)
 
 turn the pcb. you can solder the  extreme pins on rows. be sure the socket is properly aligned with the pcb
 
-![socket oled ](pics/socket_3.jpg)
+![socket oled ](pics/socket_3.webp)
 
 next repeat the same but with the oled socket.
 
 
 ### leds
 
-![led oled](pics/led_1.jpg)
+![led oled](pics/led_1.webp)
 
 !!! danger
 
@@ -184,7 +184,7 @@ next repeat the same but with the oled socket.
     ground goes in the hole with the square plating. once inserted you can bend the legs on the back of the board and solder them.
     wriggle to remove the legs.
 
-![led oled](pics/led_2.jpg)
+![led oled](pics/led_2.webp)
 
 ### switches
 
@@ -192,7 +192,7 @@ you need 65 switches 5 pins. be sure the legs are not bent. in general switches 
 once they are in place inspect all of them are aligned. just look along columns and rows and see if any is out of place... if yes
 just push them.
 
-![switches front](pics/switches_1.jpg)
+![switches front](pics/switches_1.webp)
 
 
 !!! warning
@@ -200,20 +200,20 @@ just push them.
     some switches do not fit tight (kailh for example) you will need to be creative and use a hardcover book or something to turn then
     on the over side to solder.
 
-![switches front](pics/switches_2.jpg)
+![switches front](pics/switches_2.webp)
 
 now you can solder...
 
 ### encoder
 
-![encoder front](pics/encoder_1.jpg)
+![encoder front](pics/encoder_1.webp)
 
 carefully push the encoder in its place. there are 5 pin but only 3 are used (in some models rev9 and after all are used), solder all of them and also consider soldering the
 oval ones too...
 
 if all is ok now looks like this
 
-![encoder front](pics/encoder_2.jpg)
+![encoder front](pics/encoder_2.webp)
 
 
 !!! success
@@ -243,9 +243,9 @@ pcb is same as the lego prongs so you shall see them flush.
 now you can socket mcu, oled and the knob of the encoder and plug it in.
 
 
-![lego](pics/final_1.jpg)
+![lego](pics/final_1.webp)
 
-![lego](pics/final_2.jpg)
+![lego](pics/final_2.webp)
 
 !!! success "testing time"
 
@@ -259,7 +259,7 @@ now you can socket mcu, oled and the knob of the encoder and plug it in.
 if anything goes wrong you will need to debug... otherwise put the keycaps and enjoy.
 
 
-![lego](pics/final_3.jpg)
+![lego](pics/final_3.webp)
 
 
 

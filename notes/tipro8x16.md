@@ -1,6 +1,6 @@
 ## tipro 8x16
 
-  ![tipro 128 8x16](pics/tipro/m8x16.jpg)
+  ![tipro 128 8x16](pics/tipro/m8x16.webp)
 
 ### introduction
 
@@ -21,17 +21,17 @@ total price of conversion around £10.
 
  3d render
 
- ![tipro conversion pcb](handwire8x16-bottom.png)
+ ![tipro conversion pcb](./pics/tipro/handwire8x16-bottom.webp)
 
  printed pcbs
 
- ![tipro pcb 1](pics/tipro/mpcb-1.jpg)
+ ![tipro pcb 1](pics/tipro/mpcb-1.webp)
 
- ![tipro pcb](pics/tipro/mpcb-2.jpg)
+ ![tipro pcb](pics/tipro/mpcb-2.webp)
 
 ### wiring
 
- ![tipro 128 8x16](pics/tipro/m8x16-back.jpg)
+ ![tipro 128 8x16](pics/tipro/m8x16-back.webp)
 
   full kicad project for the pcb in [here](https://gitlab.com/m-lego/hand8x16/)
 
@@ -69,8 +69,8 @@ total price of conversion around £10.
 
 original
 
-![tipro 128 8x15](pics/tipro/tipro-8x16-original.jpg)
+![tipro 128 8x15](pics/tipro/tipro-8x16-original.webp)
 
-![tipro 128 8x16](pics/tipro/m8x16-top.jpg)
+![tipro 128 8x16](pics/tipro/m8x16-top.webp)
 
 

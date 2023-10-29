@@ -1,13 +1,13 @@
 ## tipro 8x4
 
-  ![tipro 32 8x4](pics/tipro/tipro8x4.jpg){ loading=lazy }
+  ![tipro 32 8x4](pics/tipro/tipro8x4.webp){ loading=lazy }
 
 ### introduction
 
 
 ### wiring
 
- ![tipro 32 8x16](pics/tipro/tipro8x4-pcb.jpg)
+ ![tipro 32 8x16](pics/tipro/tipro8x4-pcb.webp)
 
 
 ### mcu

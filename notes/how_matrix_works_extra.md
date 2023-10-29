@@ -21,7 +21,7 @@ represent our matrix, see figure below, signal going from row to column, right p
 |             |             |
 | ----------- | ----------- |
 | Schematic circuit of a 3x3 keyboard matrix | |
-| ![circuit schematic diode orientation columns to rows](pics/col2row/circuit-col2row.png)      | ![circuit schematic diode orientation rows to columns](pics/row2col/circuit-row2col.png)       |
+| ![circuit schematic diode orientation columns to rows](pics/col2row/circuit-col2row.webp)      | ![circuit schematic diode orientation rows to columns](pics/row2col/circuit-row2col.webp)       |
 | diode orientation columns to rows   | diode orientation rows to columns        |
 
 
@@ -446,7 +446,7 @@ check tools and tutorials on [mechkey.org](https://mechkey.org/) for more inform
 |             |             |
 | ----------- | ----------- |
 | Pcb of a 3x3 keyboard matrix | |
-| ![pcb with tracks: diode orientation columns to rows](pics/col2row/pcb-col2row.png)      | ![pcb with tracks diode orientation rows to columns](pics/row2col/pcb-row2col.png)       |
+| ![pcb with tracks: diode orientation columns to rows](pics/col2row/pcb-col2row.webp)      | ![pcb with tracks diode orientation rows to columns](pics/row2col/pcb-row2col.webp)       |
 | diode orientation columns to rows   | diode orientation rows to columns        |
 
 
@@ -455,10 +455,10 @@ pcb renders
 |             |             |
 | ----------- | ----------- |
 | Pcb render of a 3x3 keyboard matrix  front view | |
-| ![pcb 3d with tracks: diode orientation columns to rows](pics/col2row/pcb-3df-col2row.png)      | ![pcb 3d render front view: diode orientation rows to columns](pics/row2col/pcb-3df-row2col.png)       |
+| ![pcb 3d with tracks: diode orientation columns to rows](pics/col2row/pcb-3df-col2row.webp)      | ![pcb 3d render front view: diode orientation rows to columns](pics/row2col/pcb-3df-row2col.webp)       |
 | diode orientation columns to rows   | diode orientation rows to columns        |
 | Pcb render of a 3x3 keyboard matrix  bottom view | |
-| ![pcb 3d render bottom view: diode orientation columns to rows](pics/col2row/pcb-3db-col2row.png)      | ![pcb 3d render bottom view: diode orientation rows to columns](pics/row2col/pcb-3db-row2col.png)       |
+| ![pcb 3d render bottom view: diode orientation columns to rows](pics/col2row/pcb-3db-col2row.webp)      | ![pcb 3d render bottom view: diode orientation rows to columns](pics/row2col/pcb-3db-row2col.webp)       |
 | diode orientation columns to rows   | diode orientation rows to columns        |
 
 

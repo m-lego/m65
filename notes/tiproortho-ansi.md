@@ -1,6 +1,6 @@
 ## tipro ortho ansi
 
-  ![tipro 128 8x16](pics/tipro/tiproortho-ansi.jpg)
+  ![tipro 128 8x16](pics/tipro/tiproortho-ansi.webp)
 
 ### introduction
 
@@ -11,7 +11,7 @@ this is in working, page updated once finished.
 
 ### wiring
 
-![m128 ortho ansi ](pics/tipro/tipro_orthoansi_bottom.jpg)
+![m128 ortho ansi ](pics/tipro/tipro_orthoansi_bottom.webp)
 
 ### firmware
 
@@ -19,13 +19,13 @@ this is in working, page updated once finished.
 
 original
 
-![m128 ortho ansi ](pics/tipro/tipro-ortho-ansi-original.jpg)
+![m128 ortho ansi ](pics/tipro/tipro-ortho-ansi-original.webp)
 
 cleaned
 
-![m128 ortho ansi ](pics/tipro/tipro-ortho-ansi-v1.jpg)
+![m128 ortho ansi ](pics/tipro/tipro-ortho-ansi-v1.webp)
 
 switches
 
-![m120 ortho ansi](pics/tipro/tipro-ortho-ansi-v2.jpg)
+![m120 ortho ansi](pics/tipro/tipro-ortho-ansi-v2.webp)
 

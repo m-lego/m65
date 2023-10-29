@@ -40,7 +40,7 @@ and not an expert in circuits.
 
 you will need 2x[74HC595](https://www.ti.com/product/SN74HC595) shift registers,
 
-  ![matrix version one](pics/matrix-1.png)
+  ![matrix version one](pics/matrix-1.webp)
 
    [qmk matrix scan example](https://github.com/alinelena/qmk_firmware/tree/mlego_dev/keyboards/mlego/m65/rev7/matrix.c)
 
@@ -56,7 +56,7 @@ this is an old idea nothing, new internet has few hits on it.
 
 this approach is limited, you will not be able to share the MISO pin with other spi devices without extra circuitry
 
-  ![matrix version 2 cheap non buffered](pics/matrix-2a.png)
+  ![matrix version 2 cheap non buffered](pics/matrix-2a.webp)
 
 
    [qmk matrix scan example](https://github.com/alinelena/qmk_firmware/tree/mlego_dev/keyboards/mlego/m65/rev9/matrix.c)
@@ -71,7 +71,7 @@ unfortunately is available mainly in surface mount these days...
    while this circuit "works" and with the right qmk firmware you get the matrix working, unfortunately all this works because of
 chance. **do not use it**
 
-  ![matrix version 2 buffered](pics/matrix-2b.png)
+  ![matrix version 2 buffered](pics/matrix-2b.webp)
 
    [qmk matrix scan examples](https://github.com/alinelena/qmk_firmware/blob/mlego_dev/keyboards/mlego/m65/rev10/matrix.c)
 
@@ -80,7 +80,7 @@ chance. **do not use it**
   this circuit differs from above by using separate chip select pins for the 2x74HC589 and 1x74HC589, so uses one more pin than the
 variant 1, but shall make the matrix scan easier.
 
-  ![matrix version 2 buffered](pics/matrix-2b_v2.png)
+  ![matrix version 2 buffered](pics/matrix-2b_v2.webp)
 
    [qmk matrix scan examples](to be added)
 

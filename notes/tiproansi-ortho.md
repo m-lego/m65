@@ -1,9 +1,9 @@
 ## tipro ansi ortho
 
 
-  ![tipro 128 8x16](pics/tipro/tiproansi-ortho.jpg)
+  ![tipro 128 8x16](pics/tipro/tiproansi-ortho.webp)
 
-  ![tipro 128 8x16](pics/tipro/tipro-ansiortho-nokeys.jpg)
+  ![tipro 128 8x16](pics/tipro/tipro-ansiortho-nokeys.webp)
 
 ### introduction
 
@@ -13,7 +13,7 @@ uses the same mcu.
 
 ### wiring
 
- ![tipro 128 8x16](pics/tipro/tiproansi-ortho-back.jpg)
+ ![tipro 128 8x16](pics/tipro/tiproansi-ortho-back.webp)
 
   full kicad project for the pcb in [here](https://gitlab.com/m-lego/hand8x16/)
 
@@ -40,4 +40,4 @@ the same as 8x16
 
 original
 
-  ![tipro 128 8x16](pics/tipro/tipro-ansi-ortho-orig.jpg)
+  ![tipro 128 8x16](pics/tipro/tipro-ansi-ortho-orig.webp)

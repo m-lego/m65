@@ -1,6 +1,6 @@
 ## tipro 8x12
 
-  ![tipro 96 8x12](pics/tipro/m8x12-final.jpg)
+  ![tipro 96 8x12](pics/tipro/m8x12-final.webp)
 
 ### introduction
 
@@ -45,8 +45,8 @@ I used the same daughter board as for tipro 8x16 more info [here](https://mlego.
 
 original
 
-  ![tipro 96 8x12](pics/tipro/m8x12-orig.jpg)
+  ![tipro 96 8x12](pics/tipro/m8x12-orig.webp)
 
 converted inside
 
-  ![tipro 96 8x12](pics/tipro/m8x12-inside.jpg)
+  ![tipro 96 8x12](pics/tipro/m8x12-inside.webp)

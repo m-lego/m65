@@ -1,8 +1,8 @@
 ### m60 5x12 split in lego
 
-  ![M60 split 5x12](pics/5x12s/m60_split.jpg)
+  ![M60 split 5x12](pics/5x12s/m60_split.webp)
 
-  ![M60 split 5x12 leds](pics/5x12s/m60s-leds.jpg)
+  ![M60 split 5x12 leds](pics/5x12s/m60s-leds.webp)
 
 an ortholinear keyboard set in lego 5x12 split with optional encoders and leds
 
@@ -31,22 +31,22 @@ Features:
 left side
 
 
-  ![M60 split 5x12](pics/5x12s/m60-split-3d.jpg)
+  ![M60 split 5x12](pics/5x12s/m60-split-3d.webp)
 
 
 #### pcb
 
 printed one
 
-  ![M60 split 5x12 left/right pcb](pics/5x12s/m60_split_pcb.png)
+  ![M60 split 5x12 left/right pcb](pics/5x12s/m60_split_pcb.webp)
 
 left side pcb
 
-  ![M60 split 5x12 left pcb](pics/5x12s/m60-left.png)
+  ![M60 split 5x12 left pcb](pics/5x12s/m60-left.webp)
 
 right side pcb
 
-  ![M60 split 5x12 left right](pics/5x12s/m60-right.png)
+  ![M60 split 5x12 left right](pics/5x12s/m60-right.webp)
 
 #### bom
 
@@ -145,10 +145,10 @@ to install it use https://github.com/adafruit/tinyuf2
 
 these are Seth's builds (u/modularsynth123456/)
 
-![M60 split 5x12 by Seth](pics/5x12s/m60s_4.jpg)
+![M60 split 5x12 by Seth](pics/5x12s/m60s_4.webp)
 
-![M60 split 5x12 by Seth](pics/5x12s/m60s_3.jpg)
+![M60 split 5x12 by Seth](pics/5x12s/m60s_3.webp)
 
-![M60 split 5x12 by Seth](pics/5x12s/m60s_1.jpg)
+![M60 split 5x12 by Seth](pics/5x12s/m60s_1.webp)
 
-![M60 split 5x12 by Seth](pics/5x12s/m60s_2.jpg)
+![M60 split 5x12 by Seth](pics/5x12s/m60s_2.webp)

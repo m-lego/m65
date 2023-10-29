@@ -1,6 +1,6 @@
 # mlego
 
-![some pics](pics/keybs.jpg){ loading=lazy }
+![some pics](pics/keybs.webp){ loading=lazy }
 
 !!! warning
 
