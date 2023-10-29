@@ -23,7 +23,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   language: en
-  logo: pics/mlego.png
+  logo: pics/mlego.webp
   features:
     - content.tabs.link
     - navigation.expand
