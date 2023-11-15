@@ -73,8 +73,8 @@
 <text x="9.5125" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="9.5125" dy="0.0em">l</tspan><tspan x="9.5125" dy="1em">⎗</tspan></text>
 <text x="28.537499999999998" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="28.537499999999998" dy="0.0em">l</tspan><tspan x="28.537499999999998" dy="1em">⎘</tspan></text>
 <text x="47.5625" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">⌕</text>
-<text x="66.58749999999999" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
-<text x="85.6125" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="66.58749999999999" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="66.58749999999999" dy="0.0em">l</tspan><tspan x="66.58749999999999" dy="1em">☀</tspan></text>
+<text x="85.6125" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="85.6125" dy="0.0em">l</tspan><tspan x="85.6125" dy="1em">☼</tspan></text>
 <text x="104.6375" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="104.6375" dy="0.0em">u</tspan><tspan x="104.6375" dy="1em"></tspan></text>
 <text x="123.6625" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="123.6625" dy="0.0em">u</tspan><tspan x="123.6625" dy="1em"></tspan></text>
 <text x="142.68749999999997" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="142.68749999999997" dy="0.0em">u</tspan><tspan x="142.68749999999997" dy="1em">❖</tspan></text>
@@ -87,7 +87,7 @@
 <text x="9.5125" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">HUI</text>
 <text x="28.537499999999998" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">HUD</text>
 <text x="47.5625" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">M_P</text>
-<text x="66.58749999999999" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="66.58749999999999" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="66.58749999999999" dy="0.0em">l</tspan><tspan x="66.58749999999999" dy="1em">⌧</tspan></text>
 <text x="85.6125" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="85.6125" dy="0.0em">r</tspan><tspan x="85.6125" dy="1em">♲</tspan></text>
 <text x="104.6375" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
 <text x="123.6625" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
@@ -95,12 +95,12 @@
 <text x="161.71249999999998" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
 <text x="180.73749999999998" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
 <text x="199.7625" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
-<text x="218.78749999999997" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="218.78749999999997" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="218.78749999999997" dy="0.0em">d</tspan><tspan x="218.78749999999997" dy="1em">⚛</tspan></text>
 <text x="237.81249999999997" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">M_SN</text>
 <text x="9.5125" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">SAI</text>
 <text x="28.537499999999998" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">SAD</text>
 <text x="47.5625" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">M_B</text>
-<text x="66.58749999999999" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="66.58749999999999" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="66.58749999999999" dy="0.0em">l</tspan><tspan x="66.58749999999999" dy="1em">⏹</tspan></text>
 <text x="85.6125" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="85.6125" dy="0.0em">u</tspan><tspan x="85.6125" dy="1em">⎘</tspan></text>
 <text x="104.6375" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
 <text x="123.6625" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
@@ -108,12 +108,12 @@
 <text x="161.71249999999998" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
 <text x="180.73749999999998" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
 <text x="199.7625" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
-<text x="218.78749999999997" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="218.78749999999997" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="218.78749999999997" dy="0.0em">e</tspan><tspan x="218.78749999999997" dy="1em">␥</tspan></text>
 <text x="237.81249999999997" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">M_K</text>
 <text x="9.5125" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">VAI</text>
 <text x="28.537499999999998" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">VAD</text>
 <text x="47.5625" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">M_R</text>
-<text x="66.58749999999999" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
+<text x="66.58749999999999" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="66.58749999999999" dy="0.0em">l</tspan><tspan x="66.58749999999999" dy="1em">⌇</tspan></text>
 <text x="85.6125" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="85.6125" dy="0.0em">u</tspan><tspan x="85.6125" dy="1em">⎗</tspan></text>
 <text x="104.6375" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
 <text x="123.6625" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="123.6625" dy="0.0em">b</tspan><tspan x="123.6625" dy="1em">♽</tspan></text>
@@ -139,7 +139,7 @@
 <circle cx="9.5125" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_MOD
-matrix 0-0
+matrix (0,0)
        0-A
    col NO_PIN
    row GP1</title>
@@ -147,7 +147,7 @@ matrix 0-0
 <circle cx="28.537499999999998" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_RMOD
-matrix 0-1
+matrix (0,1)
        0-B
    col NO_PIN
    row GP1</title>
@@ -155,23 +155,23 @@ matrix 0-1
 <circle cx="47.5625" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code A(KC_F2)
-matrix 0-2
+matrix (0,2)
        0-C
    col NO_PIN
    row GP1</title>
 </circle>
 <circle cx="66.58749999999999" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
-  code KC_TRNS
-matrix 0-3
+  code RGB_ON_EFF
+matrix (0,3)
        0-D
    col NO_PIN
    row GP1</title>
 </circle>
 <circle cx="85.6125" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
-  code KC_TRNS
-matrix 0-4
+  code RGB_OFF_EFF
+matrix (0,4)
        0-E
    col NO_PIN
    row GP1</title>
@@ -179,7 +179,7 @@ matrix 0-4
 <circle cx="104.6375" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UC_LINX
-matrix 0-5
+matrix (0,5)
        0-F
    col NO_PIN
    row GP1</title>
@@ -187,7 +187,7 @@ matrix 0-5
 <circle cx="123.6625" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UC_WIN
-matrix 0-6
+matrix (0,6)
        0-G
    col NO_PIN
    row GP1</title>
@@ -195,7 +195,7 @@ matrix 0-6
 <circle cx="142.68749999999997" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UC_WINC
-matrix 0-7
+matrix (0,7)
        0-H
    col NO_PIN
    row GP1</title>
@@ -203,7 +203,7 @@ matrix 0-7
 <circle cx="161.71249999999998" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UC_MAC
-matrix 0-8
+matrix (0,8)
        0-I
    col NO_PIN
    row GP1</title>
@@ -211,7 +211,7 @@ matrix 0-8
 <circle cx="180.73749999999998" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UC_EMAC
-matrix 0-9
+matrix (0,9)
        0-J
    col NO_PIN
    row GP1</title>
@@ -219,7 +219,7 @@ matrix 0-9
 <circle cx="199.7625" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 0-10
+matrix (0,10)
        0-K
    col NO_PIN
    row GP1</title>
@@ -227,7 +227,7 @@ matrix 0-10
 <circle cx="218.78749999999997" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_M_T
-matrix 0-11
+matrix (0,11)
        0-L
    col NO_PIN
    row GP1</title>
@@ -235,7 +235,7 @@ matrix 0-11
 <circle cx="237.81249999999997" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_M_SW
-matrix 0-12
+matrix (0,12)
        0-M
    col NO_PIN
    row GP1</title>
@@ -243,7 +243,7 @@ matrix 0-12
 <circle cx="256.8375" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_TOG
-matrix 0-13
+matrix (0,13)
        0-N
    col NO_PIN
    row GP1</title>
@@ -251,7 +251,7 @@ matrix 0-13
 <circle cx="9.5125" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_HUI
-matrix 1-0
+matrix (1,0)
        1-A
    col NO_PIN
    row GP26</title>
@@ -259,7 +259,7 @@ matrix 1-0
 <circle cx="28.537499999999998" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_HUD
-matrix 1-1
+matrix (1,1)
        1-B
    col NO_PIN
    row GP26</title>
@@ -267,15 +267,15 @@ matrix 1-1
 <circle cx="47.5625" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_M_P
-matrix 1-2
+matrix (1,2)
        1-C
    col NO_PIN
    row GP26</title>
 </circle>
 <circle cx="66.58749999999999" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
-  code KC_TRNS
-matrix 1-3
+  code RGB_IND
+matrix (1,3)
        1-D
    col NO_PIN
    row GP26</title>
@@ -283,7 +283,7 @@ matrix 1-3
 <circle cx="85.6125" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code QK_RBT
-matrix 1-4
+matrix (1,4)
        1-E
    col NO_PIN
    row GP26</title>
@@ -291,7 +291,7 @@ matrix 1-4
 <circle cx="104.6375" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 1-5
+matrix (1,5)
        1-F
    col NO_PIN
    row GP26</title>
@@ -299,7 +299,7 @@ matrix 1-5
 <circle cx="123.6625" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 1-6
+matrix (1,6)
        1-G
    col NO_PIN
    row GP26</title>
@@ -307,7 +307,7 @@ matrix 1-6
 <circle cx="142.68749999999997" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 1-7
+matrix (1,7)
        1-H
    col NO_PIN
    row GP26</title>
@@ -315,7 +315,7 @@ matrix 1-7
 <circle cx="161.71249999999998" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 1-8
+matrix (1,8)
        1-I
    col NO_PIN
    row GP26</title>
@@ -323,7 +323,7 @@ matrix 1-8
 <circle cx="180.73749999999998" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 1-9
+matrix (1,9)
        1-J
    col NO_PIN
    row GP26</title>
@@ -331,15 +331,15 @@ matrix 1-9
 <circle cx="199.7625" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 1-10
+matrix (1,10)
        1-K
    col NO_PIN
    row GP26</title>
 </circle>
 <circle cx="218.78749999999997" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
-  code KC_TRNS
-matrix 1-11
+  code DB_TOGG
+matrix (1,11)
        1-L
    col NO_PIN
    row GP26</title>
@@ -347,7 +347,7 @@ matrix 1-11
 <circle cx="237.81249999999997" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_M_SN
-matrix 1-12
+matrix (1,12)
        1-M
    col NO_PIN
    row GP26</title>
@@ -355,7 +355,7 @@ matrix 1-12
 <circle cx="9.5125" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_SAI
-matrix 2-0
+matrix (2,0)
        2-A
    col NO_PIN
    row GP29</title>
@@ -363,7 +363,7 @@ matrix 2-0
 <circle cx="28.537499999999998" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_SAD
-matrix 2-1
+matrix (2,1)
        2-B
    col NO_PIN
    row GP29</title>
@@ -371,15 +371,15 @@ matrix 2-1
 <circle cx="47.5625" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_M_B
-matrix 2-2
+matrix (2,2)
        2-C
    col NO_PIN
    row GP29</title>
 </circle>
 <circle cx="66.58749999999999" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
-  code KC_TRNS
-matrix 2-3
+  code RGB_LSD
+matrix (2,3)
        2-D
    col NO_PIN
    row GP29</title>
@@ -387,7 +387,7 @@ matrix 2-3
 <circle cx="85.6125" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UC_NEXT
-matrix 2-4
+matrix (2,4)
        2-E
    col NO_PIN
    row GP29</title>
@@ -395,7 +395,7 @@ matrix 2-4
 <circle cx="104.6375" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 2-5
+matrix (2,5)
        2-F
    col NO_PIN
    row GP29</title>
@@ -403,7 +403,7 @@ matrix 2-5
 <circle cx="123.6625" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 2-6
+matrix (2,6)
        2-G
    col NO_PIN
    row GP29</title>
@@ -411,7 +411,7 @@ matrix 2-6
 <circle cx="142.68749999999997" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 2-7
+matrix (2,7)
        2-H
    col NO_PIN
    row GP29</title>
@@ -419,7 +419,7 @@ matrix 2-7
 <circle cx="161.71249999999998" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 2-8
+matrix (2,8)
        2-I
    col NO_PIN
    row GP29</title>
@@ -427,7 +427,7 @@ matrix 2-8
 <circle cx="180.73749999999998" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 2-9
+matrix (2,9)
        2-J
    col NO_PIN
    row GP29</title>
@@ -435,15 +435,15 @@ matrix 2-9
 <circle cx="199.7625" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 2-10
+matrix (2,10)
        2-K
    col NO_PIN
    row GP29</title>
 </circle>
 <circle cx="218.78749999999997" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
-  code KC_TRNS
-matrix 2-11
+  code EE_CLR
+matrix (2,11)
        2-L
    col NO_PIN
    row GP29</title>
@@ -451,7 +451,7 @@ matrix 2-11
 <circle cx="237.81249999999997" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_M_K
-matrix 2-12
+matrix (2,12)
        2-M
    col NO_PIN
    row GP29</title>
@@ -459,7 +459,7 @@ matrix 2-12
 <circle cx="9.5125" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_VAI
-matrix 3-0
+matrix (3,0)
        3-A
    col NO_PIN
    row GP28</title>
@@ -467,7 +467,7 @@ matrix 3-0
 <circle cx="28.537499999999998" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_VAD
-matrix 3-1
+matrix (3,1)
        3-B
    col NO_PIN
    row GP28</title>
@@ -475,15 +475,15 @@ matrix 3-1
 <circle cx="47.5625" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_M_R
-matrix 3-2
+matrix (3,2)
        3-C
    col NO_PIN
    row GP28</title>
 </circle>
 <circle cx="66.58749999999999" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
-  code KC_TRNS
-matrix 3-3
+  code RGB_HEAT
+matrix (3,3)
        3-D
    col NO_PIN
    row GP28</title>
@@ -491,7 +491,7 @@ matrix 3-3
 <circle cx="85.6125" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UC_PREV
-matrix 3-4
+matrix (3,4)
        3-E
    col NO_PIN
    row GP28</title>
@@ -499,7 +499,7 @@ matrix 3-4
 <circle cx="104.6375" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 3-5
+matrix (3,5)
        3-F
    col NO_PIN
    row GP28</title>
@@ -507,7 +507,7 @@ matrix 3-5
 <circle cx="123.6625" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code QK_BOOT
-matrix 3-6
+matrix (3,6)
        3-G
    col NO_PIN
    row GP28</title>
@@ -515,7 +515,7 @@ matrix 3-6
 <circle cx="142.68749999999997" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 3-7
+matrix (3,7)
        3-H
    col NO_PIN
    row GP28</title>
@@ -523,7 +523,7 @@ matrix 3-7
 <circle cx="161.71249999999998" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 3-8
+matrix (3,8)
        3-I
    col NO_PIN
    row GP28</title>
@@ -531,7 +531,7 @@ matrix 3-8
 <circle cx="180.73749999999998" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 3-9
+matrix (3,9)
        3-J
    col NO_PIN
    row GP28</title>
@@ -539,7 +539,7 @@ matrix 3-9
 <circle cx="199.7625" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 3-10
+matrix (3,10)
        3-K
    col NO_PIN
    row GP28</title>
@@ -547,7 +547,7 @@ matrix 3-10
 <circle cx="218.78749999999997" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 3-11
+matrix (3,11)
        3-L
    col NO_PIN
    row GP28</title>
@@ -555,7 +555,7 @@ matrix 3-11
 <circle cx="237.81249999999997" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_M_X
-matrix 3-12
+matrix (3,12)
        3-M
    col NO_PIN
    row GP28</title>
@@ -563,7 +563,7 @@ matrix 3-12
 <circle cx="9.5125" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 4-0
+matrix (4,0)
        4-A
    col NO_PIN
    row GP27</title>
@@ -571,7 +571,7 @@ matrix 4-0
 <circle cx="28.537499999999998" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 4-1
+matrix (4,1)
        4-B
    col NO_PIN
    row GP27</title>
@@ -579,7 +579,7 @@ matrix 4-1
 <circle cx="47.5625" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 4-2
+matrix (4,2)
        4-C
    col NO_PIN
    row GP27</title>
@@ -587,7 +587,7 @@ matrix 4-2
 <circle cx="66.58749999999999" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 4-3
+matrix (4,3)
        4-D
    col NO_PIN
    row GP27</title>
@@ -595,7 +595,7 @@ matrix 4-3
 <circle cx="85.6125" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 4-4
+matrix (4,4)
        4-E
    col NO_PIN
    row GP27</title>
@@ -603,7 +603,7 @@ matrix 4-4
 <circle cx="104.6375" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 4-5
+matrix (4,5)
        4-F
    col NO_PIN
    row GP27</title>
@@ -611,7 +611,7 @@ matrix 4-5
 <circle cx="123.6625" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 4-6
+matrix (4,6)
        4-G
    col NO_PIN
    row GP27</title>
@@ -619,7 +619,7 @@ matrix 4-6
 <circle cx="142.68749999999997" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 4-7
+matrix (4,7)
        4-H
    col NO_PIN
    row GP27</title>
@@ -627,7 +627,7 @@ matrix 4-7
 <circle cx="161.71249999999998" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 4-8
+matrix (4,8)
        4-I
    col NO_PIN
    row GP27</title>
@@ -635,7 +635,7 @@ matrix 4-8
 <circle cx="180.73749999999998" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 4-9
+matrix (4,9)
        4-J
    col NO_PIN
    row GP27</title>
@@ -643,7 +643,7 @@ matrix 4-9
 <circle cx="199.7625" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TRNS
-matrix 4-10
+matrix (4,10)
        4-K
    col NO_PIN
    row GP27</title>
@@ -651,7 +651,7 @@ matrix 4-10
 <circle cx="218.78749999999997" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_M_TW
-matrix 4-11
+matrix (4,11)
        4-L
    col NO_PIN
    row GP27</title>
@@ -659,7 +659,7 @@ matrix 4-11
 <circle cx="237.81249999999997" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code RGB_M_G
-matrix 4-12
+matrix (4,12)
        4-M
    col NO_PIN
    row GP27</title>
