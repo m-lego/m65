@@ -59,7 +59,7 @@ this approach is limited, you will not be able to share the MISO pin with other 
   ![matrix version 2 cheap non buffered](pics/matrix-2a.webp)
 
 
-   [qmk matrix scan example](https://github.com/alinelena/qmk_firmware/tree/mlego_dev/keyboards/mlego/m65/rev9/matrix.c)
+   [qmk matrix scan example](https://github.com/alinelena/qmk_firmware/blob/mlego_dev/keyboards/mlego/m66/rev1/matrix.c)
 
 #### 2b. scan both columns and rows with shift registers
 
@@ -73,16 +73,16 @@ chance. **do not use it**
 
   ![matrix version 2 buffered](pics/matrix-2b.webp)
 
-   [qmk matrix scan examples](https://github.com/alinelena/qmk_firmware/blob/mlego_dev/keyboards/mlego/m65/rev10/matrix.c)
+   [qmk matrix scan examples](https://github.com/alinelena/qmk_firmware/blob/mlego_dev/keyboards/mlego/m66/rev2/matrix.c)
 
 ##### variant 2.
 
-  this circuit differs from above by using separate chip select pins for the 2x74HC589 and 1x74HC589, so uses one more pin than the
+  this circuit differs from above by using separate chip select pins for the 2x74HC595 and 1x74HC589, so uses one more pin than the
 variant 1, but shall make the matrix scan easier.
 
   ![matrix version 2 buffered](pics/matrix-2b_v2.webp)
 
-   [qmk matrix scan examples](to be added)
+   [qmk matrix scan examples](https://github.com/alinelena/qmk_firmware/blob/mlego_dev/keyboards/mlego/m66/rev3/matrix.c)
 
 
 ***All three variants above permit mixing scanning via shft registers and pins... one will need to have a mixed matrix scanning codes.***
