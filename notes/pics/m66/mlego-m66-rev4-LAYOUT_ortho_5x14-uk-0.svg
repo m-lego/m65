@@ -1,142 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="1381.7499999999998" height="525.625" viewBox="-5 -5 276.34999999999997 105.125">
+     width="1288.25" height="621.5" viewBox="-5 -5 257.65 124.30000000000001">
 <defs>
+<marker markerWidth="4.0" markerHeight="4.04" viewBox="-0.1 -0.51 1.0 1.01" orient="auto" id="d0">
+<path d="M-0.1,0.5 L-0.1,-0.5 L0.9,0 Z" fill="orchid" />
+</marker>
+<marker markerWidth="4.0" markerHeight="4.04" viewBox="-0.1 -0.51 1.0 1.01" orient="auto" id="d1">
+<path d="M-0.1,0.5 L-0.1,-0.5 L0.9,0 Z" fill="teal" />
+</marker>
 </defs>
-<rect x="-5" y="-5" width="276.34999999999997" height="105.125" fill="darkslategrey" rx="2.5" ry="2.5" />
-<rect x="0.0" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="19.025" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="38.05" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="57.074999999999996" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="76.1" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="95.125" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="114.14999999999999" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="133.17499999999998" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="152.2" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="171.225" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="190.25" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="209.27499999999998" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="228.29999999999998" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="247.325" y="0.0" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="0.0" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="19.025" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="38.05" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="57.074999999999996" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="76.1" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="95.125" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="114.14999999999999" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="133.17499999999998" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="152.2" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="171.225" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="190.25" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="209.27499999999998" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="228.29999999999998" y="19.025" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="0.0" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="19.025" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="38.05" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="57.074999999999996" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="76.1" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="95.125" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="114.14999999999999" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="133.17499999999998" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="152.2" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="171.225" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="190.25" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="209.27499999999998" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="228.29999999999998" y="38.05" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="0.0" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="19.025" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="38.05" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="57.074999999999996" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="76.1" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="95.125" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="114.14999999999999" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="133.17499999999998" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="152.2" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="171.225" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="190.25" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="209.27499999999998" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="228.29999999999998" y="57.074999999999996" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="0.0" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="19.025" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="38.05" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="57.074999999999996" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="76.1" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="95.125" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="114.14999999999999" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="133.17499999999998" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="152.2" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="171.225" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="190.25" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="209.27499999999998" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<rect x="228.29999999999998" y="76.1" width="19.025" height="19.025" rx="2.5" ry="2.5" fill="none" stroke="deeppink" stroke-width="0.5" />
-<text x="9.5125" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">⎋</text>
-<text x="28.537499999999998" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">1</text>
-<text x="47.5625" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">2</text>
-<text x="66.58749999999999" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">3</text>
-<text x="85.6125" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">4</text>
-<text x="104.6375" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">5</text>
-<text x="123.6625" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">6</text>
-<text x="142.68749999999997" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">7</text>
-<text x="161.71249999999998" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">8</text>
-<text x="180.73749999999998" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">9</text>
-<text x="199.7625" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">0</text>
-<text x="218.78749999999997" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">-</text>
-<text x="237.81249999999997" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">⌫</text>
-<text x="256.8375" y="9.5125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">🕨</text>
-<text x="9.5125" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">↹</text>
-<text x="28.537499999999998" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">q</text>
-<text x="47.5625" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">w</text>
-<text x="66.58749999999999" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">e</text>
-<text x="85.6125" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">r</text>
-<text x="104.6375" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">t</text>
-<text x="123.6625" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">y</text>
-<text x="142.68749999999997" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">u</text>
-<text x="161.71249999999998" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">i</text>
-<text x="180.73749999999998" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">o</text>
-<text x="199.7625" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">p</text>
-<text x="218.78749999999997" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">[</text>
-<text x="237.81249999999997" y="28.537499999999998" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">]</text>
-<text x="9.5125" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">#</text>
-<text x="28.537499999999998" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">a</text>
-<text x="47.5625" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">s</text>
-<text x="66.58749999999999" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">d</text>
-<text x="85.6125" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">f</text>
-<text x="104.6375" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">g</text>
-<text x="123.6625" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">h</text>
-<text x="142.68749999999997" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">j</text>
-<text x="161.71249999999998" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">k</text>
-<text x="180.73749999999998" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">l</text>
-<text x="199.7625" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">;</text>
-<text x="218.78749999999997" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">'</text>
-<text x="237.81249999999997" y="47.5625" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">⏎</text>
-<text x="9.5125" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="9.5125" dy="0.0em">⇧</tspan><tspan x="9.5125" dy="1em">(</tspan></text>
-<text x="28.537499999999998" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">\</text>
-<text x="47.5625" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">z</text>
-<text x="66.58749999999999" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">x</text>
-<text x="85.6125" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">c</text>
-<text x="104.6375" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">v</text>
-<text x="123.6625" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">b</text>
-<text x="142.68749999999997" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">n</text>
-<text x="161.71249999999998" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">m</text>
-<text x="180.73749999999998" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">,</text>
-<text x="199.7625" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">.</text>
-<text x="218.78749999999997" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">↑</text>
-<text x="237.81249999999997" y="66.58749999999999" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">/</text>
-<text x="9.5125" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">⎈</text>
-<text x="28.537499999999998" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"></text>
-<text x="47.5625" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">⇓</text>
-<text x="66.58749999999999" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">⎇</text>
-<text x="85.6125" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">⇑</text>
-<text x="104.6375" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"> </text>
-<text x="123.6625" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"> </text>
-<text x="142.68749999999997" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central"> </text>
-<text x="161.71249999999998" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">⎇</text>
-<text x="180.73749999999998" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle"><tspan x="180.73749999999998" dy="0.0em">⇧</tspan><tspan x="180.73749999999998" dy="1em">)</tspan></text>
-<text x="199.7625" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">←</text>
-<text x="218.78749999999997" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">↓</text>
-<text x="237.81249999999997" y="85.6125" font-size="6" fill="mediumspringgreen" text-anchor="middle" dominant-baseline="central">→</text>
-<circle cx="9.5125" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<rect x="-5" y="-5" width="257.65" height="124.30000000000001" fill="black" rx="2.5" ry="2.5" />
+<rect x="0.0" y="19.05" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="19.05" y="19.05" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="38.1" y="19.05" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="57.150000000000006" y="19.05" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="76.2" y="19.05" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="95.25" y="19.05" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="114.30000000000001" y="19.05" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="133.35" y="19.05" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="152.4" y="19.05" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="171.45000000000002" y="19.05" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="190.5" y="19.05" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="209.55" y="19.05" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="228.60000000000002" y="19.05" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="0.0" y="38.1" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="19.05" y="38.1" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="38.1" y="38.1" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="57.150000000000006" y="38.1" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="76.2" y="38.1" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="95.25" y="38.1" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="114.30000000000001" y="38.1" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="133.35" y="38.1" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="152.4" y="38.1" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="171.45000000000002" y="38.1" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="190.5" y="38.1" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="209.55" y="38.1" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="228.60000000000002" y="38.1" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="0.0" y="57.150000000000006" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="19.05" y="57.150000000000006" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="38.1" y="57.150000000000006" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="57.150000000000006" y="57.150000000000006" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="76.2" y="57.150000000000006" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="95.25" y="57.150000000000006" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="114.30000000000001" y="57.150000000000006" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="133.35" y="57.150000000000006" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="152.4" y="57.150000000000006" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="171.45000000000002" y="57.150000000000006" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="190.5" y="57.150000000000006" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="209.55" y="57.150000000000006" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="228.60000000000002" y="57.150000000000006" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="0.0" y="76.2" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="19.05" y="76.2" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="38.1" y="76.2" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="57.150000000000006" y="76.2" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="76.2" y="76.2" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="95.25" y="76.2" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="114.30000000000001" y="76.2" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="133.35" y="76.2" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="152.4" y="76.2" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="171.45000000000002" y="76.2" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="190.5" y="76.2" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="209.55" y="76.2" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="228.60000000000002" y="76.2" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="0.0" y="95.25" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="19.05" y="95.25" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="38.1" y="95.25" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="57.150000000000006" y="95.25" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="76.2" y="95.25" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="95.25" y="95.25" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="114.30000000000001" y="95.25" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="133.35" y="95.25" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="152.4" y="95.25" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="171.45000000000002" y="95.25" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="190.5" y="95.25" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="209.55" y="95.25" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<rect x="228.60000000000002" y="95.25" width="19.05" height="19.05" rx="2.5" ry="2.5" fill="darkslategray" stroke="deeppink" stroke-width="0.5" />
+<circle cx="9.525" cy="9.525" r="9.525" stroke="fuchsia" stroke-width="0.5" />
+<path d="M16.260192090801866,16.260192090801866 L16.26013331490654,16.26025086618428" stroke="fuchsia" stroke-width="0.5" fill="none" marker-end="url(#d0)" />
+<path d="M2.7898079091981334,2.789807909198135 L2.7898666850934584,2.789749133815725" stroke="fuchsia" stroke-width="0.5" fill="none" marker-end="url(#d0)" />
+<path d="M2.789807909198135,16.260192090801866 L2.789866685093461,16.26025086618428" stroke="fuchsia" stroke-width="0.5" fill="none" marker-end="url(#d1)" />
+<path d="M16.260192090801866,2.7898079091981334 L16.26013331490654,2.7897491338157234" stroke="fuchsia" stroke-width="0.5" fill="none" marker-end="url(#d1)" />
+<text x="9.525" y="28.575000000000003" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">⎋</text>
+<text x="28.575000000000003" y="28.575000000000003" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="47.625" y="28.575000000000003" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="66.67500000000001" y="28.575000000000003" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="85.72500000000001" y="28.575000000000003" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="104.775" y="28.575000000000003" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">5</text>
+<text x="123.82500000000002" y="28.575000000000003" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">6</text>
+<text x="142.875" y="28.575000000000003" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">7</text>
+<text x="161.925" y="28.575000000000003" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">8</text>
+<text x="180.97500000000002" y="28.575000000000003" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">9</text>
+<text x="200.025" y="28.575000000000003" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">0</text>
+<text x="219.07500000000002" y="28.575000000000003" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">-</text>
+<text x="238.12500000000003" y="28.575000000000003" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">⌫</text>
+<text x="9.525" y="9.525" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">🕨</text>
+<text x="9.525" y="47.625" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">↹</text>
+<text x="28.575000000000003" y="47.625" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">q</text>
+<text x="47.625" y="47.625" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">w</text>
+<text x="66.67500000000001" y="47.625" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">e</text>
+<text x="85.72500000000001" y="47.625" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">r</text>
+<text x="104.775" y="47.625" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">t</text>
+<text x="123.82500000000002" y="47.625" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">y</text>
+<text x="142.875" y="47.625" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">u</text>
+<text x="161.925" y="47.625" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">i</text>
+<text x="180.97500000000002" y="47.625" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">o</text>
+<text x="200.025" y="47.625" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">p</text>
+<text x="219.07500000000002" y="47.625" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">[</text>
+<text x="238.12500000000003" y="47.625" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">]</text>
+<text x="9.525" y="66.67500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">#</text>
+<text x="28.575000000000003" y="66.67500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">a</text>
+<text x="47.625" y="66.67500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">s</text>
+<text x="66.67500000000001" y="66.67500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">d</text>
+<text x="85.72500000000001" y="66.67500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">f</text>
+<text x="104.775" y="66.67500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">g</text>
+<text x="123.82500000000002" y="66.67500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">h</text>
+<text x="142.875" y="66.67500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">j</text>
+<text x="161.925" y="66.67500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">k</text>
+<text x="180.97500000000002" y="66.67500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">l</text>
+<text x="200.025" y="66.67500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">;</text>
+<text x="219.07500000000002" y="66.67500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">'</text>
+<text x="238.12500000000003" y="66.67500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">⏎</text>
+<text x="9.525" y="85.72500000000001" font-size="6" fill="peachpuff" text-anchor="middle"><tspan x="9.525" dy="0.0em">⇧</tspan><tspan x="9.525" dy="1em">(</tspan></text>
+<text x="28.575000000000003" y="85.72500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">\</text>
+<text x="47.625" y="85.72500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">z</text>
+<text x="66.67500000000001" y="85.72500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">x</text>
+<text x="85.72500000000001" y="85.72500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">c</text>
+<text x="104.775" y="85.72500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">v</text>
+<text x="123.82500000000002" y="85.72500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">b</text>
+<text x="142.875" y="85.72500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">n</text>
+<text x="161.925" y="85.72500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">m</text>
+<text x="180.97500000000002" y="85.72500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">,</text>
+<text x="200.025" y="85.72500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">.</text>
+<text x="219.07500000000002" y="85.72500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">↑</text>
+<text x="238.12500000000003" y="85.72500000000001" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">/</text>
+<text x="9.525" y="104.775" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">⎈</text>
+<text x="28.575000000000003" y="104.775" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central"></text>
+<text x="47.625" y="104.775" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">⇓</text>
+<text x="66.67500000000001" y="104.775" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">⎇</text>
+<text x="85.72500000000001" y="104.775" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">⇑</text>
+<text x="104.775" y="104.775" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central"> </text>
+<text x="123.82500000000002" y="104.775" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central"> </text>
+<text x="142.875" y="104.775" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central"> </text>
+<text x="161.925" y="104.775" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">⎇</text>
+<text x="180.97500000000002" y="104.775" font-size="6" fill="peachpuff" text-anchor="middle"><tspan x="180.97500000000002" dy="0.0em">⇧</tspan><tspan x="180.97500000000002" dy="1em">)</tspan></text>
+<text x="200.025" y="104.775" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">←</text>
+<text x="219.07500000000002" y="104.775" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">↓</text>
+<text x="238.12500000000003" y="104.775" font-size="6" fill="peachpuff" text-anchor="middle" dominant-baseline="central">→</text>
+<circle cx="9.525" cy="28.575000000000003" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_ESC
 matrix (0,0)
@@ -144,7 +154,7 @@ matrix (0,0)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="28.537499999999998" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="28.575000000000003" cy="28.575000000000003" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_1
 matrix (0,1)
@@ -152,7 +162,7 @@ matrix (0,1)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="47.5625" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="47.625" cy="28.575000000000003" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_2
 matrix (0,2)
@@ -160,7 +170,7 @@ matrix (0,2)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="66.58749999999999" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="66.67500000000001" cy="28.575000000000003" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_3
 matrix (0,3)
@@ -168,7 +178,7 @@ matrix (0,3)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="85.6125" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="85.72500000000001" cy="28.575000000000003" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_4
 matrix (0,4)
@@ -176,7 +186,7 @@ matrix (0,4)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="104.6375" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="104.775" cy="28.575000000000003" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_5
 matrix (0,5)
@@ -184,7 +194,7 @@ matrix (0,5)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="123.6625" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="123.82500000000002" cy="28.575000000000003" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_6
 matrix (0,6)
@@ -192,7 +202,7 @@ matrix (0,6)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="142.68749999999997" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="142.875" cy="28.575000000000003" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_7
 matrix (0,7)
@@ -200,7 +210,7 @@ matrix (0,7)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="161.71249999999998" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="161.925" cy="28.575000000000003" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_8
 matrix (0,8)
@@ -208,7 +218,7 @@ matrix (0,8)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="180.73749999999998" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="180.97500000000002" cy="28.575000000000003" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_9
 matrix (0,9)
@@ -216,7 +226,7 @@ matrix (0,9)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="199.7625" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="200.025" cy="28.575000000000003" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_0
 matrix (0,10)
@@ -224,7 +234,7 @@ matrix (0,10)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="218.78749999999997" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="219.07500000000002" cy="28.575000000000003" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_MINS
 matrix (0,11)
@@ -232,7 +242,7 @@ matrix (0,11)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="237.81249999999997" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="238.12500000000003" cy="28.575000000000003" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_BSPC
 matrix (0,12)
@@ -240,7 +250,7 @@ matrix (0,12)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="256.8375" cy="9.5125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="9.525" cy="9.525" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_MUTE
 matrix (0,13)
@@ -248,7 +258,7 @@ matrix (0,13)
    col NO_PIN
    row GP1</title>
 </circle>
-<circle cx="9.5125" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="9.525" cy="47.625" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_TAB
 matrix (1,0)
@@ -256,7 +266,7 @@ matrix (1,0)
    col NO_PIN
    row GP26</title>
 </circle>
-<circle cx="28.537499999999998" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="28.575000000000003" cy="47.625" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_Q
 matrix (1,1)
@@ -264,7 +274,7 @@ matrix (1,1)
    col NO_PIN
    row GP26</title>
 </circle>
-<circle cx="47.5625" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="47.625" cy="47.625" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_W
 matrix (1,2)
@@ -272,7 +282,7 @@ matrix (1,2)
    col NO_PIN
    row GP26</title>
 </circle>
-<circle cx="66.58749999999999" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="66.67500000000001" cy="47.625" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_E
 matrix (1,3)
@@ -280,7 +290,7 @@ matrix (1,3)
    col NO_PIN
    row GP26</title>
 </circle>
-<circle cx="85.6125" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="85.72500000000001" cy="47.625" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_R
 matrix (1,4)
@@ -288,7 +298,7 @@ matrix (1,4)
    col NO_PIN
    row GP26</title>
 </circle>
-<circle cx="104.6375" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="104.775" cy="47.625" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_T
 matrix (1,5)
@@ -296,7 +306,7 @@ matrix (1,5)
    col NO_PIN
    row GP26</title>
 </circle>
-<circle cx="123.6625" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="123.82500000000002" cy="47.625" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_Y
 matrix (1,6)
@@ -304,7 +314,7 @@ matrix (1,6)
    col NO_PIN
    row GP26</title>
 </circle>
-<circle cx="142.68749999999997" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="142.875" cy="47.625" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_U
 matrix (1,7)
@@ -312,7 +322,7 @@ matrix (1,7)
    col NO_PIN
    row GP26</title>
 </circle>
-<circle cx="161.71249999999998" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="161.925" cy="47.625" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_I
 matrix (1,8)
@@ -320,7 +330,7 @@ matrix (1,8)
    col NO_PIN
    row GP26</title>
 </circle>
-<circle cx="180.73749999999998" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="180.97500000000002" cy="47.625" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_O
 matrix (1,9)
@@ -328,7 +338,7 @@ matrix (1,9)
    col NO_PIN
    row GP26</title>
 </circle>
-<circle cx="199.7625" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="200.025" cy="47.625" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_P
 matrix (1,10)
@@ -336,7 +346,7 @@ matrix (1,10)
    col NO_PIN
    row GP26</title>
 </circle>
-<circle cx="218.78749999999997" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="219.07500000000002" cy="47.625" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_LBRC
 matrix (1,11)
@@ -344,7 +354,7 @@ matrix (1,11)
    col NO_PIN
    row GP26</title>
 </circle>
-<circle cx="237.81249999999997" cy="28.537499999999998" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="238.12500000000003" cy="47.625" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_RBRC
 matrix (1,12)
@@ -352,7 +362,7 @@ matrix (1,12)
    col NO_PIN
    row GP26</title>
 </circle>
-<circle cx="9.5125" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="9.525" cy="66.67500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_HASH
 matrix (2,0)
@@ -360,7 +370,7 @@ matrix (2,0)
    col NO_PIN
    row GP29</title>
 </circle>
-<circle cx="28.537499999999998" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="28.575000000000003" cy="66.67500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_A
 matrix (2,1)
@@ -368,7 +378,7 @@ matrix (2,1)
    col NO_PIN
    row GP29</title>
 </circle>
-<circle cx="47.5625" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="47.625" cy="66.67500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_S
 matrix (2,2)
@@ -376,7 +386,7 @@ matrix (2,2)
    col NO_PIN
    row GP29</title>
 </circle>
-<circle cx="66.58749999999999" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="66.67500000000001" cy="66.67500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_D
 matrix (2,3)
@@ -384,7 +394,7 @@ matrix (2,3)
    col NO_PIN
    row GP29</title>
 </circle>
-<circle cx="85.6125" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="85.72500000000001" cy="66.67500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_F
 matrix (2,4)
@@ -392,7 +402,7 @@ matrix (2,4)
    col NO_PIN
    row GP29</title>
 </circle>
-<circle cx="104.6375" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="104.775" cy="66.67500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_G
 matrix (2,5)
@@ -400,7 +410,7 @@ matrix (2,5)
    col NO_PIN
    row GP29</title>
 </circle>
-<circle cx="123.6625" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="123.82500000000002" cy="66.67500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_H
 matrix (2,6)
@@ -408,7 +418,7 @@ matrix (2,6)
    col NO_PIN
    row GP29</title>
 </circle>
-<circle cx="142.68749999999997" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="142.875" cy="66.67500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_J
 matrix (2,7)
@@ -416,7 +426,7 @@ matrix (2,7)
    col NO_PIN
    row GP29</title>
 </circle>
-<circle cx="161.71249999999998" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="161.925" cy="66.67500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_K
 matrix (2,8)
@@ -424,7 +434,7 @@ matrix (2,8)
    col NO_PIN
    row GP29</title>
 </circle>
-<circle cx="180.73749999999998" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="180.97500000000002" cy="66.67500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_L
 matrix (2,9)
@@ -432,7 +442,7 @@ matrix (2,9)
    col NO_PIN
    row GP29</title>
 </circle>
-<circle cx="199.7625" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="200.025" cy="66.67500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_SCLN
 matrix (2,10)
@@ -440,7 +450,7 @@ matrix (2,10)
    col NO_PIN
    row GP29</title>
 </circle>
-<circle cx="218.78749999999997" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="219.07500000000002" cy="66.67500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_QUOT
 matrix (2,11)
@@ -448,7 +458,7 @@ matrix (2,11)
    col NO_PIN
    row GP29</title>
 </circle>
-<circle cx="237.81249999999997" cy="47.5625" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="238.12500000000003" cy="66.67500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_ENT
 matrix (2,12)
@@ -456,7 +466,7 @@ matrix (2,12)
    col NO_PIN
    row GP29</title>
 </circle>
-<circle cx="9.5125" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="9.525" cy="85.72500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code SC_LSPO
 matrix (3,0)
@@ -464,7 +474,7 @@ matrix (3,0)
    col NO_PIN
    row GP28</title>
 </circle>
-<circle cx="28.537499999999998" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="28.575000000000003" cy="85.72500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_BSLS
 matrix (3,1)
@@ -472,7 +482,7 @@ matrix (3,1)
    col NO_PIN
    row GP28</title>
 </circle>
-<circle cx="47.5625" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="47.625" cy="85.72500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_Z
 matrix (3,2)
@@ -480,7 +490,7 @@ matrix (3,2)
    col NO_PIN
    row GP28</title>
 </circle>
-<circle cx="66.58749999999999" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="66.67500000000001" cy="85.72500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_X
 matrix (3,3)
@@ -488,7 +498,7 @@ matrix (3,3)
    col NO_PIN
    row GP28</title>
 </circle>
-<circle cx="85.6125" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="85.72500000000001" cy="85.72500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_C
 matrix (3,4)
@@ -496,7 +506,7 @@ matrix (3,4)
    col NO_PIN
    row GP28</title>
 </circle>
-<circle cx="104.6375" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="104.775" cy="85.72500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_V
 matrix (3,5)
@@ -504,7 +514,7 @@ matrix (3,5)
    col NO_PIN
    row GP28</title>
 </circle>
-<circle cx="123.6625" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="123.82500000000002" cy="85.72500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_B
 matrix (3,6)
@@ -512,7 +522,7 @@ matrix (3,6)
    col NO_PIN
    row GP28</title>
 </circle>
-<circle cx="142.68749999999997" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="142.875" cy="85.72500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_N
 matrix (3,7)
@@ -520,7 +530,7 @@ matrix (3,7)
    col NO_PIN
    row GP28</title>
 </circle>
-<circle cx="161.71249999999998" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="161.925" cy="85.72500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_M
 matrix (3,8)
@@ -528,7 +538,7 @@ matrix (3,8)
    col NO_PIN
    row GP28</title>
 </circle>
-<circle cx="180.73749999999998" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="180.97500000000002" cy="85.72500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_COMM
 matrix (3,9)
@@ -536,7 +546,7 @@ matrix (3,9)
    col NO_PIN
    row GP28</title>
 </circle>
-<circle cx="199.7625" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="200.025" cy="85.72500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_DOT
 matrix (3,10)
@@ -544,7 +554,7 @@ matrix (3,10)
    col NO_PIN
    row GP28</title>
 </circle>
-<circle cx="218.78749999999997" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="219.07500000000002" cy="85.72500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_UP
 matrix (3,11)
@@ -552,7 +562,7 @@ matrix (3,11)
    col NO_PIN
    row GP28</title>
 </circle>
-<circle cx="237.81249999999997" cy="66.58749999999999" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="238.12500000000003" cy="85.72500000000001" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code UK_SLSH
 matrix (3,12)
@@ -560,7 +570,7 @@ matrix (3,12)
    col NO_PIN
    row GP28</title>
 </circle>
-<circle cx="9.5125" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="9.525" cy="104.775" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_LCTL
 matrix (4,0)
@@ -568,7 +578,7 @@ matrix (4,0)
    col NO_PIN
    row GP27</title>
 </circle>
-<circle cx="28.537499999999998" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="28.575000000000003" cy="104.775" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_LGUI
 matrix (4,1)
@@ -576,7 +586,7 @@ matrix (4,1)
    col NO_PIN
    row GP27</title>
 </circle>
-<circle cx="47.5625" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="47.625" cy="104.775" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code TT(_LWR)
 matrix (4,2)
@@ -584,7 +594,7 @@ matrix (4,2)
    col NO_PIN
    row GP27</title>
 </circle>
-<circle cx="66.58749999999999" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="66.67500000000001" cy="104.775" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_LALT
 matrix (4,3)
@@ -592,7 +602,7 @@ matrix (4,3)
    col NO_PIN
    row GP27</title>
 </circle>
-<circle cx="85.6125" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="85.72500000000001" cy="104.775" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code TT(_RSE)
 matrix (4,4)
@@ -600,7 +610,7 @@ matrix (4,4)
    col NO_PIN
    row GP27</title>
 </circle>
-<circle cx="104.6375" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="104.775" cy="104.775" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_SPC
 matrix (4,5)
@@ -608,7 +618,7 @@ matrix (4,5)
    col NO_PIN
    row GP27</title>
 </circle>
-<circle cx="123.6625" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="123.82500000000002" cy="104.775" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_SPC
 matrix (4,6)
@@ -616,7 +626,7 @@ matrix (4,6)
    col NO_PIN
    row GP27</title>
 </circle>
-<circle cx="142.68749999999997" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="142.875" cy="104.775" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_SPC
 matrix (4,7)
@@ -624,7 +634,7 @@ matrix (4,7)
    col NO_PIN
    row GP27</title>
 </circle>
-<circle cx="161.71249999999998" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="161.925" cy="104.775" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_RALT
 matrix (4,8)
@@ -632,7 +642,7 @@ matrix (4,8)
    col NO_PIN
    row GP27</title>
 </circle>
-<circle cx="180.73749999999998" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="180.97500000000002" cy="104.775" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code SC_RSPC
 matrix (4,9)
@@ -640,7 +650,7 @@ matrix (4,9)
    col NO_PIN
    row GP27</title>
 </circle>
-<circle cx="199.7625" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="200.025" cy="104.775" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_LEFT
 matrix (4,10)
@@ -648,7 +658,7 @@ matrix (4,10)
    col NO_PIN
    row GP27</title>
 </circle>
-<circle cx="218.78749999999997" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="219.07500000000002" cy="104.775" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_DOWN
 matrix (4,11)
@@ -656,7 +666,7 @@ matrix (4,11)
    col NO_PIN
    row GP27</title>
 </circle>
-<circle cx="237.81249999999997" cy="85.6125" r="5" fill="chartreuse" stroke="none" opacity="0.16" stroke-width="0.5">
+<circle cx="238.12500000000003" cy="104.775" r="5" fill="lightpink" stroke="none" opacity="0.16" stroke-width="0.5">
 <title>
   code KC_RGHT
 matrix (4,12)
