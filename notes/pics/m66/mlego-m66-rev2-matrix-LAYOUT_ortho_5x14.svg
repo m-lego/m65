@@ -797,7 +797,13 @@ matrix (4,12)
        4-M
 </title>
 </circle>
-<circle cx="16.55" cy="35.6" r="1.0" fill="crimson" stroke-width="0.5">
+<circle cx="16.55" cy="73.7" r="1.0" fill="crimson" stroke-width="0.5">
+<title>rgb role: indicator</title>
+</circle>
+<circle cx="54.650000000000006" cy="111.8" r="1.0" fill="crimson" stroke-width="0.5">
+<title>rgb role: indicator</title>
+</circle>
+<circle cx="92.75" cy="111.8" r="1.0" fill="crimson" stroke-width="0.5">
 <title>rgb role: indicator</title>
 </circle>
 </svg>
