@@ -487,7 +487,7 @@
 		(remove_unused_layers no)
 		(uuid "bbf8bebf-0b64-4fbf-a41b-d2b79b203950")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -496,17 +496,6 @@
 		)
 		(rotate
 			(xyz 0 0 0)
-		)
-	)
-	(model "${KICAD7_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-34_SOD68_P7.62mm_Horizontal.wrl"
-		(offset
-			(xyz -3.81 0 -1.5)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz -180 0 0)
 		)
 	)
 )

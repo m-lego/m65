@@ -1,4 +1,4 @@
-23469046545871843
+23472588502820759
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95527,7 +95527,7 @@ tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm
 tact sw push 6mm
 0
 8
-4
+2
 m65
 SolderJumper-Open
 SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
@@ -96054,9 +96054,23 @@ weact-wch582f
 24
 24
 m65
+weactstm32f405-412-446
+
+
+0
+60
+60
+m65
 xiao-ble-tht-new
 
 
 0
 24
 22
+weact
+weactstm32f405-412-446
+
+
+0
+60
+60

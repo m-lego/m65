@@ -276,4 +276,15 @@
 			(xyz 0 0 0)
 		)
 	)
+	(model "/home/drFaustroll/playground/keyboard/m65/m65-pcb/packages3d/SK6805-2.4x2.7.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
