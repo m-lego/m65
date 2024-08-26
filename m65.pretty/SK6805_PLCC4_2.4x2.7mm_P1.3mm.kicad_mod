@@ -259,6 +259,14 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "4fb24193-835c-4e30-8481-0688afa9fab5")
 	)
+	(pad "4" thru_hole circle
+		(at 0.8 -0.65)
+		(size 0.5 0.5)
+		(drill 0.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "29786e19-eda0-467d-9710-c098a09d845e")
+	)
 	(pad "4" smd rect
 		(at 1.5 -0.65)
 		(size 2 0.6)
