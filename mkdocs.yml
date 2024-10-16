@@ -1,9 +1,9 @@
 site_name: mlego notes
-site_url: https://mlego.elena.space
+site_url: https://mlego.elena.re
 site_dir: public
 docs_dir: ./notes
 repo_url: https://gitlab.com/m-lego/m65
-copyright: Ⓒ 2017-2023 alin m elena
+copyright: Ⓒ 2017-2024 alin m elena
 site_author: alin m elena
 site_description: set of notes on mlego keyboards
 
