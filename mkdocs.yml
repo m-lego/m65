@@ -71,6 +71,9 @@ nav:
       - m20: m20.md
       - m8: m8.md
       - m4: m4.md
+    - Mice:
+      - mice/index.md
+      - prime: prime.md
     - Converted:
       - converted/index.md
       - 'tipro 8x16': tipro8x16.md
