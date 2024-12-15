@@ -16,7 +16,7 @@ converting it requires, some soldering, so I say is mediunm difficulty.
 
 ![prime front](pics/prime_front.webp){ loading=lazy }
 
-- back
+- back -- with lens removed
 
 ![prime back](pics/prime_back.webp){ loading=lazy }
 
