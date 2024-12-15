@@ -1,11 +1,24 @@
 ## steelseries prime
 
-this is a relatively (cheap mouse)[https://steelseries.com/gaming-mice/prime], the wired version, got few of them from a discounter(B&M), for £15.
 
-It has stm32f103c8t6, pmw3389 sensor, 6 buttons and rgb light in the wheel. prime+ the fancier version shares same mcu and sensor
+![prime](pics/prime.webp){ loading=lazy }
+
+this is a relatively [cheap mouse](https://steelseries.com/gaming-mice/prime), the wired version, got few of them from a discounter(B&M), for £15.
+
+It has stm32f103c8t6, truemove pro (works with pixart pmw3389 driver) sensor, 6 buttons and rgb light in the wheel. prime+ the fancier version shares same mcu and sensor
 and is already available in qmk, thank to Dasky. so my task was relatively trivial.
 
 converting it requires, some soldering, so I say is mediunm difficulty.
+
+### pcbs
+
+- front
+
+![prime front](pics/prime_front.webp){ loading=lazy }
+
+- back
+
+![prime back](pics/prime_back.webp){ loading=lazy }
 
 ### tools
 
