@@ -52,10 +52,47 @@ now we assume you use openocd in command line, but you ca achieve the same with 
 
 - get the new bootloader from
 
-[firmware/uf2boot.bin](https://gitlab.com/m-lego/m65/-/blob/devel/firmware/uf2boot.bin)
+[firmware/uf2boot_prime.bin](https://gitlab.com/m-lego/m65/-/blob/devel/firmware/uf2boot_prime.bin)
 
 you can also build it from source using this [repo](https://github.com/daskygit/uf2-prime-plus), clone the repo, go to source and
 build target PRIME_PLUS
+
+you may want to edit the source code (the submodule to make it build, the config.h to have the proper name)
+
+```diff
+
+Submodule libopencm3 contains modified content
+diff --git a/libopencm3/Makefile b/libopencm3/Makefile
+index d93efeac..d5c2e4d6 100644
+--- a/libopencm3/Makefile
++++ b/libopencm3/Makefile
+@@ -59,7 +59,7 @@ build: lib
+ LIB_DIRS:=$(wildcard $(addprefix lib/,$(TARGETS)))
+ $(LIB_DIRS): $(IRQ_DEFN_FILES:=.genhdr)
+        @printf "  BUILD   $@\n";
+-       $(Q)$(MAKE) --directory=$@ SRCLIBDIR="$(SRCLIBDIR)"
++       $(Q)$(MAKE) --directory=$@ SRCLIBDIR=$(SRCLIBDIR)
+
+ lib: $(LIB_DIRS)
+        $(Q)true
+diff --git a/src/stm32f103/prime_plus/config.h b/src/stm32f103/prime_plus/config.h
+index d7c2b50..6fe0eb7 100644
+--- a/src/stm32f103/prime_plus/config.h
++++ b/src/stm32f103/prime_plus/config.h
+@@ -49,11 +49,11 @@
+ #define UF2_FAMILY 0x5ee21072
+
+ #undef VOLUME_LABEL
+-#define VOLUME_LABEL "PRIMEPLUS"
++#define VOLUME_LABEL "PRIME"
+ #undef PRODUCT_NAME
+-#define PRODUCT_NAME "SteelSeries Prime+"
++#define PRODUCT_NAME "SteelSeries Prime"
+ #undef BOARD_ID
+-#define BOARD_ID "steelseries-prime-plus"
++#define BOARD_ID "steelseries-prime"
+
+```
 
 - remove write protection on the mcu
 
